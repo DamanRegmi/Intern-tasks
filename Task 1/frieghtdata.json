@@ -1,0 +1,5224 @@
+[
+    {
+        "Name":"K M Logistics",
+        "Address":"Al Balad",
+        "Country":"AFGHANISTAN",
+        "Tel":"+966126432490",
+        "Fax":"+966126432490"
+    },
+    {
+        "Name":"PEYMAN TRANSIT Int'l Forwarding Co",
+        "Address":"Herat",
+        "Country":"AFGHANISTAN",
+        "Tel":"+93 (40) 228282",
+        "Fax":"+93 (40) 228282"
+    },
+    {
+        "Name":"Austral Bond SRL",
+        "Address":"Avellaneda 72, 4th Floor, Of. 24.",
+        "Country":"ARGENTINA",
+        "Tel":"+5411 5368-9152",
+        "Fax":"+5411 5368-9152"
+    },
+    {
+        "Name":"N.V.O.C.C. TRANS S.R.L.",
+        "Address":"COCHABAMBA 566 - FIRST FLOOR -LOFT 1 - C1150AAH - BUENOS AIRES",
+        "Country":"ARGENTINA",
+        "Tel":"0054 11 4361 0360",
+        "Fax":"0054 11 4361 0360"
+    },
+    {
+        "Name":"Talwin Transport Service S.A",
+        "Address":"SUIPACHA 72 3 A",
+        "Country":"ARGENTINA",
+        "Tel":"5411-5352-3333",
+        "Fax":"5411-5352-3333"
+    },
+    {
+        "Name":"Sati CJSC",
+        "Address":"21, M. Mashtots Avenue,Yerevn 0010",
+        "Country":"ARMENIA",
+        "Tel":"+ (374 10) 539900",
+        "Fax":"+ (374 10) 539900"
+    },
+    {
+        "Name":"All Ports International Logistics NSW Pty Ltd",
+        "Address":"Level 2, 1753 Botany Road, Banksmeadow",
+        "Country":"AUSTRALIA",
+        "Tel":"02 9700 1803",
+        "Fax":"02 9700 1803"
+    },
+    {
+        "Name":"ALLWORLD LOGISTICS",
+        "Address":"Suite 2\/85 Curzon Street, North Melbourne Victoria 3051, Melbourne",
+        "Country":"AUSTRALIA",
+        "Tel":"039326 8899",
+        "Fax":"039326 8899"
+    },
+    {
+        "Name":"Cargo Australia",
+        "Address":"41 Albatross Avenue, Hinchinbrook, NSW 2168",
+        "Country":"AUSTRALIA",
+        "Tel":"+ 61-2-96080144",
+        "Fax":"+ 61-2-96080144"
+    },
+    {
+        "Name":"CargoMaster",
+        "Address":"1st Floor\/637 Military Road\r\n\r\nMosman, NSW, 2088",
+        "Country":"AUSTRALIA",
+        "Tel":"612 99606444",
+        "Fax":"612 99606444"
+    },
+    {
+        "Name":"DAZMAC Pty Ltd",
+        "Address":"E52 76-84 Waterway Drive\r\nCoomera 4209",
+        "Country":"AUSTRALIA",
+        "Tel":"0731039122",
+        "Fax":"0731039122"
+    },
+    {
+        "Name":"EASY FREIGHT",
+        "Address":"109 - 117 COOLGARDIE AVENUE \r\n\r\nREDCLIFFE WA 6104",
+        "Country":"AUSTRALIA",
+        "Tel":"1300884967",
+        "Fax":"1300884967"
+    },
+    {
+        "Name":"Global Trade logistics Pty Ltd",
+        "Address":"Unit 1D\/322 Kingsgrove Rd\r\n\r\nKingsgrove NSW 2208",
+        "Country":"AUSTRALIA",
+        "Tel":"612 85070172",
+        "Fax":"612 85070172"
+    },
+    {
+        "Name":"Moving Your World",
+        "Address":"34 COMO ROAD\r\nOYSTER BAY NSW 2225",
+        "Country":"AUSTRALIA",
+        "Tel":"+61295757614",
+        "Fax":"+61295757614"
+    },
+    {
+        "Name":"Regroup Logistics Pty Ltd",
+        "Address":"25A  82 keilor road\r\n\r\nEssendon North  Victoria  3040",
+        "Country":"AUSTRALIA",
+        "Tel":"+61393725436",
+        "Fax":"+61393725436"
+    },
+    {
+        "Name":"Summit Global Logistics",
+        "Address":"Unit 2, 1A Sydney Steel Road, Marrickville NSW 2204",
+        "Country":"AUSTRALIA",
+        "Tel":"+61 2 8337 4666",
+        "Fax":"+61 2 8337 4666"
+    },
+    {
+        "Name":"Transolve Global",
+        "Address":"Level 7, 17-19 Alberta Street, Sydney NSW 2000",
+        "Country":"AUSTRALIA",
+        "Tel":"+61 2 9267 8445",
+        "Fax":"+61 2 9267 8445"
+    },
+    {
+        "Name":"Transways Logistics International",
+        "Address":"U18, 198-222 Young Street",
+        "Country":"AUSTRALIA",
+        "Tel":"+61 29319 9600",
+        "Fax":"+61 29319 9600"
+    },
+    {
+        "Name":"TSL AUSTRALIA",
+        "Address":"43 High Street \r\nPrahran VIC 3181",
+        "Country":"AUSTRALIA",
+        "Tel":"+61395338886",
+        "Fax":"+61395338886"
+    },
+    {
+        "Name":"UNIAIR CARGO AUSTRALIA Pty Ltd",
+        "Address":"Unit 6\/25 Ossary Street, MASCOT NSW",
+        "Country":"AUSTRALIA",
+        "Tel":"+61280685200",
+        "Fax":"+61280685200"
+    },
+    {
+        "Name":"Zeus Global Logistics Pty Ltd",
+        "Address":"23 Macarthur Street, Sylvania, NSW",
+        "Country":"AUSTRALIA",
+        "Tel":"02 8515 0406",
+        "Fax":"02 8515 0406"
+    },
+    {
+        "Name":"AZERBAIJAN LOGISTICS SERVICES LLC",
+        "Address":"A: Aliyar Aliyev str.67 AZ1052 Baku",
+        "Country":"AZERBAIJAN",
+        "Tel":"+994506748888",
+        "Fax":"+994506748888"
+    },
+    {
+        "Name":"City Link Cargo Services",
+        "Address":"P.O.Box 22183",
+        "Country":"BAHRAIN",
+        "Tel":"00973 17214153",
+        "Fax":"00973 17214153"
+    },
+    {
+        "Name":"Linkworld Logistics Sevices",
+        "Address":"Manama",
+        "Country":"BAHRAIN",
+        "Tel":"+973 17100090",
+        "Fax":"+973 17100090"
+    },
+    {
+        "Name":"TRANSGULF MARITIME SERVICES WLL",
+        "Address":"OFFICE NO 1, BULDG NO 1877, BLOCK NO 321, ROAD NO 2124\r\n\r\nP.O.BOX: 20131\r\n\r\nGUDABIYA, MANAMA",
+        "Country":"BAHRAIN",
+        "Tel":"+973 17744877",
+        "Fax":"+973 17744877"
+    },
+    {
+        "Name":"AMRA Global Logistics Ltd",
+        "Address":"House# 166, Road#1, DOHS, Baridhara, Dhaka-1206",
+        "Country":"BANGLADESH",
+        "Tel":"+ 88-02-8410443",
+        "Fax":"+ 88-02-8410443"
+    },
+    {
+        "Name":"Big International Company Ltd",
+        "Address":"House no: 14 5th Floor, Road no: 06, Sector no: 01\r\nUttara, Model Town, Dhaka-Bangladesh",
+        "Country":"BANGLADESH",
+        "Tel":"8801817013378",
+        "Fax":"8801817013378"
+    },
+    {
+        "Name":"BS SHIPPING LINES LTD.",
+        "Address":"COLLYER TOWER,BLOCK-G,ROAD-2,PLOT-4,LANE-4,HALISHAHAR HOUSING ESTATE,CHITTAGONG",
+        "Country":"BANGLADESH",
+        "Tel":"88-031-2512564",
+        "Fax":"88-031-2512564"
+    },
+    {
+        "Name":"Dynamic Traders",
+        "Address":"Kushol Centre (2nd Floor), Sector-3, Uttara, Dhaka, Bangladesh",
+        "Country":"BANGLADESH",
+        "Tel":"+88 02 58955135",
+        "Fax":"+88 02 58955135"
+    },
+    {
+        "Name":"FAREAST LOGISTICS BD LTD",
+        "Address":"Flat-C, House-202, Road-02\r\n\r\nBaridhara DOHS\r\n\r\nDhaka-1206",
+        "Country":"BANGLADESH",
+        "Tel":"+88 02 8418740",
+        "Fax":"+88 02 8418740"
+    },
+    {
+        "Name":"Freightcon International Services Ltd",
+        "Address":"49 Motijheel C\/A, 8th Floor, Rooom No-907, Dhaka-1000",
+        "Country":"BANGLADESH",
+        "Tel":"+ 88-02-9574243",
+        "Fax":"+ 88-02-9574243"
+    },
+    {
+        "Name":"General Logistics Ltd.",
+        "Address":"Road # 08, House # 09, Apart. # A3, Sector # 01, Uttara",
+        "Country":"BANGLADESH",
+        "Tel":"01713037554",
+        "Fax":"01713037554"
+    },
+    {
+        "Name":"GENESIS INTERNATIONAL",
+        "Address":"10\/3\/1 Toynbee Circular Road (2nd & 3rd Floor), \r\n\r\nMotijheel C\/A, Dhaka-1000",
+        "Country":"BANGLADESH",
+        "Tel":"+88027110595",
+        "Fax":"+88027110595"
+    },
+    {
+        "Name":"GENIUS LOGISTICS BANGLADESH LTD",
+        "Address":"Alba Tower (6th Floor), 2\/6 Pallabi, Mirpur-12, Dhaka-1216, Bangladesh",
+        "Country":"BANGLADESH",
+        "Tel":"+88029021674",
+        "Fax":"+88029021674"
+    },
+    {
+        "Name":"Global Freight Links BD",
+        "Address":"54\/A, 2ND Floor , Road # 132, Gulshan-1",
+        "Country":"BANGLADESH",
+        "Tel":"+88029892573",
+        "Fax":"+88029892573"
+    },
+    {
+        "Name":"Green Star Global Logistics\/ GOW-GROUP",
+        "Address":"House # 10, Road # 10, Sector # 01,\r\n\r\nUttara, Dhaka-1230.",
+        "Country":"BANGLADESH",
+        "Tel":"8801674606554",
+        "Fax":"8801674606554"
+    },
+    {
+        "Name":"JARTRANS  LOGISTICS  LTD",
+        "Address":"House#313\/A Road#21 New DOHS\r\n\r\nMohakhali,Dhaka-1206",
+        "Country":"BANGLADESH",
+        "Tel":"+8802 8832631",
+        "Fax":"+8802 8832631"
+    },
+    {
+        "Name":"JMH Logistics Ltd",
+        "Address":"4 Mohakhali C\/A, Level-3, A.K. Khandakor Road,Dhaka-1212",
+        "Country":"BANGLADESH",
+        "Tel":"+8801929912854",
+        "Fax":"+8801929912854"
+    },
+    {
+        "Name":"Mercury Bangladesh (Pvt.) Ltd",
+        "Address":"60, Baizid Khan Building (2nd Floor), Pathantooly , Nazirpool, Chittagong 4100,",
+        "Country":"BANGLADESH",
+        "Tel":"+88031-2527577",
+        "Fax":"+88031-2527577"
+    },
+    {
+        "Name":"MMI Logistics",
+        "Address":"Suit-C-03, The Emporium. 14\/1, Mirpur Road, Shyamoli. Dhaka-1207",
+        "Country":"BANGLADESH",
+        "Tel":"008801842073127",
+        "Fax":"008801842073127"
+    },
+    {
+        "Name":"Novo Cargo Services  Ltd",
+        "Address":"NOVO TOWER  270, Tejgoan Indrustrail Area,(13 th. Floor), Tejgoan, Dhaka-1208",
+        "Country":"BANGLADESH",
+        "Tel":"+88-2-8870901 - 7",
+        "Fax":"+88-2-8870901 - 7"
+    },
+    {
+        "Name":"ONE FREIGHT EXPRESS",
+        "Address":"RDR HOUSE (5TH FLOOR)\r\nHolding no. 1 (Level 5)| Road no. 1 ,Nikunja # 2 , Khikhet , Dhaka 1229 , Bangladesh",
+        "Country":"BANGLADESH",
+        "Tel":"+8801841530607",
+        "Fax":"+8801841530607"
+    },
+    {
+        "Name":"Prantik Express Ltd.",
+        "Address":"Sadharan Bima Sadan , 8th Floor , 24-25 Dilkusha Commercial Area , Dhaka-1000",
+        "Country":"BANGLADESH",
+        "Tel":"+88 02 9572320",
+        "Fax":"+88 02 9572320"
+    },
+    {
+        "Name":"Real Logistics Limited",
+        "Address":"Abul Mansur Bhaban(3rd Floor),\r\n57\/60 Azu Shah by lane, Agrabad C\/A,\r\nChittagong-4100, Bangladesh",
+        "Country":"BANGLADESH",
+        "Tel":"88-031-2520415",
+        "Fax":"88-031-2520415"
+    },
+    {
+        "Name":"Regent Group",
+        "Address":"Delta Dahlia, 5A 4B, 36 Kemal Ataturk Avenue, Banani C\/A, Dhaka-1213",
+        "Country":"BANGLADESH",
+        "Tel":"+880 1916 100 631",
+        "Fax":"+880 1916 100 631"
+    },
+    {
+        "Name":"RK FREIGHT LIMITED",
+        "Address":"HOUSE 01\/A, ROAD 01, SECTOR 01, UTTARA, DHAKA 1230, DHAKA",
+        "Country":"BANGLADESH",
+        "Tel":"+8802 48952361",
+        "Fax":"+8802 48952361"
+    },
+    {
+        "Name":"S.F Freight System Ltd",
+        "Address":"DHAKA OFFICE: Rupayan Khan Plaza (11th Floor),500\/A Mirpur Road, Dhanmondi-7.\r\nSINGAPORE OFFICE: 04-18, Serangoon Plaza, 320, Serangoon Road, Singapore.",
+        "Country":"BANGLADESH",
+        "Tel":"+8801710542812",
+        "Fax":"+8801710542812"
+    },
+    {
+        "Name":"SA International",
+        "Address":"27\/1, Kakrail Road, Dhaka-1000",
+        "Country":"BANGLADESH",
+        "Tel":"+88 02 9338281",
+        "Fax":"+88 02 9338281"
+    },
+    {
+        "Name":"Transport Net",
+        "Address":"House 548, Road-13(West)DOHS, Babidarah, Dhaka",
+        "Country":"BANGLADESH",
+        "Tel":"880-2-8416301",
+        "Fax":"880-2-8416301"
+    },
+    {
+        "Name":"Transworld Logistics & Distribution",
+        "Address":"Sattar Chamber (3rd Floor), 99, Agrabad Commercial Area, Chittagong-4100",
+        "Country":"BANGLADESH",
+        "Tel":"88031-714207",
+        "Fax":"88031-714207"
+    },
+    {
+        "Name":"Unified Logistics Limited",
+        "Address":"Dhaka Office: Plot-6, Road-4, Section-6\/A, Mirpur, Dhaka-1216, Bangladesh",
+        "Country":"BANGLADESH",
+        "Tel":"+8801844254503",
+        "Fax":"+8801844254503"
+    },
+    {
+        "Name":"URANUS FREIGHT LOGISTICS LTD",
+        "Address":"House# 2 (2nd Floor), Road# 3, Nikunja-2, Khilkhet, Dhaka, 229, Bangladesh",
+        "Country":"BANGLADESH",
+        "Tel":"880 2 -8900184",
+        "Fax":"880 2 -8900184"
+    },
+    {
+        "Name":"PMUE \u201cBelstil\u201d",
+        "Address":"Logoiskij trackt str., 22\u0430, office 501",
+        "Country":"BELARUS",
+        "Tel":"+375447244858",
+        "Fax":"+375447244858"
+    },
+    {
+        "Name":"STA Logistic Ltd",
+        "Address":"25 V. Khoruzhey St., 3rd floor, Minsk",
+        "Country":"BELARUS",
+        "Tel":"+375 17 293 49 79",
+        "Fax":"+375 17 293 49 79"
+    },
+    {
+        "Name":"All Freight Logistics N.V.",
+        "Address":"Brussels Airport Office \u0420 Building 829 F  - 1931 Brucargo.                                EORI number : BE0446536134",
+        "Country":"BELGIUM",
+        "Tel":"+32.2.752.95.20",
+        "Fax":"+32.2.752.95.20"
+    },
+    {
+        "Name":"Cosmo Freight Solutions SPRL",
+        "Address":"Rue des Sables 12A box 202\r\n\r\n10000",
+        "Country":"BELGIUM",
+        "Tel":"+32 4 75767772",
+        "Fax":"+32 4 75767772"
+    },
+    {
+        "Name":"Groupe Oros",
+        "Address":"03 BP 1576 Cotonou Republique",
+        "Country":"BENIN",
+        "Tel":"+229 21 03 76 21",
+        "Fax":"+229 21 03 76 21"
+    },
+    {
+        "Name":"AMTRANS LOGISTICS",
+        "Address":"R. Laguna, 157 \r\nFazenda, Itaja\u00ed - SC, 88301-460",
+        "Country":"BRAZIL",
+        "Tel":"55 47 3249 8700",
+        "Fax":"55 47 3249 8700"
+    },
+    {
+        "Name":"AUSCORP BRAZIL",
+        "Address":"Head office: \r\nRua Augusto Jung, 400 - Sala 101 -   Centro\r\nNovo Hamburgo - RS - Brazil",
+        "Country":"BRAZIL",
+        "Tel":"55 51 30357435",
+        "Fax":"55 51 30357435"
+    },
+    {
+        "Name":"BRASGLOBAL LOGISTICA E TRANSPORTES INTERNACIONAIS LTDA",
+        "Address":"RUA BARAO DE TAQUARI, 30 - CEP 04125-020 - S\u00c3O PAULO - SP",
+        "Country":"BRAZIL",
+        "Tel":"+55 11 5062-5155",
+        "Fax":"+55 11 5062-5155"
+    },
+    {
+        "Name":"HUB LOGISTICS",
+        "Address":"Paracatu, 309 Saude district, Sao Paulo",
+        "Country":"BRAZIL",
+        "Tel":"55 11 37915309",
+        "Fax":"55 11 37915309"
+    },
+    {
+        "Name":"Leadership Freight Transportes e Logistica Ltda",
+        "Address":"Rua Barao de Maua, 450 CJ 508",
+        "Country":"BRAZIL",
+        "Tel":"55 11 2229-8788",
+        "Fax":"55 11 2229-8788"
+    },
+    {
+        "Name":"NOVOPORTO CARGO AGENCIAMENTO DE CARGAS INTERNACIONAIS",
+        "Address":"RUA LUCAS DE OLIVEIRA N\u0458 49 SALA 802 - CENTRO - NOVO HAMBURGO - RIO GRANDE DO SUL",
+        "Country":"BRAZIL",
+        "Tel":"55.51.35958911",
+        "Fax":"55.51.35958911"
+    },
+    {
+        "Name":"OXEN CARGO",
+        "Address":"Av. das Americas 330 -\r\nBloco4 - Sala 209 -\r\nBarra da Tijuca -\r\nRio de Janeiro -\r\nBrasil - ZIP CODE: 22631-003",
+        "Country":"BRAZIL",
+        "Tel":"+5521 2042-1710",
+        "Fax":"+5521 2042-1710"
+    },
+    {
+        "Name":"Royal Cargo do Brasil",
+        "Address":"Rua Lauro Muller 495, Centro - Itaja\u00ed - Santa Catarina",
+        "Country":"BRAZIL",
+        "Tel":"55 47 3344-4243",
+        "Fax":"55 47 3344-4243"
+    },
+    {
+        "Name":"SMX LOGISTICS",
+        "Address":"AV. VEREADOR ABRAH\u00c3O JO\u00c3O FRANCISCO, 2600, SL 401A, DOM BOSCO, 88307-301 - ITAJA\u00cd \/ SC",
+        "Country":"BRAZIL",
+        "Tel":"+554730835500",
+        "Fax":"+554730835500"
+    },
+    {
+        "Name":"TOP TEAM LOGISTICS",
+        "Address":"Avenida Yojiro Takaoka, n\u0435\u040e 4384\r\n\r\nSala 705 - Conj. 5188 - Alphaville",
+        "Country":"BRAZIL",
+        "Tel":"+55 11 41521846",
+        "Fax":"+55 11 41521846"
+    },
+    {
+        "Name":"BALKAN LLOYD LTD",
+        "Address":"31A Dragan Tzankov Blvd.,\r\n1113 Sofia, Bulgaria",
+        "Country":"BULGARIA",
+        "Tel":"+35929608181",
+        "Fax":"+35929608181"
+    },
+    {
+        "Name":"Flamingo Shipping Ltd",
+        "Address":"8000 Bourgas, 32, gen. Gurko Str.",
+        "Country":"BULGARIA",
+        "Tel":"+359 56 843 819",
+        "Fax":"+359 56 843 819"
+    },
+    {
+        "Name":"Holleman Bulgarai OOD",
+        "Address":"Ruse, National road I-5 Ruse-Veliko Tarnovo, km. 6+142",
+        "Country":"BULGARIA",
+        "Tel":"+359 88 6211715",
+        "Fax":"+359 88 6211715"
+    },
+    {
+        "Name":"Visionmax Ltd",
+        "Address":"3 Kap.Dimitar Spisarevski Str, flr.3, office 312, SOFIA 1592",
+        "Country":"BULGARIA",
+        "Tel":"+359 2 417 0550",
+        "Fax":"+359 2 417 0550"
+    },
+    {
+        "Name":"Cam Freight Services",
+        "Address":"Villa No5 , 604 Street\r\n\r\nBeong Kok 2 Ward, Toul Kork Dist\r\n\r\nPhnom Penh",
+        "Country":"CAMBODIA",
+        "Tel":"+855 23 883901",
+        "Fax":"+855 23 883901"
+    },
+    {
+        "Name":"LNL (Cambodia) Co.,Ltd.",
+        "Address":"No.18X, St.K4A, Sangkat Tek Thla, Khan Sen Sok, Phnom Penh",
+        "Country":"CAMBODIA",
+        "Tel":"(855) 23 969668",
+        "Fax":"(855) 23 969668"
+    },
+    {
+        "Name":"PDEX Worldwide Express Logistics Co., Ltd.",
+        "Address":"No 350 , Street 2014 , Ta Ngoun Village , Sangkat Kakab , Khan Por Sen Chey , Phnom Penh City, Cambodia",
+        "Country":"CAMBODIA",
+        "Tel":"+ 855 23 - 670 - 9999",
+        "Fax":"+ 855 23 - 670 - 9999"
+    },
+    {
+        "Name":"Aqua cargo and Freight Ltd",
+        "Address":"Guiche Unique Bonanjo Laison. \r\nRHO long street Buea SWR",
+        "Country":"CAMEROON",
+        "Tel":"+237671462942",
+        "Fax":"+237671462942"
+    },
+    {
+        "Name":"Newtek Logistics Services",
+        "Address":"Boulevard LECLERC, Akwa",
+        "Country":"CAMEROON",
+        "Tel":"+237696091376",
+        "Fax":"+237696091376"
+    },
+    {
+        "Name":"SKYPE LOGISTICS",
+        "Address":"Sis, Avenue des palmiers \u00e0 200m du commissariat du 2e arrondissement",
+        "Country":"CAMEROON",
+        "Tel":"00237 242010231",
+        "Fax":"00237 242010231"
+    },
+    {
+        "Name":"CARGO SURVEYOR CANADA",
+        "Address":"28 Patry street, Victoriaville, Quebec",
+        "Country":"CANADA",
+        "Tel":"+ 819 552 3333",
+        "Fax":"+ 819 552 3333"
+    },
+    {
+        "Name":"Cargolution INc",
+        "Address":"800, Stuart Graham Suite 215\r\n\r\nMontreal Quebec H4Y 1J6",
+        "Country":"CANADA",
+        "Tel":"514 636 2576",
+        "Fax":"514 636 2576"
+    },
+    {
+        "Name":"Descartes Systems Group",
+        "Address":"120 Randall Drive\r\n\r\nWaterloo, ON N2V1C6",
+        "Country":"CANADA",
+        "Tel":"800 419 8495",
+        "Fax":"800 419 8495"
+    },
+    {
+        "Name":"EZZO LOGISTICS",
+        "Address":"4755 St Kevin, Suite 6",
+        "Country":"CANADA",
+        "Tel":"514 806 7698",
+        "Fax":"514 806 7698"
+    },
+    {
+        "Name":"FREIGHT SERVICES INTERNATIONAL",
+        "Address":"7191 YONGE STREET\r\nSUITE 312\r\nTHORNHILL, ONTARIO\r\nL3T 0C4 CANADA",
+        "Country":"CANADA",
+        "Tel":"4165908989",
+        "Fax":"4165908989"
+    },
+    {
+        "Name":"Global Shipping Solution Inc",
+        "Address":"1744 Meyerside Dr, Unit # 103\r\n\r\nMississauga, ON, L5T 1A3",
+        "Country":"CANADA",
+        "Tel":"905-670-2019",
+        "Fax":"905-670-2019"
+    },
+    {
+        "Name":"Golden Jet International Freight and Customs Broker, Inc",
+        "Address":"6299 Airport Road, suite 403\r\n\r\nMississauga, Ontario\r\n\r\nL4V 1N3",
+        "Country":"CANADA",
+        "Tel":"905 676 3812",
+        "Fax":"905 676 3812"
+    },
+    {
+        "Name":"INSTANT FREIGHT SYSTEMS INC.",
+        "Address":"7111 Syntex Drive, Suite 308",
+        "Country":"CANADA",
+        "Tel":"+1 289 290 4467",
+        "Fax":"+1 289 290 4467"
+    },
+    {
+        "Name":"International Fastline Forwarding Inc",
+        "Address":"Vancouver International Airport (YVR)\r\n\r\n106 - 5200 Miller Road,\r\n\r\nRichmond, BC V7B 1K5",
+        "Country":"CANADA",
+        "Tel":"1 (604) 278 0191",
+        "Fax":"1 (604) 278 0191"
+    },
+    {
+        "Name":"KELICOR LOGISTICS SOLUTIONS INC.",
+        "Address":"Suite 18-11451 Kingfisher Drive\r\nRichmond,BC",
+        "Country":"CANADA",
+        "Tel":"604 277 1418",
+        "Fax":"604 277 1418"
+    },
+    {
+        "Name":"Mannix Freight Service Vancouver",
+        "Address":"5000 Miller Rd #114\r\n\r\nRichmond BC\r\n\r\nV7B 1K5",
+        "Country":"CANADA",
+        "Tel":"604-275-8094",
+        "Fax":"604-275-8094"
+    },
+    {
+        "Name":"Sealion Cargo Inc.",
+        "Address":"1255 Bay Street, suite 802",
+        "Country":"CANADA",
+        "Tel":"+ 1 416-645-8784",
+        "Fax":"+ 1 416-645-8784"
+    },
+    {
+        "Name":"TLS Truck Load Services Inc.",
+        "Address":"400 Joseph-Carrier\r\nVaudreuil-Dorion, Quebec\r\nJ7V 5V5",
+        "Country":"CANADA",
+        "Tel":"8003632969",
+        "Fax":"8003632969"
+    },
+    {
+        "Name":"Viamar Scilla Transport International Inc",
+        "Address":"4000 Steeles Ave. West #9, Vaughan",
+        "Country":"CANADA",
+        "Tel":"+ 1 416 747 9774",
+        "Fax":"+ 1 416 747 9774"
+    },
+    {
+        "Name":"Wavair Logistics Inc",
+        "Address":"PO Box 1603\r\n\r\nBradford, Ontario",
+        "Country":"CANADA",
+        "Tel":"289-464-1370",
+        "Fax":"289-464-1370"
+    },
+    {
+        "Name":"CIA DE TRANSPORTE MARITIMO",
+        "Address":"PRAT 827 OF. 702\r\n\r\nVALPARAISO",
+        "Country":"CHILE",
+        "Tel":"(56-32) 221 3014",
+        "Fax":"(56-32) 221 3014"
+    },
+    {
+        "Name":"Europartners America LTDA",
+        "Address":"Antonio Varas 175, Of 709 Providencia, Santiago de Chile",
+        "Country":"CHILE",
+        "Tel":"+56 (2) 236 4963",
+        "Fax":"+56 (2) 236 4963"
+    },
+    {
+        "Name":"All-Link Logistics Ltd.",
+        "Address":"6\/F., Hong Land Commercial Building , No.1359 Zhong Hua Road , Huang Pu District , Shanghai , P.R.C. 200010",
+        "Country":"CHINA",
+        "Tel":"86-21-5228 5328",
+        "Fax":"86-21-5228 5328"
+    },
+    {
+        "Name":"Alliance Forwarding Limited",
+        "Address":"RM A304, 471 Hunyun Rd., Baiyun District, Guangzhou, P. R",
+        "Country":"CHINA",
+        "Tel":"86-20-36700880",
+        "Fax":"86-20-36700880"
+    },
+    {
+        "Name":"ASIA CARGO GROUP",
+        "Address":"no address",
+        "Country":"CHINA",
+        "Tel":"0086-0757-82090697",
+        "Fax":"0086-0757-82090697"
+    },
+    {
+        "Name":"Beijing DLJ Int\u0425l Logistics Ltd",
+        "Address":"Rm.1503.Building A,Dongyu Mansion Disanzhiye,No.1 Shuguangxili, Chaoyang District, Beijing",
+        "Country":"CHINA",
+        "Tel":"0086-10-58220888",
+        "Fax":"0086-10-58220888"
+    },
+    {
+        "Name":"BLACK SEA INTERNATIONAL LOGISTICS CO.,LIMITED",
+        "Address":"Xixiang  shenzhen Guangdong",
+        "Country":"CHINA",
+        "Tel":"86 755 25520509",
+        "Fax":"86 755 25520509"
+    },
+    {
+        "Name":"Chinatrans international Limited",
+        "Address":"22 FL, A Section Taipingyang Commercial & Trading Bldg, No.4028 Jiabin Road,Luohu District, Shenzhen",
+        "Country":"CHINA",
+        "Tel":"0086 021-26102087",
+        "Fax":"0086 021-26102087"
+    },
+    {
+        "Name":"City Union Logistics Co.,ltd",
+        "Address":"Ground Floor,No.3 Building Aijia International Masion, No.288 Wuhua Road, Hongkou District, Shanghai,China",
+        "Country":"CHINA",
+        "Tel":" 04-03-1993",
+        "Fax":" 04-03-1993"
+    },
+    {
+        "Name":"CNS INTERTRANS(SHENZHEN)CO.,LTD",
+        "Address":"Shenzhen city",
+        "Country":"CHINA",
+        "Tel":"86-755-83462551",
+        "Fax":"86-755-83462551"
+    },
+    {
+        "Name":"Dyho Line Global Logistics Co",
+        "Address":"704 Universal Plaza, No 829 Renmin Rd North Yuexiu District, GZ China 510030",
+        "Country":"CHINA",
+        "Tel":"00862038609210",
+        "Fax":"00862038609210"
+    },
+    {
+        "Name":"EUROLINK GLOBAL AIR CARGO",
+        "Address":"RM604, Office Park Building, QingShuiQiao Road 535# Technical Zone NINGBO  315000",
+        "Country":"CHINA",
+        "Tel":"+86 574 27805952",
+        "Fax":"+86 574 27805952"
+    },
+    {
+        "Name":"Franco Vago Int'l Logistics(Shanghai)Ltd",
+        "Address":"RM 2001 NO.1 NINGBO ROAD Shanghai P.R.C.",
+        "Country":"CHINA",
+        "Tel":"+86 21 63232300",
+        "Fax":"+86 21 63232300"
+    },
+    {
+        "Name":"FreightPaul",
+        "Address":"301-I003, Manjinghua Yiluan Building, Xixiang District, Shenzhen",
+        "Country":"CHINA",
+        "Tel":"86-15813704730",
+        "Fax":"86-15813704730"
+    },
+    {
+        "Name":"Garone Logistics China Ltd",
+        "Address":"Rm 2801E , Block A , World Trade Plaza , 9# Fuhong Rd , Futian , Shenzhen , P.R, 518033",
+        "Country":"CHINA",
+        "Tel":"+86 755 83573800",
+        "Fax":"+86 755 83573800"
+    },
+    {
+        "Name":"Ginter Logistics Service Co. Ltd",
+        "Address":"Room1121, Interchina Commercial Building , No.33 Dengshikou Street, Dongcheng District Beijing , China",
+        "Country":"CHINA",
+        "Tel":"86-10-87755480",
+        "Fax":"86-10-87755480"
+    },
+    {
+        "Name":"Global United Group Co.,Limited",
+        "Address":"5F, No.19, Lane 888, Dongdaming Road, Shanghai 200082",
+        "Country":"CHINA",
+        "Tel":"+862165853950",
+        "Fax":"+862165853950"
+    },
+    {
+        "Name":"Globe Express Logistics Co.,Ltd.",
+        "Address":"ROOM 511,NORINCO BUSINESS PLAZA,NO.6  HULI AV, XIAMEN",
+        "Country":"CHINA",
+        "Tel":"0086-592-504-3111",
+        "Fax":"0086-592-504-3111"
+    },
+    {
+        "Name":"Globesuccess International forwarding company",
+        "Address":"Shenzhen",
+        "Country":"CHINA",
+        "Tel":"86 755 82145302",
+        "Fax":"86 755 82145302"
+    },
+    {
+        "Name":"Great Share International Logistics Limited",
+        "Address":"RM2210, Sunshine business building,98 Chuangye RD, Nanshan dist, Shenzhen, 518054",
+        "Country":"CHINA",
+        "Tel":"+86 755 86223151",
+        "Fax":"+86 755 86223151"
+    },
+    {
+        "Name":"Greatship International Limited",
+        "Address":"ROOM 1418-1819,14\/F, CUNJIN BUILDING, #3005 DONGMENNAN ROAD, \u25caLUOHU DISTRICT, SHENZHEN, P.R CHINA",
+        "Country":"CHINA",
+        "Tel":"86-755-22931456",
+        "Fax":"86-755-22931456"
+    },
+    {
+        "Name":"Guangzhou Yunna International Freight CO.,LTD",
+        "Address":"Room 8211 YI SHI DA Bussiness Building , Panyu District ,Guangzhou",
+        "Country":"CHINA",
+        "Tel":"008613570563510",
+        "Fax":"008613570563510"
+    },
+    {
+        "Name":"INTEGRATE SHIPPING LIMITED",
+        "Address":"Room 1311,Yongtong Building, North Renmin Road, \r\nLuoHu District, Shenzhen,China 518001.",
+        "Country":"CHINA",
+        "Tel":"+86 755 82197380",
+        "Fax":"+86 755 82197380"
+    },
+    {
+        "Name":"INTERFREIGHT LOGISTICS CO., LTD",
+        "Address":"22B\/C\/D,Tower B,Hong Long Century Plaza,3001 Heping Road,Luohu District, Shenzhen",
+        "Country":"CHINA",
+        "Tel":"86 755 22202164",
+        "Fax":"86 755 22202164"
+    },
+    {
+        "Name":"JIANGSU UNI-BENEFIT INT'L LOGISTICS CO.,LTD",
+        "Address":"Sunny int\u2019l Center N0.2 Haibin Street Lianyungang China",
+        "Country":"CHINA",
+        "Tel":"15861202657",
+        "Fax":"15861202657"
+    },
+    {
+        "Name":"M AND W CHINA LIMITED",
+        "Address":"ROOM 608 ,GUANGSHEN BLDG,2023#,SHENNAN EAST ROAD , SHENZHEN",
+        "Country":"CHINA",
+        "Tel":"86 0755 22274528",
+        "Fax":"86 0755 22274528"
+    },
+    {
+        "Name":"Miragrown Logistics Ltd",
+        "Address":"7\/F, Block A, \r\n\r\nPacific Ocean Commercial Building, Jiabin Rd, Shenzhen",
+        "Country":"CHINA",
+        "Tel":"+ 86 755 82138515",
+        "Fax":"+ 86 755 82138515"
+    },
+    {
+        "Name":"Ningbo Devtrans International Logistics",
+        "Address":"Room 2514,XinTidanDi Building ,1018# Min'An Road,Jiangdong Zone,Ningbo City,Zhejiang province",
+        "Country":"CHINA",
+        "Tel":"057427660981",
+        "Fax":"057427660981"
+    },
+    {
+        "Name":"Ningbo Huanji Logistics",
+        "Address":"ADD:11F 65292;Fortune Building 65292;No.828 Fuming Road 65292;Jiangdong District 65292;Ningbo 65292",
+        "Country":"CHINA",
+        "Tel":"0086 592 5653760",
+        "Fax":"0086 592 5653760"
+    },
+    {
+        "Name":"NINGBO LINKAPAC SUPPLY CHAIN TECHNOLOGY CO.,LTD",
+        "Address":"Room 2503,Portman Building, No.48 Caihong North Road, Yinzhou District, Ningbo,China",
+        "Country":"CHINA",
+        "Tel":"86-574-88166607",
+        "Fax":"86-574-88166607"
+    },
+    {
+        "Name":"Ningbo Trans Far East Logistics Co.,Ltd",
+        "Address":"Rm1010, No.181 of Zhong Shan (E) Road, Zhongnongxin Mansion, Ningbo",
+        "Country":"CHINA",
+        "Tel":"+86 574 87269488",
+        "Fax":"+86 574 87269488"
+    },
+    {
+        "Name":"oceansky logistics logistics limited",
+        "Address":"Room816A-B,LianXing Building,South,NO.1043\r\n     WenJin Middle Road  Luohu,shenzhen,china",
+        "Country":"CHINA",
+        "Tel":"+0086-18923750525",
+        "Fax":"+0086-18923750525"
+    },
+    {
+        "Name":"OCEANUS SHIPPING AND LOGISTICS CO.,LTD",
+        "Address":"Room 703,Block B Lubang Mansion,No 177 Shandong Road,Qingdao,China",
+        "Country":"CHINA",
+        "Tel":"8653268663262",
+        "Fax":"8653268663262"
+    },
+    {
+        "Name":"Penavico Logistics Ltd.",
+        "Address":"20F, Anlian Plaza, No.4018 Jintian Road,Futian District, Shenzhen",
+        "Country":"CHINA",
+        "Tel":"+86-20-38330857",
+        "Fax":"+86-20-38330857"
+    },
+    {
+        "Name":"PREMIER GLOBAL LOGISTICS LLC",
+        "Address":"RM418-419 TOWER A HEDA CENTER NO.177 TAILIU ROAD,\r\nSHIBEI DISTRICT,QINGDAO,SHANDONG,CHINA",
+        "Country":"CHINA",
+        "Tel":"+8618669811752\/+16268886992",
+        "Fax":"+8618669811752\/+16268886992"
+    },
+    {
+        "Name":"QINGDAO JHI TRANS CO.,LTD.",
+        "Address":"RM 1004,NO.22 SHANDONG RD,QINGDAO,CHINA.\r\nZIP CODE 266071",
+        "Country":"CHINA",
+        "Tel":"0532-85807160",
+        "Fax":"0532-85807160"
+    },
+    {
+        "Name":"Qingdao Ord International Logistics",
+        "Address":"Add: Room 2105,Longhaimingzhu Building No.3, NO.178 Haier Road ,Qingdao",
+        "Country":"CHINA",
+        "Tel":"8613573802312",
+        "Fax":"8613573802312"
+    },
+    {
+        "Name":"Sail Win Logistics Limited",
+        "Address":"105, 1\/F, Wang Fu Bldg, 5-7 Chatham Court, Tsim Sha Tsui, Kowloon",
+        "Country":"CHINA",
+        "Tel":"852-23021360",
+        "Fax":"852-23021360"
+    },
+    {
+        "Name":"Shanghai Brightway Shipping Co.,Ltd",
+        "Address":"Room1815,No.1688,North Sichuan Road,Shanghai",
+        "Country":"CHINA",
+        "Tel":"0086 21 63071408",
+        "Fax":"0086 21 63071408"
+    },
+    {
+        "Name":"Shanghai Everchain",
+        "Address":"no address",
+        "Country":"CHINA",
+        "Tel":"13916991303",
+        "Fax":"13916991303"
+    },
+    {
+        "Name":"Shanghai Flowlink Supply Chain Management CO., LTD",
+        "Address":"Room 1206-07, TRINITY TOWER, No.575 WuSong Road, HongKou District, Shanghai, China",
+        "Country":"CHINA",
+        "Tel":"+86 - 21 - 3135 3408",
+        "Fax":"+86 - 21 - 3135 3408"
+    },
+    {
+        "Name":"Shanghai Top Way International Transport CO., Ltd",
+        "Address":"Room  1120 ,11ST Floor, JIA ZHENG International Building, No. 28, Moyu Road  Shanghai , 200001 P.R.C.",
+        "Country":"CHINA",
+        "Tel":"02169588952",
+        "Fax":"02169588952"
+    },
+    {
+        "Name":"Shanghai Wecare Logistics Co.,LTD",
+        "Address":"Room 712,Block A East Coast,Chuansha Road,\r\nPudong New Area,Shanghai,China 201299",
+        "Country":"CHINA",
+        "Tel":"+86-21-58985966",
+        "Fax":"+86-21-58985966"
+    },
+    {
+        "Name":"SHANGHAI YI XING INTERNATIONAL FREIGHT FORWARDING CO.,LTD.",
+        "Address":"ROOM 406\u2022_\u041eNO 2536 PUDONG AVENUE,ENTREPRENEURSHIP BUSINESS CENTER,SHANGHAI",
+        "Country":"CHINA",
+        "Tel":"00886-21-68412578",
+        "Fax":"00886-21-68412578"
+    },
+    {
+        "Name":"SHENZHEN ASB LOGISTICS CO.,LTD",
+        "Address":"ROOM 2110-2111,21TH FLOOR,HONGCHANG PLAZA,SHENNAN DONG ROAD NO 2001,SHENZHEN",
+        "Country":"CHINA",
+        "Tel":"+86 18699457280",
+        "Fax":"+86 18699457280"
+    },
+    {
+        "Name":"Shenzhen Better logistics co.,ltd",
+        "Address":"North Block,International Commercial Building,\r\n\r\n           NO.3005,Jiabin Road,Luohu Dist,Shenzhen,Guangdong",
+        "Country":"CHINA",
+        "Tel":"+86-755-82292730",
+        "Fax":"+86-755-82292730"
+    },
+    {
+        "Name":"Shenzhen Goldline Logistics",
+        "Address":"Room 403, Yajing Business Central, Hongmian Road, Shenzhen",
+        "Country":"CHINA",
+        "Tel":"86-755-28240303",
+        "Fax":"86-755-28240303"
+    },
+    {
+        "Name":"SHENZHEN HAIDA UNITED LOGISTICS CO.,LTD.",
+        "Address":"Room 22E baihe Yindu Building Buji Longgang Shenzhen China",
+        "Country":"CHINA",
+        "Tel":"8615914144011",
+        "Fax":"8615914144011"
+    },
+    {
+        "Name":"Shenzhen Huatai Supply Chain Co.,Ltd",
+        "Address":"no address",
+        "Country":"CHINA",
+        "Tel":"86 18898776950",
+        "Fax":"86 18898776950"
+    },
+    {
+        "Name":"Shenzhen New Concept Logistics Co.,Ltd",
+        "Address":"RM G,7\/F, NEW HOLD FOUND BUILDING,NO.10188,\r\n\r\nSHENNAN RD.,NANSHAN DISTRICT,SHENZHEN,P.R",
+        "Country":"CHINA",
+        "Tel":"86-755-29982878",
+        "Fax":"86-755-29982878"
+    },
+    {
+        "Name":"SHENZHEN SEKO GLOBAL INT'L LOGISTICS CO., LTD",
+        "Address":"Room912-922,Yueyun Building, Luohu district, Shenzhen,PRC",
+        "Country":"CHINA",
+        "Tel":"+86-0755-61623928",
+        "Fax":"+86-0755-61623928"
+    },
+    {
+        "Name":"SHENZHEN SINO-OCEAN INT'L TRANSPORTATION LTD. GUANGZHOU BRANCH",
+        "Address":"ROOM 703, BROADWAY PLAZA, NO.233~235, DONGFENG WEST ROAD, YUEXIU DISTRICT, GUANGZHOU, CHINA.",
+        "Country":"CHINA",
+        "Tel":"+862081307471",
+        "Fax":"+862081307471"
+    },
+    {
+        "Name":"Shenzhen Speed-up Int'l Logistics Co., Ltd.",
+        "Address":"Rm.1310, Hongfa Central Building, Chuangye 1st Rd, Baoan Central District, Shenzhen, Guangdong",
+        "Country":"CHINA",
+        "Tel":"+86-755-27888701",
+        "Fax":"+86-755-27888701"
+    },
+    {
+        "Name":"Shining Ocean International",
+        "Address":"Patriation Road, Shenzhen",
+        "Country":"CHINA",
+        "Tel":"008615112264247",
+        "Fax":"008615112264247"
+    },
+    {
+        "Name":"SMARTRANS INTERNATIONAL LTD",
+        "Address":"10B LIANHUA BUILDING, NO.2011 RENMINNAN RD, LUOHU DISTRICT, SHENZHEN,CHINA",
+        "Country":"CHINA",
+        "Tel":"+8618820257892",
+        "Fax":"+8618820257892"
+    },
+    {
+        "Name":"Sunworld International Logistics Co., Ltd",
+        "Address":"Room\u00a02012,\u00a0Oriental Plaza, No.1072 Jianshe Road, Luohu District, Shenzhen",
+        "Country":"CHINA",
+        "Tel":"+86 13025432862",
+        "Fax":"+86 13025432862"
+    },
+    {
+        "Name":"Supertrans Logistics Co., Ltd.",
+        "Address":"922,Zhonghao Bldg, Bagua 4 RD, Futian, Shenzhen, GD",
+        "Country":"CHINA",
+        "Tel":"13590342071",
+        "Fax":"13590342071"
+    },
+    {
+        "Name":"SysMagic Software Solution Pte Ltd",
+        "Address":"Xiamen, Fujian, Room 1402, Block 2, QianXiYuan, 883 Xiahe Road, Xiamen",
+        "Country":"CHINA",
+        "Tel":"+86 (0)592 588 8865",
+        "Fax":"+86 (0)592 588 8865"
+    },
+    {
+        "Name":"TITAN SHIPPING LINE (QINGDAO, CHINA) COPR.",
+        "Address":"Room 905, Bemont Building, No. 55, Hunan Road, Shinan District, Qingdao",
+        "Country":"CHINA",
+        "Tel":"86-532-82895161",
+        "Fax":"86-532-82895161"
+    },
+    {
+        "Name":"Top Global Logistics Shanghai Ltd.",
+        "Address":"2ND FLOOR\u2022 BLOCK 1A\u2022NO. 128\u2022 HUAYUAN ROAD\u2022HONGKOU DISTRICT\u2022SHANGHAI\u2022 200083",
+        "Country":"CHINA",
+        "Tel":"86-21-60528920",
+        "Fax":"86-21-60528920"
+    },
+    {
+        "Name":"Trans-Way International Logistics",
+        "Address":"Rm2920, 29F. Parkson Commercial Affairs Building. No.44-60, Zhongshan Road, Qingdao",
+        "Country":"CHINA",
+        "Tel":"+86 532 8202 2727",
+        "Fax":"+86 532 8202 2727"
+    },
+    {
+        "Name":"XFA GLOBAL FORWARDING (SHENZHEN) CO.,LTD.",
+        "Address":"shenzhen\uff0cChina",
+        "Country":"CHINA",
+        "Tel":" 01-02-2014",
+        "Fax":" 01-02-2014"
+    },
+    {
+        "Name":"XUHUI SHIPPING(HK) LIMITED",
+        "Address":"B02.4\/F SHENZHEN INTERNATIONAL COMMERCIAL TRADING BUILDING .LUOHU DISTRICT .SHENZHEN",
+        "Country":"CHINA",
+        "Tel":"86 755 25938735",
+        "Fax":"86 755 25938735"
+    },
+    {
+        "Name":"E.C. CARGO S.A",
+        "Address":"CALLE 95 No. 11A - 37 OFC 205 \r\n\r\nBOGOTA",
+        "Country":"COLOMBIA",
+        "Tel":"571 6220885",
+        "Fax":"571 6220885"
+    },
+    {
+        "Name":"ENLACE MULTIMODAL LOGISTIC LTDA",
+        "Address":"calle 22 G No. 100-18",
+        "Country":"COLOMBIA",
+        "Tel":"57-1 4717131",
+        "Fax":"57-1 4717131"
+    },
+    {
+        "Name":"Ingelox SAS",
+        "Address":"Calle 24 A # 74 a 90",
+        "Country":"COLOMBIA",
+        "Tel":"5714650855",
+        "Fax":"5714650855"
+    },
+    {
+        "Name":"REAL CARGA LTDA.",
+        "Address":"AV. CALLE 26 No. 68 C - 61. OFFICE 310",
+        "Country":"COLOMBIA",
+        "Tel":"57 1 4276828",
+        "Fax":"57 1 4276828"
+    },
+    {
+        "Name":"SLS HOLDING",
+        "Address":"Calle 24B No 75 - 25\r\n\r\nBogota",
+        "Country":"COLOMBIA",
+        "Tel":"571 4105650",
+        "Fax":"571 4105650"
+    },
+    {
+        "Name":"CONNEXAFRICA DRC SARL",
+        "Address":"Colonel Ebeya 15-17, Congo-Kinshasa",
+        "Country":"CONGO, DEMOCRATIC REPUBLIC",
+        "Tel":"+243890030047",
+        "Fax":"+243890030047"
+    },
+    {
+        "Name":"ALFA LOGIS-TICA S.A.",
+        "Address":"Jardines de Moravia #19R, San Jose",
+        "Country":"COSTA RICA",
+        "Tel":"506 2245 2020",
+        "Fax":"506 2245 2020"
+    },
+    {
+        "Name":"Kazoulis Global Logistics Ltd",
+        "Address":"2 Odyssea Androutsou, CY 4150, Kato Polemidia P.O.Box 53078, CY 3300 Limassol - Cyprus",
+        "Country":"CYPRUS",
+        "Tel":"+357 25 278 278",
+        "Fax":"+357 25 278 278"
+    },
+    {
+        "Name":"STARLOG s.r.o.",
+        "Address":"Prague 4, Na Pankraci 30",
+        "Country":"CZECH REPUBLIC",
+        "Tel":"+420 261 220 236",
+        "Fax":"+420 261 220 236"
+    },
+    {
+        "Name":"Transfirst Aps",
+        "Address":"Kilen 18-20, Box 155, 6200 Aabenraa",
+        "Country":"DENMARK",
+        "Tel":"45 7462 4940",
+        "Fax":"45 7462 4940"
+    },
+    {
+        "Name":"Weship denmark",
+        "Address":"Heimdals Kvarter 61",
+        "Country":"DENMARK",
+        "Tel":"93841333",
+        "Fax":"93841333"
+    },
+    {
+        "Name":"Amell cxa",
+        "Address":"Calle Tranversal No.3 Jardines del Sur Codigo Postal.11105",
+        "Country":"DOMINICAN REPUBLIC",
+        "Tel":"809-508-7777",
+        "Fax":"809-508-7777"
+    },
+    {
+        "Name":"JIS GLOBAL SRL",
+        "Address":"AVE SABANA LARGA SUITE 109 EDIFICIO CORPORATIVO CEO LOCAL 10, SANTO DOMINGO, DOMINICAN REPUBLIC",
+        "Country":"DOMINICAN REPUBLIC",
+        "Tel":"8299829340",
+        "Fax":"8299829340"
+    },
+    {
+        "Name":"CARGET LOGISTICS",
+        "Address":"URB ENTRERIOS, AV PRINCIPAL MZ Y1 LOCAL 26",
+        "Country":"ECUADOR",
+        "Tel":"+593967692777",
+        "Fax":"+593967692777"
+    },
+    {
+        "Name":"deltrans s.a.",
+        "Address":"velez 1313 y antepara 2do piso ofic 1",
+        "Country":"ECUADOR",
+        "Tel":"5934-2326054",
+        "Fax":"5934-2326054"
+    },
+    {
+        "Name":"AM CARGO",
+        "Address":"no address",
+        "Country":"EGYPT",
+        "Tel":"01002282680",
+        "Fax":"01002282680"
+    },
+    {
+        "Name":"Cairo Marine services(CMS)",
+        "Address":"1,Saqr Qureesh \u2013 Sheraton Heliopolis \u2013 Cairo Egypt",
+        "Country":"EGYPT",
+        "Tel":"(202) 22685285",
+        "Fax":"(202) 22685285"
+    },
+    {
+        "Name":"Egypt Logistics (Ltd)",
+        "Address":"VILLA 34 , STREET 24\r\n\r\nALF MASKAN 11311\r\n\r\nCAIRO",
+        "Country":"EGYPT",
+        "Tel":"+201066611788",
+        "Fax":"+201066611788"
+    },
+    {
+        "Name":"Eiitrans",
+        "Address":"70 saker kourish sheraton heliopolis Cairo",
+        "Country":"EGYPT",
+        "Tel":"20123108232",
+        "Fax":"20123108232"
+    },
+    {
+        "Name":"EL KODSH FREIGHT",
+        "Address":"cairo international airport. cargo village\r\n\r\ncargo agent compound ( cac)\r\n\r\noffice no 201 2nd floor",
+        "Country":"EGYPT",
+        "Tel":"2024148589",
+        "Fax":"2024148589"
+    },
+    {
+        "Name":"fast freight international",
+        "Address":"Add: 82 Makram Ebaid, 9th Floor, Apt 18,  Nasr City - Cairo, Egypt",
+        "Country":"EGYPT",
+        "Tel":"00201005228084",
+        "Fax":"00201005228084"
+    },
+    {
+        "Name":"General Express",
+        "Address":"Head Office : Office No. 3 BLDG No. 26 Area No. 5 Misr El Taameer BLDGS \r\n\r\nSheraton Heliopolis Cairo",
+        "Country":"EGYPT",
+        "Tel":"+2 02 22 696 317",
+        "Fax":"+2 02 22 696 317"
+    },
+    {
+        "Name":"GLOBAL SHIPPING AGENCY",
+        "Address":"101,sidi gaber elshekh ,Alexandria",
+        "Country":"EGYPT",
+        "Tel":"+203 522 6459",
+        "Fax":"+203 522 6459"
+    },
+    {
+        "Name":"GOLDEN WAVE CO.",
+        "Address":"64 safya zaghloul st. elshark province , port said ,",
+        "Country":"EGYPT",
+        "Tel":"+201000266132",
+        "Fax":"+201000266132"
+    },
+    {
+        "Name":"Horus Air and Sea Transport",
+        "Address":"32B Morad St.",
+        "Country":"EGYPT",
+        "Tel":"20235716550",
+        "Fax":"20235716550"
+    },
+    {
+        "Name":"KML - Khedivial Marine Logistics SAE",
+        "Address":"129 El Marghany Street\r\n\r\nHeliopolis, Cairo",
+        "Country":"EGYPT",
+        "Tel":"+202-26901100\/ 1200\/ 1300",
+        "Fax":"+202-26901100\/ 1200\/ 1300"
+    },
+    {
+        "Name":"Masr Oman",
+        "Address":"24 Mahmoud Sabek El Henawy, Fisal st, El Haram",
+        "Country":"EGYPT",
+        "Tel":"01015150611",
+        "Fax":"01015150611"
+    },
+    {
+        "Name":"Middle East Logistics & Consultant Group ( MELC Group )",
+        "Address":"8 Falaky St. , 2nd Floor ,Suite 10 El Raml Station -Alexandria-Egypt 21514",
+        "Country":"EGYPT",
+        "Tel":"+203 4859 605 \/ +203 4859 603",
+        "Fax":"+203 4859 605 \/ +203 4859 603"
+    },
+    {
+        "Name":"Nile Valley Shipping",
+        "Address":"Villa 439A South Police Academy, 5th Settlement, Cairo",
+        "Country":"EGYPT",
+        "Tel":"+20225378511",
+        "Fax":"+20225378511"
+    },
+    {
+        "Name":"Safatrans",
+        "Address":"80 El Max St, Mina El Basal, Alexandria",
+        "Country":"EGYPT",
+        "Tel":"+203-444-3341",
+        "Fax":"+203-444-3341"
+    },
+    {
+        "Name":"SEAGATE EXPRESS FOR SHIPPING AGENCIES",
+        "Address":"6 Gamal Rashd St from El-Shohda St, El Raml Station, Alexandria",
+        "Country":"EGYPT",
+        "Tel":"+201212800025",
+        "Fax":"+201212800025"
+    },
+    {
+        "Name":"U Go Logistics",
+        "Address":"6th Abd El Monsef Ghazy st., Saba Pacha, Alexandria",
+        "Country":"EGYPT",
+        "Tel":"+201066614999",
+        "Fax":"+201066614999"
+    },
+    {
+        "Name":"World Cargo Egypt",
+        "Address":"CACC cargo Village Cairo airport office no 505",
+        "Country":"EGYPT",
+        "Tel":"00201281825882",
+        "Fax":"00201281825882"
+    },
+    {
+        "Name":"ITP INTERTRANSPORT",
+        "Address":"Final Calle Gerardo Barrios #1509",
+        "Country":"EL SALVADOR",
+        "Tel":"503 222116-11",
+        "Fax":"503 222116-11"
+    },
+    {
+        "Name":"SG LOGISTIC & TRANSPORTE SA DE CV",
+        "Address":"Urbanizaci\u00f3n Jardines de Cuscatl\u00e1n, edificio Maquilishuat\r\nPol\u00edgono L, Calle L-7 # 16 Local G , Antiguo Cuscatl\u00e1n",
+        "Country":"EL SALVADOR",
+        "Tel":"2289-9505",
+        "Fax":"2289-9505"
+    },
+    {
+        "Name":"Bestway Grupp",
+        "Address":"T\u041c_ri 7, 11314 Tallinn",
+        "Country":"ESTONIA",
+        "Tel":"+372 6519810",
+        "Fax":"+372 6519810"
+    },
+    {
+        "Name":"O\u00dc GoForward",
+        "Address":"Harju maakond, Tallinn, P\u00f5hja-Tallinna linnaosa, Toompuiestee 37, 10149",
+        "Country":"ESTONIA",
+        "Tel":"+3725175945",
+        "Fax":"+3725175945"
+    },
+    {
+        "Name":"GLOBAL DELIVERY CONCEPT",
+        "Address":"86 rue Voltaire MONTREUIL 93100",
+        "Country":"FRANCE",
+        "Tel":"+33668926802",
+        "Fax":"+33668926802"
+    },
+    {
+        "Name":"GPA LOGISTICS SAS",
+        "Address":"11 AVENUE DU G\u00c9N\u00c9RAL DE GAULLE - 95 700 ROISSY EN FRANCE",
+        "Country":"FRANCE",
+        "Tel":"+33 1 30 11 89 60",
+        "Fax":"+33 1 30 11 89 60"
+    },
+    {
+        "Name":"Atulog Georgia 1 LTD",
+        "Address":"Guramishvili str#35",
+        "Country":"GEORGIA",
+        "Tel":"+995598685625",
+        "Fax":"+995598685625"
+    },
+    {
+        "Name":"Caucastransexpress LTD",
+        "Address":"Tashkent St. 10a",
+        "Country":"GEORGIA",
+        "Tel":"+99532375715",
+        "Fax":"+99532375715"
+    },
+    {
+        "Name":"Georgian Trans Expedition Ltd",
+        "Address":"24 Chiqobava str.\r\n\r\n0102 Tbilisi",
+        "Country":"GEORGIA",
+        "Tel":"+995 32 2950101",
+        "Fax":"+995 32 2950101"
+    },
+    {
+        "Name":"International Transport & Elevator Service",
+        "Address":"24\/26 Mosashvili str., Tbilisi",
+        "Country":"GEORGIA",
+        "Tel":"+995 032 236 86 56",
+        "Fax":"+995 032 236 86 56"
+    },
+    {
+        "Name":"International transport management company",
+        "Address":"Ketevan Tsamebuli Avenu 50\/18",
+        "Country":"GEORGIA",
+        "Tel":"995 558 655600",
+        "Fax":"995 558 655600"
+    },
+    {
+        "Name":"Angelfreight GmbH",
+        "Address":"Nikolaus-Kopernikus-Strasse 10, D- 55129 Mainz",
+        "Country":"GERMANY",
+        "Tel":"+49 6131 913 510",
+        "Fax":"+49 6131 913 510"
+    },
+    {
+        "Name":"CCS-Express GmbH",
+        "Address":"Lilienthalstr. 8\r\n\r\n85399 Hallbergmoos",
+        "Country":"GERMANY",
+        "Tel":"+49-811-5500-153",
+        "Fax":"+49-811-5500-153"
+    },
+    {
+        "Name":"MBS Logistics GmbH",
+        "Address":"Langer Kornweg 32\r\r65451 Kelsterbach",
+        "Country":"GERMANY",
+        "Tel":"0049-(0)6107-7171-0",
+        "Fax":"0049-(0)6107-7171-0"
+    },
+    {
+        "Name":"QCS-Quick Cargo Service GmbH",
+        "Address":"Kurhessenstrasse 3 - 64546 M\u00f6rfelden-Walldorf",
+        "Country":"GERMANY",
+        "Tel":"+49 6105 91130",
+        "Fax":"+49 6105 91130"
+    },
+    {
+        "Name":"Rumberg International GmbH",
+        "Address":"Emsstr. 28-32, 48431 Rheine",
+        "Country":"GERMANY",
+        "Tel":"+49 800 1677776",
+        "Fax":"+49 800 1677776"
+    },
+    {
+        "Name":"Teleo-Logistics GmbH",
+        "Address":"Distelkampsweg 34\r\n\r\nD-28357 Bremen",
+        "Country":"GERMANY",
+        "Tel":"+49 (0) 421 176658 24",
+        "Fax":"+49 (0) 421 176658 24"
+    },
+    {
+        "Name":"Rescue Shipping & Investment Agency",
+        "Address":"P.O.Box CO 1366\r\n\r\nTema",
+        "Country":"GHANA",
+        "Tel":"232757521",
+        "Fax":"232757521"
+    },
+    {
+        "Name":"ZODIAC LOGISTICS COMPANY",
+        "Address":"TEMA\r\n\r\nTARKORADI",
+        "Country":"GHANA",
+        "Tel":"+233 303 207501",
+        "Fax":"+233 303 207501"
+    },
+    {
+        "Name":"ZODIAC MARINE SERVICES COMPANY LIMITED",
+        "Address":"2ND FLOOR ASAFOASTE KOTEI BUILDING\r\n\r\nMERIDIAN ROAD COMMUNITY1",
+        "Country":"GHANA",
+        "Tel":"233303207501",
+        "Fax":"233303207501"
+    },
+    {
+        "Name":"Redwood (Intl) Ltd",
+        "Address":"Unit  1,  Air Transit Shed, Gibraltar Airport",
+        "Country":"GIBRALTAR",
+        "Tel":"+ 350 200 45588",
+        "Fax":"+ 350 200 45588"
+    },
+    {
+        "Name":"Atlantis S.A Freight Forwarding Agency",
+        "Address":"26 th October Street, 43, Thessaloniki",
+        "Country":"GREECE",
+        "Tel":"+302310557501",
+        "Fax":"+302310557501"
+    },
+    {
+        "Name":"Onitas Hellas",
+        "Address":"Fintiou 3 str. 54627 Thessaloniki",
+        "Country":"GREECE",
+        "Tel":"0030-2310-530126",
+        "Fax":"0030-2310-530126"
+    },
+    {
+        "Name":"Primeway Global Freight Forwarders SA",
+        "Address":"310 Eleftheriou Venizelou Street Kallithea 176 75 Athens",
+        "Country":"GREECE",
+        "Tel":"+30 210 9484165",
+        "Fax":"+30 210 9484165"
+    },
+    {
+        "Name":"SYNERGY SA",
+        "Address":"Thessi Schineza, 19600 Aspropirgos",
+        "Country":"GREECE",
+        "Tel":"00302105599139",
+        "Fax":"00302105599139"
+    },
+    {
+        "Name":"BBC FREIGHT",
+        "Address":"2 calle 24-00 Zona15 VH II Edif. Domani Of. 904",
+        "Country":"GUATEMALA",
+        "Tel":"(502) 22696966",
+        "Fax":"(502) 22696966"
+    },
+    {
+        "Name":"Alecargo",
+        "Address":"2do Anillo periferico, entre 20 y 27 calle S.E., Zona Industrial de procesamiento, Zip San jose Edificio No. 14",
+        "Country":"HONDURAS",
+        "Tel":"(504) 516-3063",
+        "Fax":"(504) 516-3063"
+    },
+    {
+        "Name":"Apex Logistics",
+        "Address":"Edif Santa Anita # 307\r\n3er nivel, 1ra calle, 6ta ave, S.E",
+        "Country":"HONDURAS",
+        "Tel":"(504) 2557-9486",
+        "Fax":"(504) 2557-9486"
+    },
+    {
+        "Name":"All-The-Way Express Ltd",
+        "Address":"Room.226-228 2\/F Metro Centre 2 , 21 Lam Hing St., Kowloon Bay",
+        "Country":"HONG KONG",
+        "Tel":"852 2756 0608",
+        "Fax":"852 2756 0608"
+    },
+    {
+        "Name":"Asia Shipping Intl Transport (HK) Ltd",
+        "Address":"Unit 707, 7\/F, Cheung Sha Wan Plaza Tower 2, No. 833 Cheung Sha Wan Road, Cheung Sha Wan, Kowloon",
+        "Country":"HONG KONG",
+        "Tel":"(852) 2366 4989",
+        "Fax":"(852) 2366 4989"
+    },
+    {
+        "Name":"Aster Freight Company Limited",
+        "Address":"Room F13, 19\/F, Block F, Golden Bear Industrial Centre, No.66-82 Chai Wan Kok Street, Tsuen Wan, Hong Kong",
+        "Country":"HONG KONG",
+        "Tel":"35656002",
+        "Fax":"35656002"
+    },
+    {
+        "Name":"Jet-Speed Logistics Limited",
+        "Address":"11\/F 15 Wang Chiu Road,\r\n\r\nKowloon Bay, Kowloon",
+        "Country":"HONG KONG",
+        "Tel":"+852 27500091",
+        "Fax":"+852 27500091"
+    },
+    {
+        "Name":"PACIFIC POWER LOGISTICS - PPL Network",
+        "Address":"Room no. 1204, 12\/F., \r\n\r\nBonham Strand Trade Centre, \r\n\r\n135 Bonham Strand, Sheung Wan",
+        "Country":"HONG KONG",
+        "Tel":"+ 852 91523051",
+        "Fax":"+ 852 91523051"
+    },
+    {
+        "Name":"Pan World Shipping Co",
+        "Address":"Unit 1304, 13\/F, New Trend Centre, No. 704 Prince Edward Road East, San Po Kong, Kowloon",
+        "Country":"HONG KONG",
+        "Tel":"(852) 2891 1292",
+        "Fax":"(852) 2891 1292"
+    },
+    {
+        "Name":"Siberia Line Service Limited",
+        "Address":"Room 1323,13F, Golden Industrial Building, 16-26 Kwai Tak Street, Kwai Chung, N.T., Hong Kong",
+        "Country":"HONG KONG",
+        "Tel":"34211195",
+        "Fax":"34211195"
+    },
+    {
+        "Name":"Triple Eagle (Group) Limited",
+        "Address":"33\/F, 83 Hung To Road, Kwun Tong, Kowloon",
+        "Country":"HONG KONG",
+        "Tel":"(852) 2770 3983",
+        "Fax":"(852) 2770 3983"
+    },
+    {
+        "Name":"WESTERN SHIPPING (HK) LTD.,",
+        "Address":"RM 1112, 11\/F, Liven House, 61-63 King Yip Street, Kwun Tong, Kowloon",
+        "Country":"HONG KONG",
+        "Tel":"+852-25560698",
+        "Fax":"+852-25560698"
+    },
+    {
+        "Name":"Waberer''s International Pte. Co.",
+        "Address":"351 Nagykorosi road, Budapest, H-1239",
+        "Country":"HUNGARY",
+        "Tel":"+36 (1) 421 6666",
+        "Fax":"+36 (1) 421 6666"
+    },
+    {
+        "Name":"Al-Wakil Shipping & Logistics",
+        "Address":"India Navi Mumbai\r\nNavi Mumbai",
+        "Country":"INDIA",
+        "Tel":"09987272096",
+        "Fax":"09987272096"
+    },
+    {
+        "Name":"ALMI SHIPPING & LOGISTICS",
+        "Address":"Kinship House, Marar Road, Willingdon Island,\r\n\r\n\r\n\r\nCochin 682003. Kerala",
+        "Country":"INDIA",
+        "Tel":"4425217506",
+        "Fax":"4425217506"
+    },
+    {
+        "Name":"AN Freight Forwarders",
+        "Address":"LIG-518, PHB Colony, Near HE Colony, Jamalpur, Ludhiana-141010, Punjab",
+        "Country":"INDIA",
+        "Tel":"+919815624391",
+        "Fax":"+919815624391"
+    },
+    {
+        "Name":"ANOVA GLOBAL LOGISTICS",
+        "Address":"Address A-309, Shree Nand Dham Appt,Plot No 59, Sect 11, CBD Belapur, Navi Mumbai \u2013 400614,Maharashtra - India\r\nPhone +91-22-27564405 Fax +91-22-27564403\r\nMobile +91 9930177660  + 91 8779197177\r\nSkype : anovalogistics",
+        "Country":"INDIA",
+        "Tel":"+91-22-27564405",
+        "Fax":"+91-22-27564405"
+    },
+    {
+        "Name":"APICAL LOGISTIKS SOLUTIONS",
+        "Address":"6\/JYOTI BUILDING,GOKHALE ROAD,THANE WEST MUMBAI 400602",
+        "Country":"INDIA",
+        "Tel":"++912265617019",
+        "Fax":"++912265617019"
+    },
+    {
+        "Name":"APT LOGISTICS",
+        "Address":"B-222, ASHOKA SUPER MARKET, S.V.ROAD, GOREGAON WEST\r\n\r\nMUMBAI 400062",
+        "Country":"INDIA",
+        "Tel":"0091-22-28731666",
+        "Fax":"0091-22-28731666"
+    },
+    {
+        "Name":"AQUAAIR LOGISTICS PVT LTD",
+        "Address":"AquaAIR Logistics Pvt. Ltd. \r\n\r\nRegd. Off. : SKY BUSINESS PARK, \r\n\r\nPlot no. 22, S.No.259\/4\/1\/27\r\n\r\nNear Airport, Kalwad, \r\n\r\nPune 411032, \r\n\r\nMaharashtra",
+        "Country":"INDIA",
+        "Tel":"020-26555129",
+        "Fax":"020-26555129"
+    },
+    {
+        "Name":"ARS INTERNATIONAL LOGISTICS",
+        "Address":"604\/1, NAKSHATRA RESIDENCY,OPP TALWALKA GYM. PANCHPAKHADI, THANE WEST,MUMBAI,INDIA 400602",
+        "Country":"INDIA",
+        "Tel":"+919821605900",
+        "Fax":"+919821605900"
+    },
+    {
+        "Name":"Ask Freight Forwarder pvt. Ltd.",
+        "Address":"Suit  No : 501, 5th Floor . 1.No. British Indian Street, Kolkata - 700069",
+        "Country":"INDIA",
+        "Tel":"+ 91 22 30230946",
+        "Fax":"+ 91 22 30230946"
+    },
+    {
+        "Name":"Azimar Shipping & Logistics L.L.P",
+        "Address":"29C, First Floor\r\nMovendhar Nagar,Noombal Main Road",
+        "Country":"INDIA",
+        "Tel":"+914448525700",
+        "Fax":"+914448525700"
+    },
+    {
+        "Name":"Baapni  Global Logistics  Private  Limited",
+        "Address":"No. 4, HARIRAM  ARCADE,\r\n\r\n55  ADYAR  BRIDGE  ROAD,\r\n\r\nADYAR,\r\n\r\nCHENNAI  600 020",
+        "Country":"INDIA",
+        "Tel":"+91 44 42115005",
+        "Fax":"+91 44 42115005"
+    },
+    {
+        "Name":"Bhatia Shipping Pvt. Ltd.",
+        "Address":"Shipping House, Kumtha Street, Ballard Estate, Mumbai - 400 001",
+        "Country":"INDIA",
+        "Tel":"+91 22 4041 5000",
+        "Fax":"+91 22 4041 5000"
+    },
+    {
+        "Name":"BLUE OCEAN SHIPPING AND LOGISTICS",
+        "Address":"no address",
+        "Country":"INDIA",
+        "Tel":" 04-12-2009",
+        "Fax":" 04-12-2009"
+    },
+    {
+        "Name":"Cargo Carriers",
+        "Address":"No. 3, 1st Floor, Anant, Plot 31, Sector 4, Kharghar, Navi Mumbai 410210. Maharashtra.",
+        "Country":"INDIA",
+        "Tel":"919757030427",
+        "Fax":"919757030427"
+    },
+    {
+        "Name":"CARGO MARKETING INTERNATIONAL",
+        "Address":"B102 VAISHNAV APARTMENTS, A G LINK ROAD, DR. CHARAT SINGH COLONY, CHAKALA, ANDHERI (EAST) MUMBAI 400 093, MAHARASHTRA",
+        "Country":"INDIA",
+        "Tel":"+91 22 28230393",
+        "Fax":"+91 22 28230393"
+    },
+    {
+        "Name":"CARGO MOVERS",
+        "Address":"140,dda site1- new rajinder nagar, new delhi\r\nSHANKER ROAD, NEAR SIDDARTH HOTEL",
+        "Country":"INDIA",
+        "Tel":"919818340012",
+        "Fax":"919818340012"
+    },
+    {
+        "Name":"Channel Freight Services India Pvt. Ltd",
+        "Address":"Channel Freight Services India Pvt. Ltd.\r\n\r\nA\/4, Roy Apartment , Opposite \u0420 International Air Cargo Complex,                                          Sahar, Andheri (East), Mumbai-99",
+        "Country":"INDIA",
+        "Tel":"91-22-26817466",
+        "Fax":"91-22-26817466"
+    },
+    {
+        "Name":"Cheshta Infotech",
+        "Address":"203, satya tower, Indore",
+        "Country":"INDIA",
+        "Tel":"2557326",
+        "Fax":"2557326"
+    },
+    {
+        "Name":"COMMITTED CARGO CARE LTD",
+        "Address":"A-406 ROAD NO 4,\r\nSTREET NO 8 MAHIPAL PUR EXT \r\nNEW DELHI",
+        "Country":"INDIA",
+        "Tel":"01146151111",
+        "Fax":"01146151111"
+    },
+    {
+        "Name":"CONEX LOGISTICS PVT LTD",
+        "Address":"PLOT NO. 235, NEAR NEROSENE OIL DEPOT\r\n\r\nMITRAON, NAJAFGARH, NEW DELHI\r\n\r\n110043",
+        "Country":"INDIA",
+        "Tel":"91 11 656 93510",
+        "Fax":"91 11 656 93510"
+    },
+    {
+        "Name":"DECCAN 360 AIRSEA LOGISTICS PRIVATE LIMITED",
+        "Address":"164 ANARKALI COMPLEX JHANDEWALAN EXTN NEW DELHI",
+        "Country":"INDIA",
+        "Tel":"+91-11-43596930",
+        "Fax":"+91-11-43596930"
+    },
+    {
+        "Name":"DIVERSIFIED LOGISTICS (INDIA) PVT LIMITED",
+        "Address":"Office No - C\/2 | Ground Floor | Satyendra Bhuvan | New Nagardas Road | Andheri (East) | Mumbai \u2013 4000 69 |",
+        "Country":"INDIA",
+        "Tel":"+91 9820725454",
+        "Fax":"+91 9820725454"
+    },
+    {
+        "Name":"DUX LINES PVT.LTD.",
+        "Address":"513, Ecstasy-Business Park, 5th Floor, \r\nCity of Joy, Commercial Building, \r\nJ. S. D. Road, Mulund (West),\r\nMumbai  400 080, India.",
+        "Country":"INDIA",
+        "Tel":"+91 22 25908700",
+        "Fax":"+91 22 25908700"
+    },
+    {
+        "Name":"DYER INTL LOGISTICS INDIA",
+        "Address":"E-14, VASANT ROAD, NEAR IGI AIRPORT, MAHIPALPUR EXTN, NEW DELHI 110037",
+        "Country":"INDIA",
+        "Tel":"+919717312855",
+        "Fax":"+919717312855"
+    },
+    {
+        "Name":"Eagles Freight Pvt Ltd",
+        "Address":"Oberoi Gardens, D-3132-33, Chandivali, Andheri East, Mumbai 400072",
+        "Country":"INDIA",
+        "Tel":"00912243609090",
+        "Fax":"00912243609090"
+    },
+    {
+        "Name":"EASYWAYS FREIGHTS FORWARDERS PRIVATE LIMITED",
+        "Address":"Old No.287, New No.72, 3rd Floor, Linghi Chetty Street, Chennai 600001",
+        "Country":"INDIA",
+        "Tel":"+91-44-42143370",
+        "Fax":"+91-44-42143370"
+    },
+    {
+        "Name":"ePORT LOGISTICS PRIVATE LIMITED",
+        "Address":"CHENNAI",
+        "Country":"INDIA",
+        "Tel":"00919594002354",
+        "Fax":"00919594002354"
+    },
+    {
+        "Name":"FORCE LOGISTICS PVT. LTD.",
+        "Address":"C-4, 2ND FLOOR, DSIDC COMPLEX, F.I.E. PATPARGANJ INDUSTRIAL AREA NEW DELHI - 110 092",
+        "Country":"INDIA",
+        "Tel":"91-11-4214 1054",
+        "Fax":"91-11-4214 1054"
+    },
+    {
+        "Name":"FOURWAYS LOGISTICS",
+        "Address":"A-169 MAIN NH 8 NEAR HOTEL SHANTI PLACE MAHIPALPUR EXTN NEW DELHI 110037",
+        "Country":"INDIA",
+        "Tel":"+91 11 26781608",
+        "Fax":"+91 11 26781608"
+    },
+    {
+        "Name":"Freight India Logistics",
+        "Address":"4 Fairle Place , 6th Floor , Suite 621 Kolkata 700001, W.B",
+        "Country":"INDIA",
+        "Tel":"91 033 6533 8920",
+        "Fax":"91 033 6533 8920"
+    },
+    {
+        "Name":"GEETEE CARRIERS PVT LTD",
+        "Address":"16\/18 EAST WEST INDUSTRIAL ESTATE , SAFED POOL, SAKINAKA ANDHERI EAST, MUMBAI - 400059",
+        "Country":"INDIA",
+        "Tel":"022-40787079",
+        "Fax":"022-40787079"
+    },
+    {
+        "Name":"GLOBUS LOGISYS PVT LTD",
+        "Address":"RAJ INDUSTRIAL COMPLEX, C-48, 2nd FLOOR, MILITARY ROAD, MAROL, ANDHERI (E), MUMBAI - 400 059",
+        "Country":"INDIA",
+        "Tel":"91-22-40349200",
+        "Fax":"91-22-40349200"
+    },
+    {
+        "Name":"Globus Transitos Pvt Ltd",
+        "Address":"\"Globus House\"\r\n\r\nA - 74 & 75, DDA Shed, Okhla Industrial Area, Phase - II, \r\n\r\nNew Delhi - 110020",
+        "Country":"INDIA",
+        "Tel":"0091 11 4058 3000",
+        "Fax":"0091 11 4058 3000"
+    },
+    {
+        "Name":"GRT SHIPMANAGEMENT PVT. LTD.,",
+        "Address":"32, SANJAY MITTAL INDL, ESTATE, BUILDING NO. 6, ANDHERI KURLA ROAD\r\n\r\nANDHERI EAST",
+        "Country":"INDIA",
+        "Tel":"022-61521800",
+        "Fax":"022-61521800"
+    },
+    {
+        "Name":"Indera Logistics",
+        "Address":"T-2 A , Ground Floor  Pulparladpur , \r\nNew Delhi",
+        "Country":"INDIA",
+        "Tel":"011-65576477",
+        "Fax":"011-65576477"
+    },
+    {
+        "Name":"Integral Logistics Services Pvt Ltd",
+        "Address":"801, Krishna Apra Business Square, Wazirpur District Centre, Netaji Subhash Place. New Delhi-110034",
+        "Country":"INDIA",
+        "Tel":"011-43711203",
+        "Fax":"011-43711203"
+    },
+    {
+        "Name":"Kavya Exim Solutions",
+        "Address":"16 Hemang Park, Vejalpur Road Ahmedabad Gujarat India",
+        "Country":"INDIA",
+        "Tel":"7069007227",
+        "Fax":"7069007227"
+    },
+    {
+        "Name":"KHEE LOGISTICS INDIA PVT LTD",
+        "Address":"2F5, 2nd Floor, Metro Tower, # 115, Poonamallee High Road, Chennai - 600 084, India",
+        "Country":"INDIA",
+        "Tel":"044 48644145",
+        "Fax":"044 48644145"
+    },
+    {
+        "Name":"LIMRA LOGISTICS",
+        "Address":"NO.5A BAMBOO MANDI STREET SHAROFF BAAZAR INSIDE KANNAN JEWELLER COMPLEX AMBUR 635802",
+        "Country":"INDIA",
+        "Tel":"+919994493876",
+        "Fax":"+919994493876"
+    },
+    {
+        "Name":"Lubber Line Logistics",
+        "Address":"Door No. F7, 1st Floor, City Plaza, \r\n\r\nThevara, M.G.Road, Cochin - 682015",
+        "Country":"INDIA",
+        "Tel":"+91 484 4038101",
+        "Fax":"+91 484 4038101"
+    },
+    {
+        "Name":"M S Logistics",
+        "Address":"Kailash Esplenade C 103\/104 LBS Road Opposite Shreyas Cinema Ghatkopar West Mumbai 400086",
+        "Country":"INDIA",
+        "Tel":"+91933086283",
+        "Fax":"+91933086283"
+    },
+    {
+        "Name":"MANILAL PATEL CLEARING FORWARDING PVT LTD",
+        "Address":"L-7\/203, MAHIPALPUR EXTN, NEW DELHI \u0420 110 037\r\n\r\n\r\n\r\nKamer Building, 3rd Floor, 38, Cawasji Patel Street, Fort, MUMBAI \u0420 400 001",
+        "Country":"INDIA",
+        "Tel":"911145755200",
+        "Fax":"911145755200"
+    },
+    {
+        "Name":"MFC Transport Pvt Ltd",
+        "Address":"1201 Dlh Corporate Park, 12th Floor, S V Road, Goregaon (West) Mumbai 400 062",
+        "Country":"INDIA",
+        "Tel":"+91-22-28795577",
+        "Fax":"+91-22-28795577"
+    },
+    {
+        "Name":"MPM Freight and Forwarding LLP",
+        "Address":"Old#8, New#15, #3, Second Floor, Mannady St, Chennai-600 001",
+        "Country":"INDIA",
+        "Tel":"044-4208 8252",
+        "Fax":"044-4208 8252"
+    },
+    {
+        "Name":"NVS SHIPPING SERVICES",
+        "Address":"1-8-506\/55\/A, PRAKASH NAGAR, BEGUMPET HYDERABAD 500016",
+        "Country":"INDIA",
+        "Tel":"+91-9963327744",
+        "Fax":"+91-9963327744"
+    },
+    {
+        "Name":"OCEAN PRIDE LOGISTICS INDIA PRIVATE LIMITED",
+        "Address":"UNIT 729B - PRIME TOWERS , OKHLA PHASE - I\r\nNEW DELHI-110020",
+        "Country":"INDIA",
+        "Tel":"+91-011-41096081",
+        "Fax":"+91-011-41096081"
+    },
+    {
+        "Name":"ONLINE PVT LTD",
+        "Address":"112,VYAPAR BHAVAN,P.DMELLO ROAD\r\n\r\nCARNAC BUNDER,MASJID BUNDER (EAST), MUMBAI, PIN 400009",
+        "Country":"INDIA",
+        "Tel":"+912223484220",
+        "Fax":"+912223484220"
+    },
+    {
+        "Name":"PEARL GLOBAL LOGISTIC SOLUTIONS",
+        "Address":"F\/406, SUREL APT. NEAR DEVASHISH  SCHOOL,BODAKDEV, AHEMEDABAD - 380054",
+        "Country":"INDIA",
+        "Tel":"022 30037787",
+        "Fax":"022 30037787"
+    },
+    {
+        "Name":"PRIMEWAY CARGO PRIVATE LIMITED",
+        "Address":"501, 5th Floor, Challa Mall,\r\n11, Thyagaraya Road,T. Nagar,\r\nChennai - 600017.India",
+        "Country":"INDIA",
+        "Tel":"04424331355",
+        "Fax":"04424331355"
+    },
+    {
+        "Name":"PSTS LOGISTICS PVT.LTD",
+        "Address":"2ND FLOOR, WAVOO MANSION, 48, RAJAJI SALAI, CHENNAI - 600001",
+        "Country":"INDIA",
+        "Tel":"+91 44 43922727",
+        "Fax":"+91 44 43922727"
+    },
+    {
+        "Name":"PURE FREIGHT SERVICES (OPC) PVT LTD",
+        "Address":"L-81C, Ground Floor, Gali No. 5B, Block L, \r\nMahipalpur Extn. New Delhi- 110037, INDIA",
+        "Country":"INDIA",
+        "Tel":"+91-8178597833",
+        "Fax":"+91-8178597833"
+    },
+    {
+        "Name":"Radius Logistics PVT Ltd",
+        "Address":"44F\/9,2nd Floor, Kishan Garh, Vasant Kunj, New Delhi - 110070",
+        "Country":"INDIA",
+        "Tel":"91 11 4711 6711",
+        "Fax":"91 11 4711 6711"
+    },
+    {
+        "Name":"Rado Shipping Agencies Pvt Ltd",
+        "Address":"The Catholic Center, Ist Floor, No.108, Armenian Street, Chennai, Tamil Nadu 600001",
+        "Country":"INDIA",
+        "Tel":"009144 25394710",
+        "Fax":"009144 25394710"
+    },
+    {
+        "Name":"RIGHT LOGISTICS PVT LTD",
+        "Address":"4C 4TH FLOOR SEA VIEW TOWERS PHASE-II 12\/9 KRISHNAN KOIL STREET CHENNAI-600001",
+        "Country":"INDIA",
+        "Tel":"4432917474",
+        "Fax":"4432917474"
+    },
+    {
+        "Name":"Rishishwar Logistics Pvt Ltd",
+        "Address":"B-7 Second Floor Dharmpali Palace ,Bhoja  Market ,Atta \r\n\r\n(Adjacent To Vinayak Hospital )Sector27 Noida ,UP 201301",
+        "Country":"INDIA",
+        "Tel":"+91-9971478981",
+        "Fax":"+91-9971478981"
+    },
+    {
+        "Name":"S R INTERNATIONAL",
+        "Address":"39-40, SHIV ARCADE, A-2,\r\nACHARYA NIKETAN, MAYUR VIHAR-I,DELHI-110091",
+        "Country":"INDIA",
+        "Tel":"91-11-46830622",
+        "Fax":"91-11-46830622"
+    },
+    {
+        "Name":"Sai Freight Pvt Ltd",
+        "Address":"Vohra House 14\/16 Surat Street Masjid (E) Mumbai -400 009",
+        "Country":"INDIA",
+        "Tel":"022-42120500",
+        "Fax":"022-42120500"
+    },
+    {
+        "Name":"SAI WORLD LOGISTICS MANAGEMENT PVT LTD",
+        "Address":"503, B\/wing, 5th floor, Kukreja Centre, Sector 11, CBD Belapur, Navi Mumbai 400614. Maharashtra",
+        "Country":"INDIA",
+        "Tel":"+91 22 66734111",
+        "Fax":"+91 22 66734111"
+    },
+    {
+        "Name":"Sea Freight & Logistics Solution",
+        "Address":"1A,Tara Road,1st Floor,Near Rashbehari Avenue,Kolkata-700026",
+        "Country":"INDIA",
+        "Tel":"+913340080419",
+        "Fax":"+913340080419"
+    },
+    {
+        "Name":"Seamax Shipping India Pvt Ltd.,",
+        "Address":"Tuticorin",
+        "Country":"INDIA",
+        "Tel":"+91 461 2376600",
+        "Fax":"+91 461 2376600"
+    },
+    {
+        "Name":"Seaways Impex",
+        "Address":"H.No-B-92\/1, Street No.-1, \r\nB-Block, Nehru Vihar, \r\nMain Karawal Nagar Road, \r\nDelhi,  India, 110094",
+        "Country":"INDIA",
+        "Tel":"+91-9718767895",
+        "Fax":"+91-9718767895"
+    },
+    {
+        "Name":"SHRIWIN SHIPPING & LOGISTICS",
+        "Address":"25\/1,GANDHIMATHI STREET,VETRINAGAR EXTN,THIRU.VIKA.NAGAR,CHENNAI 600082",
+        "Country":"INDIA",
+        "Tel":"044 64605466",
+        "Fax":"044 64605466"
+    },
+    {
+        "Name":"Siddhant Freight Forwarders Pvt Ltd",
+        "Address":"unit no-3 , 1st floor , kaapesh mall , mg road, mulund (w) mumbai",
+        "Country":"INDIA",
+        "Tel":"022 21680505",
+        "Fax":"022 21680505"
+    },
+    {
+        "Name":"Sindhu Cargo Services Ltd",
+        "Address":"BLOCK NO.3, SINDHU LOGISTICS PARK, NO.34, NELLAKUNTE, HUNSEMARANAHALLI POST, BANGALORE - 562 157",
+        "Country":"INDIA",
+        "Tel":"91(80)33913391",
+        "Fax":"91(80)33913391"
+    },
+    {
+        "Name":"SKI LOGISTICS",
+        "Address":"Unit No: 4, 1 st Floor Monica House, oppo Sahar cargo complex, Andheri (E)\r\n\r\nMUMBAI- 4000099",
+        "Country":"INDIA",
+        "Tel":"+91 9920074777",
+        "Fax":"+91 9920074777"
+    },
+    {
+        "Name":"SKYLINE SHIPPING & LOGISTICS PVT LTD",
+        "Address":"SKYLINE SHIPPING & LOGISTICS PVT LTD\r\n\r\nNEW NO.209(OLD NO.102), 3rd LEVEL,\r\n\r\nANGAPPA NAICKEN STREET\r\n\r\nCHENNAI-600 001",
+        "Country":"INDIA",
+        "Tel":"0091-44-42168252",
+        "Fax":"0091-44-42168252"
+    },
+    {
+        "Name":"Swarex Shipping & Aviation Pvt Ltd",
+        "Address":"Office No 18, Shanti Plaza, Mira Roa East, Thane, Maharashtra - 401107",
+        "Country":"INDIA",
+        "Tel":"9920083200",
+        "Fax":"9920083200"
+    },
+    {
+        "Name":"Swift Freight Moovers",
+        "Address":"Khasra 10\/1(4-6) , Samalka,\r\n\r\nNew Delhi",
+        "Country":"INDIA",
+        "Tel":"+911125061120",
+        "Fax":"+911125061120"
+    },
+    {
+        "Name":"Synchronized Supply Systems Ltd",
+        "Address":"Plot 150 udyog Vihar Phase- 1",
+        "Country":"INDIA",
+        "Tel":"9718480799",
+        "Fax":"9718480799"
+    },
+    {
+        "Name":"Taurus Forwarders Pvt Ltd",
+        "Address":"508-510 Srishti Plaza, Saki Vihar Road,\r\n\r\nPowai, Mumbai-400072",
+        "Country":"INDIA",
+        "Tel":"40431000",
+        "Fax":"40431000"
+    },
+    {
+        "Name":"Teamglobal Logistics Pvt Ltd",
+        "Address":"Times Square , 701-702, A- Wing, Andheri Kurla Road, Andheri East. Near Saki Naka Junction. Mumbai - 400 059",
+        "Country":"INDIA",
+        "Tel":"+ 91 22 67549800",
+        "Fax":"+ 91 22 67549800"
+    },
+    {
+        "Name":"Titanic Ocean Services Pvt. Ltd.",
+        "Address":"E-51, Sector - 3, Noida",
+        "Country":"INDIA",
+        "Tel":"+91 120 4886 333",
+        "Fax":"+91 120 4886 333"
+    },
+    {
+        "Name":"Total Transsport Systems Pvt. Ltd",
+        "Address":"701-705, T Square,\r\n\r\nOpp Chandivali Petrol Pump,\r\n\r\nSakinaka,\r\n\r\nAndheri(E), Mumbai - 400 072",
+        "Country":"INDIA",
+        "Tel":"+912266441522",
+        "Fax":"+912266441522"
+    },
+    {
+        "Name":"Tricon Logistics (India) Pvt Ltd.",
+        "Address":"Suite # 13, Sai Commercial Centre, Govandi Station Road, Govandi East, Mumbai 400088,       \r\n\r\nMahrashtra",
+        "Country":"INDIA",
+        "Tel":"+912267973138",
+        "Fax":"+912267973138"
+    },
+    {
+        "Name":"TRIDENT FREIGHT LOGISTICS SOLUTIONS",
+        "Address":"85\/1 NEW COLONY\r\n\r\nTUTICORIN 628003",
+        "Country":"INDIA",
+        "Tel":"+91 461 2334051",
+        "Fax":"+91 461 2334051"
+    },
+    {
+        "Name":"TRIPATH LOGISTICS PVT LTD",
+        "Address":"Venkateshwara Nilaya, Muneshwara Nilaya Block, AmruthNagar 'A' Sector\r\n\r\nSahakar Nagar Post",
+        "Country":"INDIA",
+        "Tel":"9845178624",
+        "Fax":"9845178624"
+    },
+    {
+        "Name":"TWIN LINK LOGISTICS",
+        "Address":"90 Padamvathi puram ,1St Street\r\n\r\n Prime Enclave Backside,\r\n\r\n Avinashi Road Tirupur -641 603",
+        "Country":"INDIA",
+        "Tel":"4212487299",
+        "Fax":"4212487299"
+    },
+    {
+        "Name":"US TRANSWORLD LOGISTICS",
+        "Address":"609 Pearls Omaxe Tower Netaji Subash Place",
+        "Country":"INDIA",
+        "Tel":"+919899312416",
+        "Fax":"+919899312416"
+    },
+    {
+        "Name":"WELGROW LINE INDIA PVT LTD",
+        "Address":"520 MARATHON MAX LBS ROAD MULUND WEST MUMBAI 400080",
+        "Country":"INDIA",
+        "Tel":"+912267701481",
+        "Fax":"+912267701481"
+    },
+    {
+        "Name":"Western Freight Forwarding Services",
+        "Address":"Plot No \u2013 3, Gali No \u2013 6,\r\nRaksha Enclave, Mohan Garden,\r\nUttam Nagar, New Delhi \u2013 110059",
+        "Country":"INDIA",
+        "Tel":"+91-9968007997",
+        "Fax":"+91-9968007997"
+    },
+    {
+        "Name":"Wheels & Waves Logistics Pvt.Ltd",
+        "Address":"5, Mahinder Chambers, Ground Floor, Opp.Dukes Factory, W.T.Patil Marg, Chembur, Mumbai \u0420 71",
+        "Country":"INDIA",
+        "Tel":"009122-67744444",
+        "Fax":"009122-67744444"
+    },
+    {
+        "Name":"ZN Synergies Private Limited",
+        "Address":"No:38\/2 First Floor, Venkatachala St, Shenoy Nagar, Chennai -600 032.",
+        "Country":"INDIA",
+        "Tel":"+91-44-26680019",
+        "Fax":"+91-44-26680019"
+    },
+    {
+        "Name":"Bali Intercont Cargo",
+        "Address":"Jl. Bypass I Gusti Ngurah Rai No. 225X, Br. Gelumpang, Sukawati - Gianyar, BALI",
+        "Country":"INDONESIA",
+        "Tel":"623614791789",
+        "Fax":"623614791789"
+    },
+    {
+        "Name":"GALAXY ANUGERAH EXPRESINDO, PT.",
+        "Address":"Jl. Surya Inti Permata Juanda BB-15, Sidoarjo 61253",
+        "Country":"INDONESIA",
+        "Tel":"+62-31-8668722",
+        "Fax":"+62-31-8668722"
+    },
+    {
+        "Name":"MAKASSAR ORIENT LOGISTICS",
+        "Address":"Jln. Ujung Pandang No. 3, 3th Floor, Makassar, South Sulawesi",
+        "Country":"INDONESIA",
+        "Tel":"+624119513336",
+        "Fax":"+624119513336"
+    },
+    {
+        "Name":"Nirwana Persada cargo",
+        "Address":"Jl Ikan Dorang No 26 Kel Perak Barat Kec Krembangan",
+        "Country":"INDONESIA",
+        "Tel":"+623199097902",
+        "Fax":"+623199097902"
+    },
+    {
+        "Name":"PT SAE ASIA LOGISTIK",
+        "Address":"SUN CITY SQUARE BUILDING, JL M HASIBUAN, BEKASI WEST JAVA 17141",
+        "Country":"INDONESIA",
+        "Tel":"6 21 8886 8977",
+        "Fax":"6 21 8886 8977"
+    },
+    {
+        "Name":"PT. Dunia Logistik",
+        "Address":"Jalan Hankam , Ruko Kranggan No 3A , Jati Sampurna kota Bekasi 17433",
+        "Country":"INDONESIA",
+        "Tel":"+6287878337828",
+        "Fax":"+6287878337828"
+    },
+    {
+        "Name":"PT. Hyper Mega Shipping",
+        "Address":"JL. Pangeran Jayakarta Ruko68,\r\n\r\nBlock A\/12A. Jakarta Pusat 10730",
+        "Country":"INDONESIA",
+        "Tel":"+62-21-62201541",
+        "Fax":"+62-21-62201541"
+    },
+    {
+        "Name":"PT. Penata Logistic",
+        "Address":"Jl. Ganggeng Raya No. 36 Jakarta 14330",
+        "Country":"INDONESIA",
+        "Tel":"62-21 43935729",
+        "Fax":"62-21 43935729"
+    },
+    {
+        "Name":"PT. Prolink Multimoda Trans",
+        "Address":"Jl. Gading Kirana Timur IX Blok Q No. 31, Komp. Bukit Gading Indah",
+        "Country":"INDONESIA",
+        "Tel":"+62 21 4585 2902",
+        "Fax":"+62 21 4585 2902"
+    },
+    {
+        "Name":"PT. Sinar Utama Karya Pribumi",
+        "Address":"Villa Tomang Baru Blok G2 no.19A\r\n\r\nGelam Jaya, PS Kemis, Tangerang",
+        "Country":"INDONESIA",
+        "Tel":"+6221-5907574, 59300662",
+        "Fax":"+6221-5907574, 59300662"
+    },
+    {
+        "Name":"PT. UTAMA GLOBALINDO CARGO",
+        "Address":"Jl. PROF. SOEPOMO SH NO.45 BZ, BLOK C TEBET JAKARTA  SELATAN 12810",
+        "Country":"INDONESIA",
+        "Tel":"62-21-8350778",
+        "Fax":"62-21-8350778"
+    },
+    {
+        "Name":"Crown Logistics LTD ( Al Taj Al Bahri Co. )",
+        "Address":"Italian City 1, Villa 353\r\nErbil",
+        "Country":"IRAQ",
+        "Tel":"+9647511138700",
+        "Fax":"+9647511138700"
+    },
+    {
+        "Name":"Xeless",
+        "Address":"Xeless Compound, Old bahrka Road, Girjutyar KM3, Erbil, 44003, Arbil",
+        "Country":"IRAQ",
+        "Tel":"+9647503261137",
+        "Fax":"+9647503261137"
+    },
+    {
+        "Name":"Emerald Freight Express",
+        "Address":"Santryhall Industrial Estate\r\n\r\nSantry\r\n\r\nDublin 9",
+        "Country":"IRELAND",
+        "Tel":"+ 353 1 8427666",
+        "Fax":"+ 353 1 8427666"
+    },
+    {
+        "Name":"ARMA CUSTOMS BROKERS&INT' FORWARDERS 1975",
+        "Address":"66041 Tel-Aviv",
+        "Country":"ISRAEL",
+        "Tel":"972-3-6390912",
+        "Fax":"972-3-6390912"
+    },
+    {
+        "Name":"InfinityPack & Ship",
+        "Address":"10 Yad Harutzim , Talpiot, Jerusalem 93442148",
+        "Country":"ISRAEL",
+        "Tel":"972-722-393-999",
+        "Fax":"972-722-393-999"
+    },
+    {
+        "Name":"Ordan Cargo",
+        "Address":"4 Ein Zeitim St Tel-Aviv, 6744840",
+        "Country":"ISRAEL",
+        "Tel":"+972-3-5424805",
+        "Fax":"+972-3-5424805"
+    },
+    {
+        "Name":"SIGMAI TRADE & LOGISTICS LTD.",
+        "Address":"8 Hachortim St.\r\nHolon",
+        "Country":"ISRAEL",
+        "Tel":"97235505700",
+        "Fax":"97235505700"
+    },
+    {
+        "Name":"Delta Novel Srl",
+        "Address":"Via Magazzini Anteriori, 51\r\n\r\n48100\r\n\r\nRavenna",
+        "Country":"ITALY",
+        "Tel":"+39 0544 593211",
+        "Fax":"+39 0544 593211"
+    },
+    {
+        "Name":"Energy International Logistics Srl",
+        "Address":"Via Privata Iseo 6\/D, San Giuliano Milanese, Milano",
+        "Country":"ITALY",
+        "Tel":"+39 02 99265929",
+        "Fax":"+39 02 99265929"
+    },
+    {
+        "Name":"International Transit srl",
+        "Address":"via al passo nuovo - calata san benigno - Genova porto 16126",
+        "Country":"ITALY",
+        "Tel":"0102534274",
+        "Fax":"0102534274"
+    },
+    {
+        "Name":"Mantoan Trasporti Srl",
+        "Address":"Sede: Via Signagatta, 17 - 10044 Pianezza (Torino)",
+        "Country":"ITALY",
+        "Tel":"+39 0586984744",
+        "Fax":"+39 0586984744"
+    },
+    {
+        "Name":"Matras srl",
+        "Address":"via de Marini - Shipping Tower - Genoa",
+        "Country":"ITALY",
+        "Tel":"0039 010 8599987",
+        "Fax":"0039 010 8599987"
+    },
+    {
+        "Name":"Tieffe Group Srl",
+        "Address":"Via Adriano Gozzini 5",
+        "Country":"ITALY",
+        "Tel":"+39 050988397",
+        "Fax":"+39 050988397"
+    },
+    {
+        "Name":"Caribbean Freight Handlers Ltd",
+        "Address":"6- 12 Newport Boulevard, Newport Commercial Centre, Newport West, Kingston 13",
+        "Country":"JAMAICA",
+        "Tel":"1876-764-9979",
+        "Fax":"1876-764-9979"
+    },
+    {
+        "Name":"Al-Amal LinesFor Shipment Services",
+        "Address":"Amman Tlaa Al Ali Jordan",
+        "Country":"JORDAN",
+        "Tel":"00962-6-5538600",
+        "Fax":"00962-6-5538600"
+    },
+    {
+        "Name":"Everest International Shipping",
+        "Address":"Amman -Jordan \r\nAl Rabyah Area\r\nP.O. Box 54217 \r\nAmman 11937",
+        "Country":"JORDAN",
+        "Tel":"+962 65515221",
+        "Fax":"+962 65515221"
+    },
+    {
+        "Name":"Octopus Shipping",
+        "Address":"Jordan Address  -16. Office 3. Almsawah St. Shafa Badran\r\nPO Box 53 | Amman Jordan 11118",
+        "Country":"JORDAN",
+        "Tel":"+96265231468",
+        "Fax":"+96265231468"
+    },
+    {
+        "Name":"Salam Shipping and Forwarding Agency",
+        "Address":"Um Uthaina, Sa'ad Bin Abi Waqqas St., Bldg no. 30",
+        "Country":"JORDAN",
+        "Tel":"+96265777903",
+        "Fax":"+96265777903"
+    },
+    {
+        "Name":"Evo Global LLP",
+        "Address":"Almaty city, Zenkov str. 13, office 11",
+        "Country":"KAZAKHSTAN",
+        "Tel":"+77758025686",
+        "Fax":"+77758025686"
+    },
+    {
+        "Name":"IFC COLOS",
+        "Address":"30A Markov str. 050040, Almaty city",
+        "Country":"KAZAKHSTAN",
+        "Tel":"+7 701 7567346",
+        "Fax":"+7 701 7567346"
+    },
+    {
+        "Name":"STL Soyuztranslink",
+        "Address":"Kazakhstan, Almaty, 050060, Al Farabi ave.97, office 54",
+        "Country":"KAZAKHSTAN",
+        "Tel":"+772726688021",
+        "Fax":"+772726688021"
+    },
+    {
+        "Name":"Enron East Africa Limited",
+        "Address":"Inland Container Depot (ICD) Embakasi, Off Mombasa Road,  Kenya Ports Authority Agents Building 2nd Floor, suite No. A022,",
+        "Country":"KENYA",
+        "Tel":"254721111208",
+        "Fax":"254721111208"
+    },
+    {
+        "Name":"FIRST WORLD MOVERS & FREIGHTERS",
+        "Address":"Vision Plaza 5th Floor, Mombasa Road \r\nP.O. BOX 14223-00100 GPO",
+        "Country":"KENYA",
+        "Tel":"+254739146961",
+        "Fax":"+254739146961"
+    },
+    {
+        "Name":"FIRSTLANE LOGISTICS (K) LTD",
+        "Address":"JOMO KENYATTA INT'L  AIRPORT, P.O BOX 1084, NAIROBI",
+        "Country":"KENYA",
+        "Tel":"+254788309344",
+        "Fax":"+254788309344"
+    },
+    {
+        "Name":"FLEET FREIGHTERS LIMITED",
+        "Address":"P.O. BOX 17583 NAIROBI",
+        "Country":"KENYA",
+        "Tel":"254-733926145",
+        "Fax":"254-733926145"
+    },
+    {
+        "Name":"Freight Forwarders Kenya",
+        "Address":"Leslander House, Dar-es-salaam Road, Mombasa, Kenya",
+        "Country":"KENYA",
+        "Tel":"+254 709 383586",
+        "Fax":"+254 709 383586"
+    },
+    {
+        "Name":"INDEX CARGO LOGISTICS LTD",
+        "Address":"Simco Plaza 2nd Floor, Lusaka Road Nairobi",
+        "Country":"KENYA",
+        "Tel":"+254716693700",
+        "Fax":"+254716693700"
+    },
+    {
+        "Name":"JASPA LOGISTICS LTD",
+        "Address":"P.O BOX 13529-00800\r\n\r\nNAIROBI",
+        "Country":"KENYA",
+        "Tel":"+254721287147",
+        "Fax":"+254721287147"
+    },
+    {
+        "Name":"Logistics Link LTD",
+        "Address":"Logistics Link Ltd\r\n\r\nStar Bright Building, South Airport Road\r\n\r\nP. O. Box 451 - 00521\r\n\r\nNairobi",
+        "Country":"KENYA",
+        "Tel":"+447950491707",
+        "Fax":"+447950491707"
+    },
+    {
+        "Name":"MGF - MULTILINES GLOBAL FORWARDING",
+        "Address":"3RD FLOOR RHAPHTA HEIGHTS , RHAPHTA ROAD NAIROBI",
+        "Country":"KENYA",
+        "Tel":"00254204440815",
+        "Fax":"00254204440815"
+    },
+    {
+        "Name":"NORTHERN TAAJ LOGISTICS LTD",
+        "Address":"Nkurumah road keder boy building",
+        "Country":"KENYA",
+        "Tel":"+254721313203",
+        "Fax":"+254721313203"
+    },
+    {
+        "Name":"Quick Task Freight Kenya Ltd",
+        "Address":"Jem Park Complex-Mombasa Rd\r\nP.O BOX 11496-00400\r\nNairobi",
+        "Country":"KENYA",
+        "Tel":"+254712996981,+254718485209",
+        "Fax":"+254712996981,+254718485209"
+    },
+    {
+        "Name":"Rescue Tech Enterprises Ltd",
+        "Address":"CANNON TOWERS 5TH FLOOR MOI AVENUE MOMBASA KENYA",
+        "Country":"KENYA",
+        "Tel":"+254722778830",
+        "Fax":"+254722778830"
+    },
+    {
+        "Name":"Siggol Logistics",
+        "Address":"Orina House, 2nd Floor\r\nKirinyaga Road",
+        "Country":"KENYA",
+        "Tel":"+254728303730",
+        "Fax":"+254728303730"
+    },
+    {
+        "Name":"Union Logistics Limited",
+        "Address":"2nd Floor, Plaza 2000, Mombasa Road, P.O.Box 4831, 00506 Nairobi",
+        "Country":"KENYA",
+        "Tel":"+254 (20) 3522391",
+        "Fax":"+254 (20) 3522391"
+    },
+    {
+        "Name":"ANB GLOBAL LOGIS CO.,LTD.",
+        "Address":"RM.208 CHEONGHO PLAZA, 329 GONGHANG-DAERO, GANGSEO-GU, SEOUL 07591",
+        "Country":"SOUTH KOREA",
+        "Tel":"+82 2 2038 3797",
+        "Fax":"+82 2 2038 3797"
+    },
+    {
+        "Name":"Anex Shipping & Air Freight",
+        "Address":"Suite 601, DBM Building, 200-30, Donggyo-Dong, Mapo-Gu, Seoul",
+        "Country":"SOUTH KOREA",
+        "Tel":"82 2 365 4022",
+        "Fax":"82 2 365 4022"
+    },
+    {
+        "Name":"GLOGITECH CO.,LTD",
+        "Address":"RM 719 ACEHIGHTECHCITY 2, 25, SEONYU-RO 13-GIL,YEONGDEUNGPO-GU, SEOUL, 07282, \r\nREP. OF KOREA",
+        "Country":"SOUTH KOREA",
+        "Tel":"82-2-6272-0905",
+        "Fax":"82-2-6272-0905"
+    },
+    {
+        "Name":"janghyun total logistics",
+        "Address":"JANGHYUN TOTAL LOGISTICS CO.,LTD.       \r\n       \r\n RM301 SEONG WOO BLDG 82-6, 4KA, CHUNGANG-DONG, CHUNG-KU, BUSAN",
+        "Country":"SOUTH KOREA",
+        "Tel":"81-51-467-9724",
+        "Fax":"81-51-467-9724"
+    },
+    {
+        "Name":"Greenways Logistics International",
+        "Address":"Office No 1, 3rd Floor, Fadala Complex, Farwaniya",
+        "Country":"KUWAIT",
+        "Tel":"+ 965 24760381",
+        "Fax":"+ 965 24760381"
+    },
+    {
+        "Name":"Posta Plus",
+        "Address":"Alqadeseyah, Alyarmouk 2020, 12020",
+        "Country":"KUWAIT",
+        "Tel":"(00965) 18 81 881",
+        "Fax":"(00965) 18 81 881"
+    },
+    {
+        "Name":"IGCC LLC",
+        "Address":"183 Panfilova str Office 03 Bishkek 720040",
+        "Country":"KYRGYZSTAN",
+        "Tel":"+996 312 698 646",
+        "Fax":"+996 312 698 646"
+    },
+    {
+        "Name":"Axia Logistics Latvia SIA",
+        "Address":"Riga International Airport\r\n\r\n\"KOLL\" cargo terminal\r\n\r\nRiga, LV-1053",
+        "Country":"LATVIA",
+        "Tel":"+371 6 7009219",
+        "Fax":"+371 6 7009219"
+    },
+    {
+        "Name":"Freight Express",
+        "Address":"Ain El Mraisseh, Beirut",
+        "Country":"LEBANON",
+        "Tel":"+ 9611-366097",
+        "Fax":"+ 9611-366097"
+    },
+    {
+        "Name":"GIFCO Ghorayeb Int\u0425l Freight Forwarding",
+        "Address":"Beirut International Airport, Airport Road, Beirut",
+        "Country":"LEBANON",
+        "Tel":"+ 961 1 450 550",
+        "Fax":"+ 961 1 450 550"
+    },
+    {
+        "Name":"Leader Ship SARL",
+        "Address":"Beirut Badawi Str. Baroud Bldg. 4 th.",
+        "Country":"LEBANON",
+        "Tel":"961 1 566 442",
+        "Fax":"961 1 566 442"
+    },
+    {
+        "Name":"World Wide Logistics Co. Ltd.",
+        "Address":"St. Jacques Ctr. 9th floor, Dora Highway, Beirut",
+        "Country":"LEBANON",
+        "Tel":"+9611243002",
+        "Fax":"+9611243002"
+    },
+    {
+        "Name":"Transtira LLC",
+        "Address":"Vilniaus St. 4B, Vilnius (Grigiskes), LT-27101",
+        "Country":"LITHUANIA",
+        "Tel":"+37052638403",
+        "Fax":"+37052638403"
+    },
+    {
+        "Name":"ARTHA LOGISTICS SDN BHD",
+        "Address":"LOT 9002, JALAN TELOK GONG, PORT KLANG, SELANGOR, MALAYSIA",
+        "Country":"MALAYSIA",
+        "Tel":"+603 31703006",
+        "Fax":"+603 31703006"
+    },
+    {
+        "Name":"AVIS PIONEER LOGISTICS SDN BHD",
+        "Address":"NO 21 , JLN SG JELUH 32\/191, KAWASAN PERINDUSTRIAN KEMUNING , SEKSYEN 32\r\nSHAH ALAM",
+        "Country":"MALAYSIA",
+        "Tel":"+60162113094",
+        "Fax":"+60162113094"
+    },
+    {
+        "Name":"Clarion International Freight & Logistics Sdn Bhd",
+        "Address":"Suite # 27-07 B, Level 27 Centro, No 8, Jalan Batu Tiga Lama, 41300 Klang",
+        "Country":"MALAYSIA",
+        "Tel":"+6 03-33624724",
+        "Fax":"+6 03-33624724"
+    },
+    {
+        "Name":"FELIX EXPO LOGISTICS (M) SDN BHD",
+        "Address":"B-07-02A, Block B, Sunway Geo Avenue, Jalan Lagoon Selatan, Sunway South Quay 47500 Bandar Sunway, Selangor",
+        "Country":"MALAYSIA",
+        "Tel":"60126903115",
+        "Fax":"60126903115"
+    },
+    {
+        "Name":"KGW Logistics (M) Sdn Bhd",
+        "Address":"D11-10-1, Block D11, Dana 1 Commercial Centre, Jalan PJU 1A\/46, 47301 Petaling Jaya, Selangor",
+        "Country":"MALAYSIA",
+        "Tel":"+603-78428899",
+        "Fax":"+603-78428899"
+    },
+    {
+        "Name":"Lima Bintang Logistics Sdn Bhd",
+        "Address":"PTD 41365, Jalan Idaman 3\/2, Senai Industrial Park, Taman Desa Idaman, 81400 Senai Johor,",
+        "Country":"MALAYSIA",
+        "Tel":"+ 607 5987687",
+        "Fax":"+ 607 5987687"
+    },
+    {
+        "Name":"Macline Logistics Sdn Bhd",
+        "Address":"B4-12A-2,Jalan Batu Nilam 3,\r\n\r\nBandar Bukit Tinggi,\r\n\r\n41200 Klang,Selangor",
+        "Country":"MALAYSIA",
+        "Tel":"603-33258009",
+        "Fax":"603-33258009"
+    },
+    {
+        "Name":"MULTI CARGO EXPRESS SDN BHD",
+        "Address":"No 28 & 30 Jalan Jubli Perak 22\/1, Persiaran Jubli Perak, Section 22, 40400 Shah Alam, Selangor",
+        "Country":"MALAYSIA",
+        "Tel":"603-55662888",
+        "Fax":"603-55662888"
+    },
+    {
+        "Name":"MY Forwarder International SDN BHD",
+        "Address":"No. 42-3 Jln Puteri 2\/2, Bdr Puteri Puchong, 47100 Puchong, Selangor",
+        "Country":"MALAYSIA",
+        "Tel":"603-80603433",
+        "Fax":"603-80603433"
+    },
+    {
+        "Name":"SALVALOG MALAYSIA SDN BHD",
+        "Address":"UNIT 2-1, THE PODIUM TOWER 3, UOA BUSINESS PARK",
+        "Country":"MALAYSIA",
+        "Tel":"60169922773",
+        "Fax":"60169922773"
+    },
+    {
+        "Name":"SATT Shipping & Logistics SDN BHD",
+        "Address":"Suite 27-07A, 27th Floor, Centro Mall, No. 8, Jalan Batu Tiga Lama, 41300, Klang, Selangor, Malaysia",
+        "Country":"MALAYSIA",
+        "Tel":"+60166768475",
+        "Fax":"+60166768475"
+    },
+    {
+        "Name":"SH Global Freight Sdn Bhd",
+        "Address":"18, Jln Limbungan, Off Jln Chain Ferry, 12100 Butterworth, Penang",
+        "Country":"MALAYSIA",
+        "Tel":"+604-3105454",
+        "Fax":"+604-3105454"
+    },
+    {
+        "Name":"SH GLOBAL FREIGHT SDN BHD",
+        "Address":"18, JALAN LIMBUNGAN, OFF JALAN CHAIN FERRY, 12100 BUTTERWORTH",
+        "Country":"MALAYSIA",
+        "Tel":"+6043101118",
+        "Fax":"+6043101118"
+    },
+    {
+        "Name":"TRANS INTERNATIONAL LOGISTIKS SDN BHD",
+        "Address":"6-3, JALAN SS7\/16 KELANA JAYA, 47301 PETALING JAYA, SELANGOR DARUL EHSAN",
+        "Country":"MALAYSIA",
+        "Tel":"03-78731333",
+        "Fax":"03-78731333"
+    },
+    {
+        "Name":"WORLDWISE FREIGHT (M) SDN BHD",
+        "Address":"NO.27-2 JALAN BATU NILAM 5 , BANDAR BUTKIT TINGGI , 41200 SELANGOR",
+        "Country":"MALAYSIA",
+        "Tel":"+60333234680",
+        "Fax":"+60333234680"
+    },
+    {
+        "Name":"Centurion Transport Solutions",
+        "Address":"H. Keesfilla\r\n\r\nKhluluhuraa Magu\r\n\r\nMale' 20-02",
+        "Country":"MALDIVES",
+        "Tel":"+960 3338530",
+        "Fax":"+960 3338530"
+    },
+    {
+        "Name":"Seven Ocean Transport Pvt. Ltd.",
+        "Address":"M.Thuthiya,Ground Floor\r\n\r\nAlimas Magu\r\n\r\nMale'\r\n\r\nRep. Of Maldives",
+        "Country":"MALDIVES",
+        "Tel":"+960 3344009",
+        "Fax":"+960 3344009"
+    },
+    {
+        "Name":"SUPERIOR CARGO",
+        "Address":"Rue 319 Porte 238 (OPP. EX-USAID office) Bamako - Coura, \r\n\r\nBamako",
+        "Country":"MALI",
+        "Tel":"22320227676",
+        "Fax":"22320227676"
+    },
+    {
+        "Name":"Cosmo (Malta) Limited",
+        "Address":"AGS house Giuseppe Cali Street \r\n\r\nTa Xbiex XBX1424",
+        "Country":"MALTA",
+        "Tel":"+356 79767772",
+        "Fax":"+356 79767772"
+    },
+    {
+        "Name":"Fahrenheit Freight Forwarders Co. Ltd",
+        "Address":"c\/o FAMALCO,\r\n\r\nPitkali Road,\r\n\r\nAttard. ATD2214",
+        "Country":"MALTA",
+        "Tel":"+356 2339 2279",
+        "Fax":"+356 2339 2279"
+    },
+    {
+        "Name":"MJK",
+        "Address":"Triq Patri Mattew Sultana Kalkara, KKR 1183",
+        "Country":"MALTA",
+        "Tel":"+356 21649474",
+        "Fax":"+356 21649474"
+    },
+    {
+        "Name":"Salvo Grima (Freeport Operation)",
+        "Address":"187 PINTO HOUSE, \r\n\r\nWINE PRESSERS WHARF,\r\n\r\nMARSA MRS 1912",
+        "Country":"MALTA",
+        "Tel":"+356 25607553",
+        "Fax":"+356 25607553"
+    },
+    {
+        "Name":"W.J.Parnis England Ltd`",
+        "Address":"60, South Street,\r\n\r\nValletta",
+        "Country":"MALTA",
+        "Tel":"+356 21244306",
+        "Fax":"+356 21244306"
+    },
+    {
+        "Name":"Alpha-Services-Ltd",
+        "Address":"Module F #39 Route NDB Tevragh Zeina",
+        "Country":"MAURITANIA",
+        "Tel":"+222 4574 4956",
+        "Fax":"+222 4574 4956"
+    },
+    {
+        "Name":"BSM GROUP",
+        "Address":"lot 08 Teverg _ noukchoot Mauritania",
+        "Country":"MAURITANIA",
+        "Tel":"0022236353552",
+        "Fax":"0022236353552"
+    },
+    {
+        "Name":"Sharaf Shipping Agency Ltd",
+        "Address":"1st Floor, MFD Building. Freeport Zone 5, Mer Rouge. Port Louis, Mauritius",
+        "Country":"MAURITIUS",
+        "Tel":"230 245 8049",
+        "Fax":"230 245 8049"
+    },
+    {
+        "Name":"STACKS Africa",
+        "Address":"Unit 21, Circle Square Business Park, Forbach",
+        "Country":"MAURITIUS",
+        "Tel":"+27 (0)21 286 1088",
+        "Fax":"+27 (0)21 286 1088"
+    },
+    {
+        "Name":"Blogic SA de CV",
+        "Address":"tauro 145-A \r\n\r\nCol. Contry\r\n\r\nMonterrey, N.L",
+        "Country":"MEXICO",
+        "Tel":"52 8183493295",
+        "Fax":"52 8183493295"
+    },
+    {
+        "Name":"GLOBAL CROQUET LOGISTICS LLC",
+        "Address":"12118 JEF DR SUITE A, KILLAM BUSINESS PARK, LAREDO TX 78045",
+        "Country":"MEXICO",
+        "Tel":"528118051297",
+        "Fax":"528118051297"
+    },
+    {
+        "Name":"Heavy Porters, SA de CV",
+        "Address":"Carmen 227 Col Maria Luisa \r\nMonterrey, N.L. 64040",
+        "Country":"MEXICO",
+        "Tel":"+528183464441",
+        "Fax":"+528183464441"
+    },
+    {
+        "Name":"Lozen Management Logistics",
+        "Address":"15A. Avenida 928-5 Col.Cumbres 2do. Sector Monterrey, N.L.",
+        "Country":"MEXICO",
+        "Tel":"+ 52 (81) 83 70 71 80",
+        "Fax":"+ 52 (81) 83 70 71 80"
+    },
+    {
+        "Name":"OE OCEAN EXPRESS MEXICO SA DECV",
+        "Address":"FRANCISCO PETRARCA No. 223\r\n\r\nCOL. CHAPULTEPEC MORALES\r\n\r\nCP11570",
+        "Country":"MEXICO",
+        "Tel":"52 55 4981 6617",
+        "Fax":"52 55 4981 6617"
+    },
+    {
+        "Name":"P + S OPERACIONES SA DE CV",
+        "Address":"\u00c1msterdam 124 int 404 Col- Hip\u00f3dromo",
+        "Country":"MEXICO",
+        "Tel":"52-55-2454 9397",
+        "Fax":"52-55-2454 9397"
+    },
+    {
+        "Name":"PENINSULA FORWARDING",
+        "Address":"C.16 X 5 Y 7 DEPTO. 4 COL. MEXICO NORTE",
+        "Country":"MEXICO",
+        "Tel":"+529994060717",
+        "Fax":"+529994060717"
+    },
+    {
+        "Name":"PRAXIS LOGISTICA S DE RL DE CV",
+        "Address":"FILIPINAS 206 BODEGA 5B\r\n\r\nCOL. PORTALES DELEG. BENITO JUAREZ\r\n\r\nDF. C.P. 03300",
+        "Country":"MEXICO",
+        "Tel":"+52-55-90001718",
+        "Fax":"+52-55-90001718"
+    },
+    {
+        "Name":"RM INTERNATIONAL FORWARDER",
+        "Address":"REVOLUCI\u00d3N 1877, OF. 1202, TIZAP\u00c1N, \u00c1LVARO OBREG\u00d3N 01090, CDMX, M\u00c9XICO",
+        "Country":"MEXICO",
+        "Tel":"525555505059",
+        "Fax":"525555505059"
+    },
+    {
+        "Name":"JRC Logistics (Saipan), Inc.",
+        "Address":"P.O. Box 505200, CK\r\nSaipan, MP 96950 USA",
+        "Country":"MICRONESIA, FEDERATED STATES OF",
+        "Tel":"+671 288 6941",
+        "Fax":"+671 288 6941"
+    },
+    {
+        "Name":"Quehenberger Logistics MDV SRL",
+        "Address":"53\/4 bd. Dacia, Chisinau, MD2062",
+        "Country":"MOLDOVA",
+        "Tel":"+37368697079",
+        "Fax":"+37368697079"
+    },
+    {
+        "Name":"Bright Logistics LLC",
+        "Address":"WW office center, 8th Floor, Room 802 , Bayangol District, Industrial Center (16030),    Transportation Center Street 3 \/ 1st, Ulaanbaatar , Mongolia",
+        "Country":"MONGOLIA",
+        "Tel":"+97686085797",
+        "Fax":"+97686085797"
+    },
+    {
+        "Name":"Moroccan Cargo Partner",
+        "Address":"310 Avn Omar Rifi\r\n\r\n3rd Floor Casablanca",
+        "Country":"MOROCCO",
+        "Tel":"212522305070",
+        "Fax":"212522305070"
+    },
+    {
+        "Name":"PLANET COM TRANS",
+        "Address":"1,Rue Ait Baamrane, Angle Bd. Mohamed V ET ALBERT 1er \/ CASABLANCA.",
+        "Country":"MOROCCO",
+        "Tel":"00212522242237",
+        "Fax":"00212522242237"
+    },
+    {
+        "Name":"Transfaro",
+        "Address":"119 BIR ANZARANE RES RAMZI B APT 1\r\n\r\nMAARIF CASABLANCA 20330",
+        "Country":"MOROCCO",
+        "Tel":"++2125229808333",
+        "Fax":"++2125229808333"
+    },
+    {
+        "Name":"Universal Freight Services",
+        "Address":"11 bd emile zola residence le printemps 9eme etage numero 18",
+        "Country":"MOROCCO",
+        "Tel":"00212522305101",
+        "Fax":"00212522305101"
+    },
+    {
+        "Name":"Sedate Shipping & Logistics Co.,Ltd",
+        "Address":"Room 910(G), 9th Floor, Lapyaytwun Plaza, Alanpya Pagoda Road, Dagon Township, Yangon",
+        "Country":"MYANMAR",
+        "Tel":"250193,246188",
+        "Fax":"250193,246188"
+    },
+    {
+        "Name":"Global Link Logistics Pvt.Ltd",
+        "Address":"495 Chaksi bari Marg, Citroen Garden Complex, Thamel, Kathmandu",
+        "Country":"NEPAL",
+        "Tel":"4701092",
+        "Fax":"4701092"
+    },
+    {
+        "Name":"Cargo Data Systems BV",
+        "Address":"Roosendaal, Stationsplein 13, NL-4702 VZ Roosendaal",
+        "Country":"NETHERLANDS",
+        "Tel":"+31 (0)165 56 56 67",
+        "Fax":"+31 (0)165 56 56 67"
+    },
+    {
+        "Name":"Snelweg Transport & Logistics",
+        "Address":"Ringersstraat 9\r\nNL - 3125 BP \r\nSchiedam",
+        "Country":"NETHERLANDS",
+        "Tel":"+31-10-4704011",
+        "Fax":"+31-10-4704011"
+    },
+    {
+        "Name":"Atlas International Freight Ltd",
+        "Address":"31 Aintree Ave\r\n\r\nAirport Oaks\r\n\r\nAuckland",
+        "Country":"NEW ZEALAND",
+        "Tel":"+64-9-2569909",
+        "Fax":"+64-9-2569909"
+    },
+    {
+        "Name":"Norical Logistics",
+        "Address":"Orewa, Auckland 0931",
+        "Country":"NEW ZEALAND",
+        "Tel":"642102885482",
+        "Fax":"642102885482"
+    },
+    {
+        "Name":"Sneddens Airocean Services Ltd",
+        "Address":"14A Rennie Drive, P O Box 107-057, Airport Oaks, Auckland 2022",
+        "Country":"NEW ZEALAND",
+        "Tel":"+ 64 9 2569598",
+        "Fax":"+ 64 9 2569598"
+    },
+    {
+        "Name":"Transport Services and Logistics Ltd",
+        "Address":"1 The Warehouse Way\r\n\r\nNorthcote\r\n\r\nAuckland",
+        "Country":"NEW ZEALAND",
+        "Tel":"+64 9 4880448",
+        "Fax":"+64 9 4880448"
+    },
+    {
+        "Name":"U.B. Freight Limited",
+        "Address":"95 Montgomerie Road\r\n\r\nAirport Oaks\r\n\r\nAuckland 2150",
+        "Country":"NEW ZEALAND",
+        "Tel":"+649 966 3850",
+        "Fax":"+649 966 3850"
+    },
+    {
+        "Name":"Star Logistics",
+        "Address":"Colonia 10 de Junio B539",
+        "Country":"NICARAGUA",
+        "Tel":"+50557924169",
+        "Fax":"+50557924169"
+    },
+    {
+        "Name":"ALOVAIR-SEA LTD",
+        "Address":"8 Abiodun Wright Masha End\r\nSurulere Lagos",
+        "Country":"NIGERIA",
+        "Tel":"08168202126",
+        "Fax":"08168202126"
+    },
+    {
+        "Name":"AMRIT CONSULT",
+        "Address":"NAF SHOPPING COMPLEX IKEJA",
+        "Country":"NIGERIA",
+        "Tel":"09066977606",
+        "Fax":"09066977606"
+    },
+    {
+        "Name":"AVI MARINE SERVICES LTD",
+        "Address":"14, OSHIFILA STREET, ANIFOWOSHE, IKEJA, LAGOS.",
+        "Country":"NIGERIA",
+        "Tel":"234 1 7737263",
+        "Fax":"234 1 7737263"
+    },
+    {
+        "Name":"CFS Logistics Services Ltd",
+        "Address":"22 Ogunyinka Street, Off Murtala Mohammed Intl Airport Road, Mafoluku, Oshodi",
+        "Country":"NIGERIA",
+        "Tel":"+2348033079397",
+        "Fax":"+2348033079397"
+    },
+    {
+        "Name":"Chukaben Agencies Nig. Ltd",
+        "Address":"No. 10 Industrial Road, Off Apapa-Oshodi, Trinity Bus-stop",
+        "Country":"NIGERIA",
+        "Tel":"+2347033000242",
+        "Fax":"+2347033000242"
+    },
+    {
+        "Name":"LECHWE MARITIME & LOGISTICS LIMITED",
+        "Address":"6 OLA ADESHILE STREET\r\n\r\nAJAO ESTATE\r\n\r\nISOLO\r\n\r\nLAGOS",
+        "Country":"NIGERIA",
+        "Tel":"+2348091122833",
+        "Fax":"+2348091122833"
+    },
+    {
+        "Name":"NELLOSUN NIGERIA LIMITED",
+        "Address":"Sunny Ihenkonye",
+        "Country":"NIGERIA",
+        "Tel":"+2347062817597",
+        "Fax":"+2347062817597"
+    },
+    {
+        "Name":"Peakriver Logistics Limited",
+        "Address":"Suite 14 , 2nd  Floor, 61 Marina Road, Lagos",
+        "Country":"NIGERIA",
+        "Tel":"+ 2348039316946",
+        "Fax":"+ 2348039316946"
+    },
+    {
+        "Name":"PLANAIR CARGO LTD",
+        "Address":"11 OLAIDE TOMORI STREET\r\n\r\nOFF SIMBIAT ABIOLA WAY\r\n\r\nIKEJA, LAGOS",
+        "Country":"NIGERIA",
+        "Tel":"+234 1 453 2143",
+        "Fax":"+234 1 453 2143"
+    },
+    {
+        "Name":"Septmax Clearing and Logistics",
+        "Address":"83 Opebi Road by Junction Bus Stop,\r\nOpebi-Ikeja, Lagos",
+        "Country":"NIGERIA",
+        "Tel":"+234-817-317-5612, +234-817-317-5621",
+        "Fax":"+234-817-317-5612, +234-817-317-5621"
+    },
+    {
+        "Name":"Valuehandlers International Limited",
+        "Address":"No 9 Akilo Rd, Off Oba Akran Avenue, Cocoa bus stop, Ikeja, Lagos.",
+        "Country":"NIGERIA",
+        "Tel":"08032241768",
+        "Fax":"08032241768"
+    },
+    {
+        "Name":"Alsi for Marine Service LLC",
+        "Address":"P.O. Box 608, P.C: 322, W. Sohar,\r\nSultanate of OMAN",
+        "Country":"OMAN",
+        "Tel":"+96826755598",
+        "Fax":"+96826755598"
+    },
+    {
+        "Name":"GLOBAL CORP LOGISTICS LLC",
+        "Address":"PO BOX 566,\r\n\r\nPC 114,\r\n\r\nMUTTRAH",
+        "Country":"OMAN",
+        "Tel":"96824702744",
+        "Fax":"96824702744"
+    },
+    {
+        "Name":"Asiatrans International Express & Logistics",
+        "Address":"OFFICE107 PROGRESSIVE SQUARE11ABLOCK6",
+        "Country":"PAKISTAN",
+        "Tel":"02134530763",
+        "Fax":"02134530763"
+    },
+    {
+        "Name":"BLUELINES CARGO (PVT) LTD",
+        "Address":"KASHMIR ROAD, \r\n\r\nPACCA GARAH,\r\n\r\nSIALKOT",
+        "Country":"PAKISTAN",
+        "Tel":"+92524295580",
+        "Fax":"+92524295580"
+    },
+    {
+        "Name":"Cargo Plus Pvt Ltd",
+        "Address":"NEAR H.B.L (SMALL INDUSTRIAL ESTATE) SHAHAB PURA UGOKI ROAD, SIALKOT",
+        "Country":"PAKISTAN",
+        "Tel":"+92523555373",
+        "Fax":"+92523555373"
+    },
+    {
+        "Name":"Cargo Vision Shipping Agency",
+        "Address":"Suite# 510, 5th Floor, Business Centre, Plot# 19\/1-A, Block # 06 PECHS KARACHI.",
+        "Country":"PAKISTAN",
+        "Tel":"009221 34324410",
+        "Fax":"009221 34324410"
+    },
+    {
+        "Name":"Easy Movers Packers",
+        "Address":"Sabzazar Truck Stand, Block D Sabzazar, Lahore,Punjab,Pakistan.",
+        "Country":"PAKISTAN",
+        "Tel":"03004023092",
+        "Fax":"03004023092"
+    },
+    {
+        "Name":"EMA SHIPPING AGENCIES",
+        "Address":"Shahra e aliqat ,fakhri trade center- Karachi",
+        "Country":"PAKISTAN",
+        "Tel":"+92523561272",
+        "Fax":"+92523561272"
+    },
+    {
+        "Name":"Executive Packers and Movers",
+        "Address":"Office # 39 Sharjah Centre Plaza, ground floor G-10 Markaz Islamabad",
+        "Country":"PAKISTAN",
+        "Tel":"+92512356661",
+        "Fax":"+92512356661"
+    },
+    {
+        "Name":"Facilities Shipping Agency",
+        "Address":"M-1 Queens Centre M T Khan Road Karachi-74244",
+        "Country":"PAKISTAN",
+        "Tel":"0092-21-35644749",
+        "Fax":"0092-21-35644749"
+    },
+    {
+        "Name":"Freight Forwarders In Islamabad-Karachi-Lahore Pakistan",
+        "Address":"Suit 409 4th Floor Land Mark Plaza Jail Road Lahore",
+        "Country":"PAKISTAN",
+        "Tel":"+923214108433",
+        "Fax":"+923214108433"
+    },
+    {
+        "Name":"GFS International",
+        "Address":"G-104, Jeff Height, Main Boulevard, Gulberg-III, Lahore",
+        "Country":"PAKISTAN",
+        "Tel":"0092-42-35782506",
+        "Fax":"0092-42-35782506"
+    },
+    {
+        "Name":"GTS Logistics Pvt Ltd",
+        "Address":"Suite # 501, 5th Floor Land Mark Plaza Opp. Jang Press Karachi",
+        "Country":"PAKISTAN",
+        "Tel":"0092 21 32212050",
+        "Fax":"0092 21 32212050"
+    },
+    {
+        "Name":"INFINITY SHIPPING SERVICES",
+        "Address":"Suit # 203, 2nd floor, Ibrahim Trade Tower Plot # 1 , Maqbool Abad, Block 7\/8 Main Shahrah e Faisal, Karachi",
+        "Country":"PAKISTAN",
+        "Tel":"009221 34327760",
+        "Fax":"009221 34327760"
+    },
+    {
+        "Name":"Linkers Logistics Packers and Movers",
+        "Address":"56 B II JOHAR TOWN LAHORE",
+        "Country":"PAKISTAN",
+        "Tel":"+92 42 35089951",
+        "Fax":"+92 42 35089951"
+    },
+    {
+        "Name":"Links Shipping & Logistics",
+        "Address":"Suite No 08, 2nd Floor Sheikh Center,\r\nMain Universty Road Karachi-Pakistan",
+        "Country":"PAKISTAN",
+        "Tel":"92-021-34989061-65",
+        "Fax":"92-021-34989061-65"
+    },
+    {
+        "Name":"Logistics House (Pvt) Ltd.",
+        "Address":"Suite # 327-A, 3rd Floor, Eden Center\r\n\r\n43 Jail Road, Lahore",
+        "Country":"PAKISTAN",
+        "Tel":"+92 42 37567880",
+        "Fax":"+92 42 37567880"
+    },
+    {
+        "Name":"MATRIX LOGISTICS",
+        "Address":"ROOM # 808, 8TH FLOOR, PROGRESSIV SQUARE, \r\n\r\nPLOT # 11-A , BLOCK 6, PECHS\r\n\r\nSHAHRAH E FAISAL\r\n\r\nKARACHI.",
+        "Country":"PAKISTAN",
+        "Tel":"922134388004",
+        "Fax":"922134388004"
+    },
+    {
+        "Name":"MODERN FREIGHT SYSTEM",
+        "Address":"AL QADIR HEIGHTS,\r\nSUITE#9, M-FLOOR, 1-BABAR BLOCK,\r\nNEW GARDEN TOWN, LAHORE",
+        "Country":"PAKISTAN",
+        "Tel":"+924235847707",
+        "Fax":"+924235847707"
+    },
+    {
+        "Name":"Modern Shipping Agencies Private Limited",
+        "Address":"Suite # 102, 1st Floor, Hussain Trade Center New Chali Karachi",
+        "Country":"PAKISTAN",
+        "Tel":"92-21-3221526",
+        "Fax":"92-21-3221526"
+    },
+    {
+        "Name":"My Logistics Network",
+        "Address":"Ugoki Road Shahab Pura",
+        "Country":"PAKISTAN",
+        "Tel":"0092 52 3250061",
+        "Fax":"0092 52 3250061"
+    },
+    {
+        "Name":"PACE LOGISTICS",
+        "Address":"Al Khalil Center 3rd Floor Office No. 416 Kashmir Road Sialkot",
+        "Country":"PAKISTAN",
+        "Tel":"0092523550408",
+        "Fax":"0092523550408"
+    },
+    {
+        "Name":"Pacewell Cargo",
+        "Address":"Dar Plaza, Jamait Khaana Road, Sialkot",
+        "Country":"PAKISTAN",
+        "Tel":"0092524591691",
+        "Fax":"0092524591691"
+    },
+    {
+        "Name":"Pacific Marine Logistics",
+        "Address":"Suite # 711, 7th Floor, Uni Centre, I.I Chundrigar Road -",
+        "Country":"PAKISTAN",
+        "Tel":"+922132460214",
+        "Fax":"+922132460214"
+    },
+    {
+        "Name":"Packers and Movers Home Shefting Services",
+        "Address":"Truck Stand Rd, Block D Sabzazar Housing Scheme Phase 1 & 2 Sabzazar, Lahore, Punjab, Pakistan",
+        "Country":"PAKISTAN",
+        "Tel":"03008164060",
+        "Fax":"03008164060"
+    },
+    {
+        "Name":"PCA CARGO PVT LTD",
+        "Address":"KARAM HOUSE\r\n\r\nBEHIND PAK MEDICAL CENTRE OFF DEFENCE ROAD SIALKOT",
+        "Country":"PAKISTAN",
+        "Tel":"92523257155",
+        "Fax":"92523257155"
+    },
+    {
+        "Name":"Regatta Maritime Agencies",
+        "Address":"Suite#607, 06th Floor, Chapal Plaza\r\n\r\nHasart Mohani Road, Karachi-74000",
+        "Country":"PAKISTAN",
+        "Tel":"+922132401948",
+        "Fax":"+922132401948"
+    },
+    {
+        "Name":"Servopak Shipping (Pvt) Ltd.",
+        "Address":"1st Floor, Jamal Tower Shahab Pura, Ugoki Road, Sialkot 51310",
+        "Country":"PAKISTAN",
+        "Tel":"+92 52 3252481",
+        "Fax":"+92 52 3252481"
+    },
+    {
+        "Name":"SHAH-E-KARAM SHIPPING AGENCIES",
+        "Address":"G-2, PLOT NO. 1\/1-B, P.E.C.H.S BLOCK 6 \r\n\r\nSHAHRAH-E-FAISAL, KARACHI",
+        "Country":"PAKISTAN",
+        "Tel":"OO92-21-34371358-9",
+        "Fax":"OO92-21-34371358-9"
+    },
+    {
+        "Name":"Shipway",
+        "Address":"1st Floor, Lucid Tower Paris Road Sialkot -51310,",
+        "Country":"PAKISTAN",
+        "Tel":"Mr. Hassan Ghuman",
+        "Fax":"Mr. Hassan Ghuman"
+    },
+    {
+        "Name":"SILK LOGISTICS",
+        "Address":"20 B Park View Plaza G-10 markaz Islamabad",
+        "Country":"PAKISTAN",
+        "Tel":"923334310267",
+        "Fax":"923334310267"
+    },
+    {
+        "Name":"SM FREIGHT SERVICES",
+        "Address":"Suite no 2 First Floor Jawad Plaza Aibak Road Main Westridge Market Westridge Market",
+        "Country":"PAKISTAN",
+        "Tel":"0092515491235",
+        "Fax":"0092515491235"
+    },
+    {
+        "Name":"SRS Shipping and Logistics",
+        "Address":"407, 4th Floor Marine Faisal\r\nBuilding Shahrah-e-Faisal, Karachi, Pakistan",
+        "Country":"PAKISTAN",
+        "Tel":"02134550770",
+        "Fax":"02134550770"
+    },
+    {
+        "Name":"Supply Chain Logistics (Pvt) Ltd.,",
+        "Address":"2nd Floor, 123 G Commercial Phase 1 D.H.A Lahore Cantt",
+        "Country":"PAKISTAN",
+        "Tel":"+92-42-35745795",
+        "Fax":"+92-42-35745795"
+    },
+    {
+        "Name":"Team Freight Management",
+        "Address":"Suite 115, 1st Floor, Sabah Palace, Pechs-6, Shahrah-E-Faisal, Karachi",
+        "Country":"PAKISTAN",
+        "Tel":"0092 21 34326801",
+        "Fax":"0092 21 34326801"
+    },
+    {
+        "Name":"TECHNO FREIGHT PAKISTAN",
+        "Address":"B-15\/A Descon Plaza Building 2nd floor\r\n11-A Block 6 P.E.C.H.S, Karachi Pakistan",
+        "Country":"PAKISTAN",
+        "Tel":"+92 21 34397499 \/ +92 21 34371128",
+        "Fax":"+92 21 34397499 \/ +92 21 34371128"
+    },
+    {
+        "Name":"TEKNIK MOVERS",
+        "Address":"DEFENSE ROAD, IQBAL TOWN\r\n\r\nSIALKOT 51310",
+        "Country":"PAKISTAN",
+        "Tel":"92523250625",
+        "Fax":"92523250625"
+    },
+    {
+        "Name":"Transbridge Logistics (Pvt) Ltd",
+        "Address":"Suite # 1311\/1312\/1313, Chapel Plaza, Hasrat Mohani Road, Off \r\n\r\nI, I. Chundrigar Road Karachi - 74000",
+        "Country":"PAKISTAN",
+        "Tel":"++92-21-32400624",
+        "Fax":"++92-21-32400624"
+    },
+    {
+        "Name":"Transparency Shipping Pakistan (Pvt) Ltd",
+        "Address":"Suite # 510, 5th Floor, Business Centre,\r\nPlot # 19\/1-A, Block-6, PECHS,\r\nKarachi",
+        "Country":"PAKISTAN",
+        "Tel":"+92-213-4324388-90",
+        "Fax":"+92-213-4324388-90"
+    },
+    {
+        "Name":"TRANSPARENT FREIGHT SERVICES",
+        "Address":"ROOM # 1007,10TH FLOOR UNI PLAZA\r\nI.I CHUNDRIGAR ROAD, KARACHI,PAKISTAN.",
+        "Country":"PAKISTAN",
+        "Tel":"+92-21-32426394",
+        "Fax":"+92-21-32426394"
+    },
+    {
+        "Name":"VELOCITY LINES",
+        "Address":"211 RAVI BLOCK ALLAMA IQBAL TOWN",
+        "Country":"PAKISTAN",
+        "Tel":"00923219425889",
+        "Fax":"00923219425889"
+    },
+    {
+        "Name":"Wagoners Worldwide Pvt. Ltd",
+        "Address":"1\/C-8th Canal Park Gulberg II Lahore",
+        "Country":"PAKISTAN",
+        "Tel":"+92 111 727 747",
+        "Fax":"+92 111 727 747"
+    },
+    {
+        "Name":"WORLD EXPRESS CARGO SERVICES",
+        "Address":"1ST FLOOR, GREEN BUILDING, \r\n\r\nCOMMISSIONER ROAD,\r\n\r\nSIALKOT-51310",
+        "Country":"PAKISTAN",
+        "Tel":"+92-52-4583204",
+        "Fax":"+92-52-4583204"
+    },
+    {
+        "Name":"Zeigler Logistics PVT Ltd",
+        "Address":"Suite 221, 2nd Floor Eden Towers, Main Boulevard, Gulberg III, Lahore, Punjab",
+        "Country":"PAKISTAN",
+        "Tel":"923219439705",
+        "Fax":"923219439705"
+    },
+    {
+        "Name":"Logistic Management & Transportation Corp",
+        "Address":"Ave La Paz, Calle E Norte, Bethania",
+        "Country":"PANAMA",
+        "Tel":"+ 507-302 6416",
+        "Fax":"+ 507-302 6416"
+    },
+    {
+        "Name":"NAKAMA WORLDWIDE SOLUTIONS S.A.",
+        "Address":"FRANCE FIELD, 8TH STREET, AREA # 3B, BLOCK # 44,, WAREHOUSE No. 23, COLON FREE ZONE - PANAMA",
+        "Country":"PANAMA",
+        "Tel":"+5073050156",
+        "Fax":"+5073050156"
+    },
+    {
+        "Name":"TRANSLOG GLOBAL SOLUTIONS, INC",
+        "Address":"50th Street, Global Bank Building, 32nd floor, Panama City",
+        "Country":"PANAMA",
+        "Tel":"+507 4749932",
+        "Fax":"+507 4749932"
+    },
+    {
+        "Name":"TRUST CARGO CONSULTING SAC",
+        "Address":"CAL. COMANDANTE GUSTAVO JIMENEZ 392,MAGDALENA DEL MAR",
+        "Country":"PERU",
+        "Tel":"012886962",
+        "Fax":"012886962"
+    },
+    {
+        "Name":"ALPHACON LOGISTICS INTERNATIONAL CORP.",
+        "Address":"UNIT 707 1&2 COLUMBIA AIRFREIGHT COMPLEX, NAIA AVENUE, BRGY. STO. NI\u00d1O, PARA\u00d1AQUE CITY PHILIPPINES 1700",
+        "Country":"PHILIPPINES",
+        "Tel":"+632-82563543",
+        "Fax":"+632-82563543"
+    },
+    {
+        "Name":"Cadano Cargo Transport Services Inc.",
+        "Address":"Unit 404 CYA Building, No. 282 EDSA Extension, Pasay City, 1301, Metro Manila.",
+        "Country":"PHILIPPINES",
+        "Tel":"6328547227",
+        "Fax":"6328547227"
+    },
+    {
+        "Name":"Cargoship Inc.",
+        "Address":"Unit 1919\/1918 Cityland Herrera Tower, Herrera, Cor. Valero St. Salcedo Village, Makati City",
+        "Country":"PHILIPPINES",
+        "Tel":"+63 (02) 8929231",
+        "Fax":"+63 (02) 8929231"
+    },
+    {
+        "Name":"GLOBALISTICS FREIGHT SERVICES CORP.",
+        "Address":"Unit 1806 West Trade Center, 132 West Avenue, Quezon City, 1104",
+        "Country":"PHILIPPINES",
+        "Tel":"+632-3328283; +632-9941168",
+        "Fax":"+632-3328283; +632-9941168"
+    },
+    {
+        "Name":"JRC Logistics (Phils) International, Inc.",
+        "Address":"11-B Saint Andrew Street, Don Bosco Village, Better Living Subdivision, Paranaque City, 1711",
+        "Country":"PHILIPPINES",
+        "Tel":"(632) 823-3008",
+        "Fax":"(632) 823-3008"
+    },
+    {
+        "Name":"Worldmovers Philippines Inc",
+        "Address":"378-E Natividad St., Valley 6, San Isidro, Paranaque City,",
+        "Country":"PHILIPPINES",
+        "Tel":"907 0825",
+        "Fax":"907 0825"
+    },
+    {
+        "Name":"AMG Cargo Logistics Sp. z o.o.",
+        "Address":"60 Sabaly street, 02-174 Warsaw",
+        "Country":"POLAND",
+        "Tel":"+48222582633",
+        "Fax":"+48222582633"
+    },
+    {
+        "Name":"Cartrag Ltd.",
+        "Address":"81-963 Gdynia 1\r\n\r\nPOBox 337\r\n\r\n32, Zeromskiego str.",
+        "Country":"POLAND",
+        "Tel":"+48 58 6617004",
+        "Fax":"+48 58 6617004"
+    },
+    {
+        "Name":"Marko Service sp. zo.o.",
+        "Address":"Postepu 11 lok 3\r\n\r\n03-676 Warszawa",
+        "Country":"POLAND",
+        "Tel":"+48 22 868 5575",
+        "Fax":"+48 22 868 5575"
+    },
+    {
+        "Name":"SPN LOGISTICS",
+        "Address":"Kineskopowa str. 1 05-500 Piaseczno n.Warsaw",
+        "Country":"POLAND",
+        "Tel":"+48 609424200",
+        "Fax":"+48 609424200"
+    },
+    {
+        "Name":"WIDE BRIDGE FORWARDING",
+        "Address":"3 Laczyny Street\r\n\r\n02-820 Warsaw",
+        "Country":"POLAND",
+        "Tel":"(+48 22) 331 06 63",
+        "Fax":"(+48 22) 331 06 63"
+    },
+    {
+        "Name":"AMF Lda",
+        "Address":"Estrada da Arrogela,\r\n\r\nQuinta do Pinheiro fraccao  K\r\n\r\n2615",
+        "Country":"PORTUGAL",
+        "Tel":"+3519587350",
+        "Fax":"+3519587350"
+    },
+    {
+        "Name":"ETE LOGISTICA, S.A.",
+        "Address":"Largo do Corpo Santo, n\u00ba 21 \r\nPost Code: 1200 \u2013 129 Lisboa",
+        "Country":"PORTUGAL",
+        "Tel":"(+351) 21 1128000",
+        "Fax":"(+351) 21 1128000"
+    },
+    {
+        "Name":"Join The Moment S.A.",
+        "Address":"Rua Antero de Quental, 221, 2nd floor\r\n4455-586 Perafita",
+        "Country":"PORTUGAL",
+        "Tel":"+351 229 999 800",
+        "Fax":"+351 229 999 800"
+    },
+    {
+        "Name":"Vanesp Iberica - Transitarios, S.A.",
+        "Address":"Via Jose Regio, 195, En 13, Centro Emp. Vilar Pinheiro, Vilar Do Pinheiro, Porto",
+        "Country":"PORTUGAL",
+        "Tel":"351 229287500",
+        "Fax":"351 229287500"
+    },
+    {
+        "Name":"BRITANIA FREIGHT & LOGISTICS",
+        "Address":"P.O.BOX: 4474, DOHA",
+        "Country":"QATAR",
+        "Tel":"+974 431 66 36",
+        "Fax":"+974 431 66 36"
+    },
+    {
+        "Name":"Concord Logistics Trading & Services W.L.L",
+        "Address":"Po Box: 18757, Doha, Qatar",
+        "Country":"QATAR",
+        "Tel":"+974 44622130",
+        "Fax":"+974 44622130"
+    },
+    {
+        "Name":"e2e globalllines (q) packers and movers",
+        "Address":"pb no 23563\r\n\r\nopp lulu hyper market \r\n\r\nd ring road\r\n\r\ndoha",
+        "Country":"QATAR",
+        "Tel":"00974 44516688",
+        "Fax":"00974 44516688"
+    },
+    {
+        "Name":"Freightex Logistics W.L.L",
+        "Address":"umm al saneem street\r\nNear Dragon mart\r\nRegency Shopping complex building",
+        "Country":"QATAR",
+        "Tel":"44267100",
+        "Fax":"44267100"
+    },
+    {
+        "Name":"NORTH OCEAN COMPANY W.L.L.",
+        "Address":"3rd floor, Building No.: 31, \r\n\r\nJabr Bin Mohamad Street,\r\n\r\nOld Salata, \r\n\r\nNear Swissbel Hotel - Corniche, \r\n\r\nP. O. Box 14916, Doha",
+        "Country":"QATAR",
+        "Tel":"+97444374437",
+        "Fax":"+97444374437"
+    },
+    {
+        "Name":"Red Jet Logistics",
+        "Address":"Al - Garafa\r\n\r\nDoha",
+        "Country":"QATAR",
+        "Tel":"+97450129966",
+        "Fax":"+97450129966"
+    },
+    {
+        "Name":"Shepherd Logistics  co  W.L.L.",
+        "Address":"ZONE 90 , ABDUL RAHMAN, BIN JASSIM ST.NEW AL WAKRA, QATAR,",
+        "Country":"QATAR",
+        "Tel":"+974 44184321",
+        "Fax":"+974 44184321"
+    },
+    {
+        "Name":"TRANSPARENT FREIGHT SERVICES WLL",
+        "Address":"C-48, GROUND FLOOR, RITAJ COMPLEX\r\nABU HAMOUR, DOHA, QATAR.",
+        "Country":"QATAR",
+        "Tel":"+974-70606059",
+        "Fax":"+974-70606059"
+    },
+    {
+        "Name":"Black Sea Crown Shipping",
+        "Address":"1A, Aviator Craiu Street, Suite 1, Constanta",
+        "Country":"ROMANIA",
+        "Tel":"0040 241 512276",
+        "Fax":"0040 241 512276"
+    },
+    {
+        "Name":"BLACK SEA EASTERN GATE SRL",
+        "Address":"102 Constantei road, Bl H3, Sc A, Ap. 9, Cumpana, Constanta",
+        "Country":"ROMANIA",
+        "Tel":"+40767632406",
+        "Fax":"+40767632406"
+    },
+    {
+        "Name":"DTS LOGISTIC SERVICES",
+        "Address":"25th A V.MADGEARU STREET, 1st FLOOR, 014135 BUCHAREST",
+        "Country":"ROMANIA",
+        "Tel":"+40 31 4251815",
+        "Fax":"+40 31 4251815"
+    },
+    {
+        "Name":"FENI International SRL",
+        "Address":"Sos. Ciofliceni, Nr.259, Sat Cifliceni, Comuna Snagov, Judetul Ilfov Cod 077165",
+        "Country":"ROMANIA",
+        "Tel":"0040.21.201.4510",
+        "Fax":"0040.21.201.4510"
+    },
+    {
+        "Name":"Foxtrans Services",
+        "Address":"Pitesti 110227",
+        "Country":"ROMANIA",
+        "Tel":"+ 40 21 4600 400",
+        "Fax":"+ 40 21 4600 400"
+    },
+    {
+        "Name":"SC EMASEA SHIPPING & CHARTERING",
+        "Address":"STR, TITU MAIORESCU , NO.17, MANGALIA 905500",
+        "Country":"ROMANIA",
+        "Tel":"004075217513",
+        "Fax":"004075217513"
+    },
+    {
+        "Name":"SC Rilvan Serv SRL",
+        "Address":"Str. Ghimbavului, Nr. 37, Com. Halchiu, Jud Brasov",
+        "Country":"ROMANIA",
+        "Tel":"40212014659",
+        "Fax":"40212014659"
+    },
+    {
+        "Name":"Quick Task Freight Rwanda Limited",
+        "Address":"Quick Task Freight Rwanda Limited, \r\n KN 3 RD, Kigali- Makuza Building,\r\n Contact Person: Ms. Lisa Lubega,\r\n E-mail: rwanda@quicktaskfreight.com,\r\n Tel: +250724363852",
+        "Country":"RWANDA",
+        "Tel":"+250724363852",
+        "Fax":"+250724363852"
+    },
+    {
+        "Name":"Atlas Logistics",
+        "Address":"Siteen Road\r\nP.O Box 55113",
+        "Country":"SAUDI ARABIA",
+        "Tel":"+966126826600 Ext 108",
+        "Fax":"+966126826600 Ext 108"
+    },
+    {
+        "Name":"CAPITAL LOGISTICS & TRANSPORT",
+        "Address":"Jarir Street, Malaz, Riyadh",
+        "Country":"SAUDI ARABIA",
+        "Tel":"966-11-4765773",
+        "Fax":"966-11-4765773"
+    },
+    {
+        "Name":"FLAME LOGISTICS",
+        "Address":"P.O Box 124070, Riyadh - 11761\r\nKingdom of Saudi Arabia",
+        "Country":"SAUDI ARABIA",
+        "Tel":"+966 503491319, +966 552652218",
+        "Fax":"+966 503491319, +966 552652218"
+    },
+    {
+        "Name":"Focuz Line Shipping Services",
+        "Address":"P.O. Box - 7983, Mobco Building, Suite #20, IBN Al Anbary Street, Alamal Area, Riyadh",
+        "Country":"SAUDI ARABIA",
+        "Tel":"+ 966 114081212",
+        "Fax":"+ 966 114081212"
+    },
+    {
+        "Name":"GREEN BOX SHIPPING AGENCY - GBL",
+        "Address":"KING FAHAD ROAD, JEDDAH 23337 PO BOX 3717,KSA",
+        "Country":"SAUDI ARABIA",
+        "Tel":"0096 6548133406",
+        "Fax":"0096 6548133406"
+    },
+    {
+        "Name":"Hizam Shipping & Logistics Services Company",
+        "Address":"2nd Floor, D # 12\r\n6165, Kind Khaled Street, Tubaishi\r\nDammam - 31442",
+        "Country":"SAUDI ARABIA",
+        "Tel":"+966138323844",
+        "Fax":"+966138323844"
+    },
+    {
+        "Name":"KINGDOM LOGISTICS",
+        "Address":"Velancia Building \r\nMalaz Riyadh saudi arabia",
+        "Country":"SAUDI ARABIA",
+        "Tel":"Mobile +966 502260256 Tel +966 11 2380517",
+        "Fax":"Mobile +966 502260256 Tel +966 11 2380517"
+    },
+    {
+        "Name":"LOGISTICS WORLDS SHIPPING",
+        "Address":"KING KHALID ROAD",
+        "Country":"SAUDI ARABIA",
+        "Tel":"966126492238",
+        "Fax":"966126492238"
+    },
+    {
+        "Name":"TD Global",
+        "Address":"2nd floor, Gold Tower, Madeena Road,",
+        "Country":"SAUDI ARABIA",
+        "Tel":"+966133670122",
+        "Fax":"+966133670122"
+    },
+    {
+        "Name":"Wared Logistics",
+        "Address":"Dar Al Nahda Business Center, Prince Sultan Street, Jeddah",
+        "Country":"SAUDI ARABIA",
+        "Tel":"+966 2 6996707",
+        "Fax":"+966 2 6996707"
+    },
+    {
+        "Name":"GENIUS AFRIKA LOGISTICS SAS",
+        "Address":"Sud Foire, Cite Magistrats\r\nDAKAR",
+        "Country":"SENEGAL",
+        "Tel":"+221 33 896 79 10",
+        "Fax":"+221 33 896 79 10"
+    },
+    {
+        "Name":"Natural Cargo Solution",
+        "Address":"Bulevar Mihajla Pupina 10i\/VP42, 11070 New Belgrade",
+        "Country":"SERBIA",
+        "Tel":"+381 11 3116124",
+        "Fax":"+381 11 3116124"
+    },
+    {
+        "Name":"Premium Cargo Doo",
+        "Address":"Dr.Ivana Ribara 182\/34",
+        "Country":"SERBIA",
+        "Tel":"+381112286048",
+        "Fax":"+381112286048"
+    },
+    {
+        "Name":"ALPS GLOBAL LOGISTICS PTE LTD",
+        "Address":"Alps Global Logistic Pte Ltd\r\n21 WOODLANDS CLOSE,#04-46, PRIMZ BIZHUB",
+        "Country":"SINGAPORE",
+        "Tel":"63445880",
+        "Fax":"63445880"
+    },
+    {
+        "Name":"BRUHAT LOGISTICS PTE LTD",
+        "Address":"15, Pandan Crescent, Singapore - 128470",
+        "Country":"SINGAPORE",
+        "Tel":"65 31632095",
+        "Fax":"65 31632095"
+    },
+    {
+        "Name":"CBG Logistics (S) Pte Ltd",
+        "Address":"12 Changi North Way, #03-04.\r\n\r\nSingapore 498791",
+        "Country":"SINGAPORE",
+        "Tel":"+65 66348998",
+        "Fax":"+65 66348998"
+    },
+    {
+        "Name":"EES Freight Services Pte Ltd",
+        "Address":"110 Tanjong Pagar Road Singapore 088527",
+        "Country":"SINGAPORE",
+        "Tel":"+ 65-6272 7878",
+        "Fax":"+ 65-6272 7878"
+    },
+    {
+        "Name":"FTL Group Pte Ltd",
+        "Address":"33 Ubi Avenue 3 \r\n\r\nVertex, #06-49\r\n\r\nLobby A\r\n\r\n408868",
+        "Country":"SINGAPORE",
+        "Tel":"(65) 6509 3566",
+        "Fax":"(65) 6509 3566"
+    },
+    {
+        "Name":"GRIFFIN KINETIC PTE LTD",
+        "Address":"9 AIRLINE ROAD #01-04 AIRLINE AGENTS BUILDING D SINGAPORE 819827",
+        "Country":"SINGAPORE",
+        "Tel":"+65 6690 6700",
+        "Fax":"+65 6690 6700"
+    },
+    {
+        "Name":"Infreight Logistics Pte Ltd",
+        "Address":"101 Thomson Road, #15-03 United Square, Singapore 307591",
+        "Country":"SINGAPORE",
+        "Tel":"+ 65 6962 2518",
+        "Fax":"+ 65 6962 2518"
+    },
+    {
+        "Name":"MERSTAR INTERNATIONAL (S) PTE LTD",
+        "Address":"7 AIRLINE ROAD, #01-18 CARGO AGENTS BUILDING E, CHANGI AIRFREIGHT CENTRE",
+        "Country":"SINGAPORE",
+        "Tel":"+65 65458833",
+        "Fax":"+65 65458833"
+    },
+    {
+        "Name":"Sea-Net Cargo Express (S) Pte Ltd",
+        "Address":"No.111, North Bridge Road, #27-01\/02, Peninsula Plaza,179098",
+        "Country":"SINGAPORE",
+        "Tel":"+65-62952856",
+        "Fax":"+65-62952856"
+    },
+    {
+        "Name":"SPEED CARGO LOGISTICS (S) PTE LTD",
+        "Address":"135, MIDDLE ROAD, #05-10 BYLANDS BUILDING, SINGAPORE - 188975",
+        "Country":"SINGAPORE",
+        "Tel":"+65 6743 8100",
+        "Fax":"+65 6743 8100"
+    },
+    {
+        "Name":"ILG Adriatik d.o.o.",
+        "Address":"Ankaranska cesta 7B\r\nSI-6000, Koper",
+        "Country":"SLOVENIA",
+        "Tel":"00 386 8 205 8434",
+        "Fax":"00 386 8 205 8434"
+    },
+    {
+        "Name":"South Europe Gateway Koper d.o.o.",
+        "Address":"Ankaranska cesta 7b",
+        "Country":"SLOVENIA",
+        "Tel":"+386059337361",
+        "Fax":"+386059337361"
+    },
+    {
+        "Name":"Concargo Global Logistics (Pty) Ltd",
+        "Address":"Cape Town ; South Africa",
+        "Country":"SOUTH AFRICA",
+        "Tel":"+27(0)219309160",
+        "Fax":"+27(0)219309160"
+    },
+    {
+        "Name":"Diamond Freight",
+        "Address":"2nd Floor Makem Building, 21 Margaret Avenue, Kempton Park 1620, Johannesburg",
+        "Country":"SOUTH AFRICA",
+        "Tel":"110469598",
+        "Fax":"110469598"
+    },
+    {
+        "Name":"Fastpulse Trading 131 Pty Ltd",
+        "Address":"5 Sim Road\r\nPomona\r\nKempton Park\r\n1619",
+        "Country":"SOUTH AFRICA",
+        "Tel":"0119790634",
+        "Fax":"0119790634"
+    },
+    {
+        "Name":"GAC LASER INTERNATIONAL LOGISTICS",
+        "Address":"2 BAKER STREET, MONTAGUE GARDENS, CAPE TOWN",
+        "Country":"SOUTH AFRICA",
+        "Tel":"+27215283700",
+        "Fax":"+27215283700"
+    },
+    {
+        "Name":"Groupair SA (PTY) LTD",
+        "Address":"270 TULBAGH ROAD\r\n\r\nPOMONA\r\n\r\nKEMPTON PARK\r\n\r\nJOHANNESBURG",
+        "Country":"SOUTH AFRICA",
+        "Tel":"+27113901133",
+        "Fax":"+27113901133"
+    },
+    {
+        "Name":"LTG Logistics Transport Globally",
+        "Address":"28 Van Eden Crescent, Rosslyn, Pretoria, 0200",
+        "Country":"SOUTH AFRICA",
+        "Tel":"087 234 9759",
+        "Fax":"087 234 9759"
+    },
+    {
+        "Name":"Personal Effects Logistics PTY LTD",
+        "Address":"7A Willow Street, Kempton Park, Johannesburg 1619",
+        "Country":"SOUTH AFRICA",
+        "Tel":"+27 11 394 9934",
+        "Fax":"+27 11 394 9934"
+    },
+    {
+        "Name":"Procet Freight",
+        "Address":"53 Maple Street, Pomona, Kempton Park, Johannesburg, South Africa.",
+        "Country":"SOUTH AFRICA",
+        "Tel":"+27119757414",
+        "Fax":"+27119757414"
+    },
+    {
+        "Name":"Seacargo (Pty) Ltd",
+        "Address":"4C\/4D Highway Gardens Office Park, 77 Minuach Street, Highway Gardens, Edenvale, 1609",
+        "Country":"SOUTH AFRICA",
+        "Tel":"27114520166",
+        "Fax":"27114520166"
+    },
+    {
+        "Name":"Synergy Worldwide Logistics (Pty) Ltd",
+        "Address":"107 Escom Road, New Germany, Durban, South Africa, 3610",
+        "Country":"SOUTH AFRICA",
+        "Tel":"+27317057909",
+        "Fax":"+27317057909"
+    },
+    {
+        "Name":"Moldtrans SL",
+        "Address":"Pol\u00edgono Industrial Pla d\u2019en Coll, Ctra. Nacional, 152z, Km. 14, ES 08110, NONTCADA I REIXAC, Barcelona, Spain",
+        "Country":"SPAIN",
+        "Tel":"+ 34 91 669 69 96",
+        "Fax":"+ 34 91 669 69 96"
+    },
+    {
+        "Name":"OCEAN TRANSPORT SPAIN, S.L.",
+        "Address":"CARRER PERU 248\r\n\r\n08020 BARCELONA",
+        "Country":"SPAIN",
+        "Tel":"+34-932620838",
+        "Fax":"+34-932620838"
+    },
+    {
+        "Name":"SMART LOGISTICS GROUP",
+        "Address":"Carrer 60, 25-27, 08040 Barcelona",
+        "Country":"SPAIN",
+        "Tel":"+34 932 23 06 08",
+        "Fax":"+34 932 23 06 08"
+    },
+    {
+        "Name":"VANESP IBERICA - TRANSITARIOS, SA",
+        "Address":"Centro de Carga Aeropuerto de Barajas-Madrid. Edfi,Servicios Generales oficina 612-A\r\n\r\n28042 Madrid",
+        "Country":"SPAIN",
+        "Tel":"+34.911281030",
+        "Fax":"+34.911281030"
+    },
+    {
+        "Name":"Asia Logistics Lanka Pvt Ltd",
+        "Address":"No.93, Ananda Mawatha \r\n\r\nColombo - 10",
+        "Country":"SRI LANKA",
+        "Tel":"+94 115 288981",
+        "Fax":"+94 115 288981"
+    },
+    {
+        "Name":"Colombo Breakbulk Sea & Air Services pvt ltd",
+        "Address":"287 Havelock road colombo",
+        "Country":"SRI LANKA",
+        "Tel":"0094 773074377",
+        "Fax":"0094 773074377"
+    },
+    {
+        "Name":"Crossport Global Logistics pvt ltd",
+        "Address":"no 22\/1\/2,shubbery gardens,\r\n\r\ncolombo 04",
+        "Country":"SRI LANKA",
+        "Tel":"94114863399",
+        "Fax":"94114863399"
+    },
+    {
+        "Name":"ETL COLOMBO PVT LTD",
+        "Address":"NO 15, 2ND FLOOR, \r\n\r\nSEA AVENUE \r\n\r\nCOLOMBO 00300",
+        "Country":"SRI LANKA",
+        "Tel":"94117262555",
+        "Fax":"94117262555"
+    },
+    {
+        "Name":"Nautica Maritime Consolidators (Pvt) Ltd",
+        "Address":"No. 1\/2-2 \"Deansten House\",\r\n\r\nDeansten Place, Colombo 3",
+        "Country":"SRI LANKA",
+        "Tel":"+94 712 282 220",
+        "Fax":"+94 712 282 220"
+    },
+    {
+        "Name":"PERSHIP SYNERGY(PVT)LTD",
+        "Address":"NO 72C , BAUDDHALOKA MAWATHA ,COLOMBO 03",
+        "Country":"SRI LANKA",
+        "Tel":"00940112592990",
+        "Fax":"00940112592990"
+    },
+    {
+        "Name":"PRESTIGE INTERNATIONAL LOGISTICS (PVT) LTD",
+        "Address":"83, GEORGE R DE SILVA MAWATHA, COLOMBO 13",
+        "Country":"SRI LANKA",
+        "Tel":"0094112470099",
+        "Fax":"0094112470099"
+    },
+    {
+        "Name":"SEA MASTER SHIPPING & LOGISTICS PVT.LTD",
+        "Address":"LEVEL 24, EAST TOWER, WORLD TRADE CENTRE, COLOMBO 01",
+        "Country":"SRI LANKA",
+        "Tel":"+94 112 440077",
+        "Fax":"+94 112 440077"
+    },
+    {
+        "Name":"SHIP AIR LOGISTICS PVT LTD",
+        "Address":"No:64 Jethawana Road\r\n\r\nColombo 14",
+        "Country":"SRI LANKA",
+        "Tel":"0094-11 4651165",
+        "Fax":"0094-11 4651165"
+    },
+    {
+        "Name":"Trans Orbit Global Logistics Pte Ltd",
+        "Address":"317, Jayantha Weerasekara Mawatha,\r\n\r\nMaradana, Colombo 10",
+        "Country":"SRI LANKA",
+        "Tel":"+94114384448",
+        "Fax":"+94114384448"
+    },
+    {
+        "Name":"Wigynsa Global (Pvt) Ltd",
+        "Address":"No- 14 2\/1, Sunethradevi Road, Kohuwala",
+        "Country":"SRI LANKA",
+        "Tel":"+94112856005",
+        "Fax":"+94112856005"
+    },
+    {
+        "Name":"Fast Trans Gmbh",
+        "Address":"Fracht West, Buro 319, Postfach 153, 8058 Z\u045frich-Flughafen",
+        "Country":"SWITZERLAND",
+        "Tel":"+ 41 43 816 6521",
+        "Fax":"+ 41 43 816 6521"
+    },
+    {
+        "Name":"Intrapass GmbH",
+        "Address":"Check-in 2 \r\nZurich Airport",
+        "Country":"SWITZERLAND",
+        "Tel":"+41 43 816 28 18",
+        "Fax":"+41 43 816 28 18"
+    },
+    {
+        "Name":"Pony Express GmbH",
+        "Address":"Martiweg 14, CH - 3008 Berne, BE",
+        "Country":"SWITZERLAND",
+        "Tel":"+ 41 79 356 77 02",
+        "Fax":"+ 41 79 356 77 02"
+    },
+    {
+        "Name":"SJZ TRANSGLOBAL AG",
+        "Address":"Freiburgstrasse 251\r\n\r\n3018 Bern",
+        "Country":"SWITZERLAND",
+        "Tel":"+41 31 311 46 46",
+        "Fax":"+41 31 311 46 46"
+    },
+    {
+        "Name":"ALPHALOG FREIGHT SYSTEM CORP",
+        "Address":"3F, NO.69, SEC. 3, MING SHEN E. RD., TAIPEI CITY",
+        "Country":"TAIWAN",
+        "Tel":"886 2 2503-7919",
+        "Fax":"886 2 2503-7919"
+    },
+    {
+        "Name":"ASIA AIR FREIGHT",
+        "Address":"7F-3, No. 155, Sec. 1, Keelung Rd.,Taipei",
+        "Country":"TAIWAN",
+        "Tel":"886-2-2528-7575",
+        "Fax":"886-2-2528-7575"
+    },
+    {
+        "Name":"Logfret Taiwan Ltd.",
+        "Address":"4f, No.148 Sung Chiang Road Taipei 10458",
+        "Country":"TAIWAN",
+        "Tel":"886-2-25375928",
+        "Fax":"886-2-25375928"
+    },
+    {
+        "Name":"JUWISON INVESTMENT (T) LTD",
+        "Address":"NSSF HIFADHI HOUSE \r\nASKARI MONUMENT\r\nAZIKIWE STREET \/ SAMORA AVENUE \r\n9 FLOOR, ROOM No.9\r\nLandline: (022)2126016 |",
+        "Country":"TANZANIA",
+        "Tel":"Landline: (022)2126016 |",
+        "Fax":"Landline: (022)2126016 |"
+    },
+    {
+        "Name":"Quick Task Freight  (T)  Limited",
+        "Address":"Kurasini Hse 2nd flr, Kurasini Area Bandari Road.\r\nPO BOX 72380\r\nDAR ES SALAAM",
+        "Country":"TANZANIA",
+        "Tel":"+254712996981,+25418485209",
+        "Fax":"+254712996981,+25418485209"
+    },
+    {
+        "Name":"Royal Star Shipping Co Ltd",
+        "Address":"Sofia Kawawa Street, 31166",
+        "Country":"TANZANIA",
+        "Tel":"+255766021541",
+        "Fax":"+255766021541"
+    },
+    {
+        "Name":"FREIGHT LINKS EXPRESS (THAILAND) CO.,LTD.",
+        "Address":"507\/321 Freight Links Building, Rama III Rd., Sathupradit 31, \r\nSoi Nakhonthai 4, Chongnonsi, Yannawa, Bangkok 10120 Thailand",
+        "Country":"THAILAND",
+        "Tel":"+6622102888 EXT.241",
+        "Fax":"+6622102888 EXT.241"
+    },
+    {
+        "Name":"Freight Rangers Co.,Ltd.",
+        "Address":"776 Phairoj Kijja Vill.\r\nPhase 4 Soi 3 \r\nBangna Trad 27\r\nBangna ,Bangna",
+        "Country":"THAILAND",
+        "Tel":"+66 20013521",
+        "Fax":"+66 20013521"
+    },
+    {
+        "Name":"JET8 (Thailand) Co., Ltd.",
+        "Address":"123\/1-2 Krungthepnon 12, Bangkhen, Muangnonthaburi, Nonthaburi, 11000",
+        "Country":"THAILAND",
+        "Tel":"+66-2-525-2220 to 1",
+        "Fax":"+66-2-525-2220 to 1"
+    },
+    {
+        "Name":"Prestige Global International Co., Ltd.",
+        "Address":"420\/7 Kanchanaphisek Road, Dok Mai Sub-Distrct, Pravet District, Bangkok 10250 Thailand.",
+        "Country":"THAILAND",
+        "Tel":"+ 66 0934568978",
+        "Fax":"+ 66 0934568978"
+    },
+    {
+        "Name":"V-Link Express Co Ltd",
+        "Address":"467\/1 Mongkol Building, 6th Floor, Mahathun Praram Center 3, Bangklo, Bangkorlaem, Bangkok 10120, Thailand",
+        "Country":"THAILAND",
+        "Tel":"+ 66 2 051 9988",
+        "Fax":"+ 66 2 051 9988"
+    },
+    {
+        "Name":"WAKO LOGISTICS (THAILAND) CO., LTD",
+        "Address":"75\/18 Ocean Tower 2 16th Fl, Sukhumvit 19, Klong Toey Nua, Wattana",
+        "Country":"THAILAND",
+        "Tel":"+66 2665 2865",
+        "Fax":"+66 2665 2865"
+    },
+    {
+        "Name":"World Mega Logistics (Thailand) Co., Ltd.",
+        "Address":"3366\/39 Soi Manorom, Rama 4 Rd., Klongton, Klongtoey, Bangkok 10110",
+        "Country":"THAILAND",
+        "Tel":"+66 2 671 8881",
+        "Fax":"+66 2 671 8881"
+    },
+    {
+        "Name":"GROUPE GATO (2G) s.a Logistique",
+        "Address":"Place des 4 Etoiles, Rond Point du port \r\nB.P. 61088 Lome",
+        "Country":"TOGO",
+        "Tel":"+228 22 27 94 57",
+        "Fax":"+228 22 27 94 57"
+    },
+    {
+        "Name":"Caribbean Freight Logistics",
+        "Address":"Western Main Road, St. James, Port of Spain",
+        "Country":"TRINIDAD AND TOBAGO",
+        "Tel":"(868)-628-3592",
+        "Fax":"(868)-628-3592"
+    },
+    {
+        "Name":"LOGISTICA SHIPPING",
+        "Address":"14 habib thameur street Sfax",
+        "Country":"TUNISIA",
+        "Tel":"21674202375",
+        "Fax":"21674202375"
+    },
+    {
+        "Name":"MGS Logistics",
+        "Address":"12, Rue de l'ile de Rhodes| Imm Zarrad A, 2eme \u041cotage, Apt A22 - 1053 Les Jardins du Lac II",
+        "Country":"TUNISIA",
+        "Tel":"+ 216 71 198 004",
+        "Fax":"+ 216 71 198 004"
+    },
+    {
+        "Name":"Trans Global Logistics",
+        "Address":"Rue ali bey immeuble chouayeb",
+        "Country":"TUNISIA",
+        "Tel":"27447210",
+        "Fax":"27447210"
+    },
+    {
+        "Name":"altunbasak ltd",
+        "Address":"gebze kocaeli",
+        "Country":"TURKEY",
+        "Tel":"+905446203600",
+        "Fax":"+905446203600"
+    },
+    {
+        "Name":"ANTREPO LOGISTICS TASIMACILIK KARGO VE KURYE HIZMETLERI TIC. VE SAN LTD STI",
+        "Address":"60075 Sok. No:3 Baysan \u0130s Mrk. B Blok K:5 D:608 Doseme Mah. Seyhan, Adana",
+        "Country":"TURKEY",
+        "Tel":"0090 322 456 00 35",
+        "Fax":"0090 322 456 00 35"
+    },
+    {
+        "Name":"ARMADA SHIPPING LOGISTICS SERVICES & TRADING LTD CO",
+        "Address":"Uzuncayir Cad Yapi Is mrk no.37 B2, D29 Hasanpasa 34722 Fenerbahce Kadikoy Istanbul",
+        "Country":"TURKEY",
+        "Tel":"90 216 3269060",
+        "Fax":"90 216 3269060"
+    },
+    {
+        "Name":"ASIAPAC TURKEY TASIMACILIK A.S.",
+        "Address":"MUMBAI",
+        "Country":"TURKEY",
+        "Tel":"05366811180",
+        "Fax":"05366811180"
+    },
+    {
+        "Name":"Atlastrans International Transport and Foreign Trade Inc",
+        "Address":"GOKALP MAH 35 SOK NO 18 \/ 5 ZEYTINBURNU ISTANBUL",
+        "Country":"TURKEY",
+        "Tel":"+90 212 558 51 15",
+        "Fax":"+90 212 558 51 15"
+    },
+    {
+        "Name":"Core Denizcilik ve Ticaret LTD STI",
+        "Address":"Core Denizcilik ve Ticaret Ltd. \u015eti. Bostanc\u0131 Mah. Turab Sk. \u00d6mer U\u011furata Apt. No:6 D:3 Kad\u0131k\u00f6y \/ \u0130stanbul",
+        "Country":"TURKEY",
+        "Tel":"\n\nAir Freight\nRoad Freight\nCustoms Clearance\nSea Freight\nDangerous\nDoor To Door\nPersonal Effects\nWarehouse\nInsurance\n\n",
+        "Fax":"\n\nAir Freight\nRoad Freight\nCustoms Clearance\nSea Freight\nDangerous\nDoor To Door\nPersonal Effects\nWarehouse\nInsurance\n\n"
+    },
+    {
+        "Name":"Embassy Freight Uluslararasi Tasimacilik ve Ticaret Ltd. Sti",
+        "Address":"Egitim Mah. Kasap Ismail Sk. Sadikoglu Plaza 5 K:3 D:69 Kadikoy Istanbul",
+        "Country":"TURKEY",
+        "Tel":"+90 216 4502575",
+        "Fax":"+90 216 4502575"
+    },
+    {
+        "Name":"ENATRANS LOGISTICS LTD",
+        "Address":"SAIR ESREF BULV RAGIP SAMLI IS MERK NO 6 D 304",
+        "Country":"TURKEY",
+        "Tel":"+ 902 3248 46300",
+        "Fax":"+ 902 3248 46300"
+    },
+    {
+        "Name":"FONTE GROUP LOGISTICS",
+        "Address":"Guzelyurt neighborhood 2148 street number 5, C floor 17  apartment number 239 \/  ESENYURT",
+        "Country":"TURKEY",
+        "Tel":"+90 212 801 7509",
+        "Fax":"+90 212 801 7509"
+    },
+    {
+        "Name":"GOKAY ULUS.TAS.TUR.SEY.SAN.VE TIC.LTD.STI.",
+        "Address":"Cami Serif Mah.5238 sokak Arzum Apt. Kat:1\/17 Mersin",
+        "Country":"TURKEY",
+        "Tel":"00903242379129",
+        "Fax":"00903242379129"
+    },
+    {
+        "Name":"HS Logistic International Transport, Import & Export",
+        "Address":"3 cu Cadde, Gulizar Sokak, Akapark No: 22, 34450 Sariyer-Istanbul",
+        "Country":"TURKEY",
+        "Tel":"+ 90 212 202 8890",
+        "Fax":"+ 90 212 202 8890"
+    },
+    {
+        "Name":"IDEA Logistics",
+        "Address":"Kartaltepe Mahallesi, 1. Malazgirt Caddesi, No: 10\/2 Daire: 131 Kucukcekmece, ISTANBUL",
+        "Country":"TURKEY",
+        "Tel":"+90 212 823 71 05",
+        "Fax":"+90 212 823 71 05"
+    },
+    {
+        "Name":"INNOVA GLOBAL SISTEM DANISMANLIK LOJISTIK HIZMETLERI VE TIC.LTD.STI.",
+        "Address":"Fahrettin Kerim Gokay Caddesi\r\nOrtaklar Is Merkezi No : 71 K.2 D.14\r\n34722 Kadikoy-Istanbul\/TURKEY",
+        "Country":"TURKEY",
+        "Tel":"++90 216 550 10 35",
+        "Fax":"++90 216 550 10 35"
+    },
+    {
+        "Name":"JANMAR SHIPPING LOGISTICS & TRADING CO.,",
+        "Address":"Camiserif Mah. 5222 Sokak Borsa Sarayi B Blok Kat:6 No:10 Mersin",
+        "Country":"TURKEY",
+        "Tel":"+903242326686",
+        "Fax":"+903242326686"
+    },
+    {
+        "Name":"KAF Marine Shipping Forwarding",
+        "Address":"Kultur Mah.Ataturk Cad. 4303 SK. S.Fikri Mutlu Apt. Kat 7\/No 14. Mersin",
+        "Country":"TURKEY",
+        "Tel":"+ 90 324 2390234",
+        "Fax":"+ 90 324 2390234"
+    },
+    {
+        "Name":"KG Shipping & Project Transportation Foreign Trade Ltd.Co.",
+        "Address":"KG HOUSE , Yenik\u00f6y k\u00f6y\u00fc K\u00fcme evleri No: 215 BABAESK\u0130 \/ KIRKLAREL\u0130",
+        "Country":"TURKEY",
+        "Tel":"+90 532 135 20 37",
+        "Fax":"+90 532 135 20 37"
+    },
+    {
+        "Name":"KITA LOGISTICS, INC.",
+        "Address":"Istanbul Ticaret Sarayi, Kat 5,\r\n\r\nOru\u041c\u00a4 Reis Mh. Vadi Cd. No:108\r\n\r\nGiyimkent, Esenler, \r\n\r\n34235  Istanbul",
+        "Country":"TURKEY",
+        "Tel":"+902124104141",
+        "Fax":"+902124104141"
+    },
+    {
+        "Name":"Nata Tkn Gemi Acenteligi",
+        "Address":"Ismet inonu Bulvar&#305; Uysal Apt Kat 4 33100 Mersin",
+        "Country":"TURKEY",
+        "Tel":"+ 90 324 238 4190",
+        "Fax":"+ 90 324 238 4190"
+    },
+    {
+        "Name":"NOSA DEN\u0130ZC\u0130L\u0130K",
+        "Address":"cami \u015ferif mah. borsa saray\u0131 i\u015f merkezi A blok kat:7 daire:21 akdeniz\/mersin",
+        "Country":"TURKEY",
+        "Tel":"00903242312268",
+        "Fax":"00903242312268"
+    },
+    {
+        "Name":"Okura Int Transport & Forwarding",
+        "Address":"ISMET INONU  BLV. NO 7 KLAS PLAZA  KAT 1 NO 1 MERSIN",
+        "Country":"TURKEY",
+        "Tel":"0090 324 238 6904",
+        "Fax":"0090 324 238 6904"
+    },
+    {
+        "Name":"Omega Shipping Tasimacilik ve Tic. Ltd. Sti.",
+        "Address":"Kozyatagi Mah. Bayar Cad. Sakaci Sok. Omega Is Merkezi No. 7\/1\/A Kozyatagi Kadikoy - Istanbul",
+        "Country":"TURKEY",
+        "Tel":"+90 216 463 65 00",
+        "Fax":"+90 216 463 65 00"
+    },
+    {
+        "Name":"Pikap Logistics",
+        "Address":"Osmanl\u0131 Bulvar\u0131 Elit Perla Palas, No:13\/74 KURTKOY \u0130STANBUL",
+        "Country":"TURKEY",
+        "Tel":"+902164071100",
+        "Fax":"+902164071100"
+    },
+    {
+        "Name":"PONTE LOGISTICS",
+        "Address":"1456 Sok. No:8 K:5 D:13 Berin Aksoy \u0130\u015f Merkezi Alsancak \/ \u0130zmir \/ TURKEY",
+        "Country":"TURKEY",
+        "Tel":"00902323355630",
+        "Fax":"00902323355630"
+    },
+    {
+        "Name":"RUSCO International Cargo Courier Group",
+        "Address":"FATIH MAH.27 MAYIS CAD.ESEN SOKAK",
+        "Country":"TURKEY",
+        "Tel":"+902126620031",
+        "Fax":"+902126620031"
+    },
+    {
+        "Name":"Ruya Logistic Tourism and Trading Comp.",
+        "Address":"Bayar Cad. Sultan Sk. No:26\/4\r\n\r\nErenkoy - Istanbul",
+        "Country":"TURKEY",
+        "Tel":"+90 216 3631764",
+        "Fax":"+90 216 3631764"
+    },
+    {
+        "Name":"SB ULUSLARARASI TAIMACILIK SALH BAYTER",
+        "Address":"Ataturk Cad. No:386 Liman \u0130s Hani k:5 D:503 35220 Alsancak, Izmir",
+        "Country":"TURKEY",
+        "Tel":"+90 232 463 80 88",
+        "Fax":"+90 232 463 80 88"
+    },
+    {
+        "Name":"SIBEL GLOBAL LOGISTICS",
+        "Address":"K.bakkalkoy mah. FevziPasa caddesi, \r\n\r\nNo:45 kat:2 daire:12 \r\n\r\nATASEHIR\/ ISTANBUL",
+        "Country":"TURKEY",
+        "Tel":"00 90 216 574 12 12",
+        "Fax":"00 90 216 574 12 12"
+    },
+    {
+        "Name":"SNS INTERNATIONAL TRANSPORT",
+        "Address":"5.Gazeteciler Sit. \r\n\r\nYildirim Oguz Goker Cad.\r\n\r\nA-!0\/4 34335\r\n\r\nAkatlar\/ISTANBUL",
+        "Country":"TURKEY",
+        "Tel":"+902122692870",
+        "Fax":"+902122692870"
+    },
+    {
+        "Name":"THYKE LOJISTIK TIC LTD",
+        "Address":"Cumhuriyet Bul Sevil 1 Is Merkezi No 300\/207 Alsancak 35220, Izmir",
+        "Country":"TURKEY",
+        "Tel":"+90 232 464 8250",
+        "Fax":"+90 232 464 8250"
+    },
+    {
+        "Name":"TRANSORIENT INTERNATIONAL FORWARDING INC.",
+        "Address":"\u0130stanbul Ticaret Saray\u0131 Oruc Reis Mahallesi, Vadi Caddesi, No:108, 8. Kat, Ofis No: 490, Giyimkent, 34235, Esenler, \u0130stanbul",
+        "Country":"TURKEY",
+        "Tel":"+90-212-467-26-00",
+        "Fax":"+90-212-467-26-00"
+    },
+    {
+        "Name":"TRANSTAS GLOBAL LOGISTICS",
+        "Address":"Tarlabasi Bulvari Guzel Izmir Apartmani NO 20 K-4 Taksim\/Istanbul",
+        "Country":"TURKEY",
+        "Tel":"+90 256 2236",
+        "Fax":"+90 256 2236"
+    },
+    {
+        "Name":"Vaveyla Lojistik ve Ticaret Ltd Sti",
+        "Address":"\u0130stanbul",
+        "Country":"TURKEY",
+        "Tel":"+905524577175",
+        "Fax":"+905524577175"
+    },
+    {
+        "Name":"YOUNGTURK",
+        "Address":"merkez mah.ladin sok.terziler sitesi k:1 d:113\r\nyenibosna , bahcelievler , istanbul",
+        "Country":"TURKEY",
+        "Tel":"+902125523636",
+        "Fax":"+902125523636"
+    },
+    {
+        "Name":"AMGROUP Co. LTD",
+        "Address":"Ukraine, Kiev, Tupoleva 54",
+        "Country":"UKRAINE",
+        "Tel":"+380678918191",
+        "Fax":"+380678918191"
+    },
+    {
+        "Name":"APEX TRANS",
+        "Address":"Pobedy Avenue 123\r\n\r\nKiev, 03179",
+        "Country":"UKRAINE",
+        "Tel":"+380 44 3605457",
+        "Fax":"+380 44 3605457"
+    },
+    {
+        "Name":"Cargo Support",
+        "Address":"no address",
+        "Country":"UKRAINE",
+        "Tel":"+380 (68) 710-37-15",
+        "Fax":"+380 (68) 710-37-15"
+    },
+    {
+        "Name":"Good Logistics",
+        "Address":"19b Instytutska Street, office 35",
+        "Country":"UKRAINE",
+        "Tel":"+380800300577",
+        "Fax":"+380800300577"
+    },
+    {
+        "Name":"MCargo",
+        "Address":"10\/8 Marshala Rybalka Str., Kyiv",
+        "Country":"UKRAINE",
+        "Tel":"+380443927242",
+        "Fax":"+380443927242"
+    },
+    {
+        "Name":"Olenich Group LLC",
+        "Address":"65012, Odessa, Ukraine, 8,Otradnaya str. app.2",
+        "Country":"UKRAINE",
+        "Tel":"+380482371433",
+        "Fax":"+380482371433"
+    },
+    {
+        "Name":"SMART EXPRESS FORWARDING",
+        "Address":"Office 3, 5, Darnytskyi Boulevard",
+        "Country":"UKRAINE",
+        "Tel":"+380 44 33 177 27",
+        "Fax":"+380 44 33 177 27"
+    },
+    {
+        "Name":"AMAKIN SHIPPING LLC",
+        "Address":"Office:116, Al Qusais, Dubai , U.A.E",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"00971554991811",
+        "Fax":"00971554991811"
+    },
+    {
+        "Name":"AMZCO Shipping Service ( Al Mesbah Al Zahabi )",
+        "Address":"Ras Al khor Industrial 2, Dubai, UAE",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+97142567843",
+        "Fax":"+97142567843"
+    },
+    {
+        "Name":"ANGEL FREIGHT SERVICES LLC",
+        "Address":"OFFICE NO. 311, 3RD FLOOR, \r\nDIAMOND BUSINESS CENTER 2, \r\nNEAR MIRACLE GARDEN, ARJAN - SOUTH BARSHA, \r\nDUBAI",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+971 4 5148970",
+        "Fax":"+971 4 5148970"
+    },
+    {
+        "Name":"AZ LOGISTIC",
+        "Address":"Warehouse D21 \r\n\r\nDubai Airport Freezone\r\n\r\nDubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"97142991185",
+        "Fax":"97142991185"
+    },
+    {
+        "Name":"Bridgeway Shipping & Clearing Services LLC",
+        "Address":"South Zone | JAFZA | Post Box 8109 | Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+971 4 886 1170",
+        "Fax":"+971 4 886 1170"
+    },
+    {
+        "Name":"Captains Freight Services LLC",
+        "Address":"P O Box 60864 Al Garhoud, Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+97142821567",
+        "Fax":"+97142821567"
+    },
+    {
+        "Name":"Damfo Logistics Solutions JLT",
+        "Address":"Clover Bay Tower, 1901, 19th Floor, Business Bay, P.O. Box 119063, Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+ 971 4 3741100",
+        "Fax":"+ 971 4 3741100"
+    },
+    {
+        "Name":"Dijla Shipping",
+        "Address":"United Arab Emirates-Dubai\/Main Office\r\nDijla Clearing and Forwarding L.L.C\r\nOffice # 901, Nouf Tower, Port Saeed,\r\nDeira Dubai, UAE",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+97142507794",
+        "Fax":"+97142507794"
+    },
+    {
+        "Name":"Fast Link Cargo LLC",
+        "Address":"Arenco Building 03,4th Floor 410,Green Community,Dubai Investment Park,Dubai,U.A.E",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+971 4 3550885",
+        "Fax":"+971 4 3550885"
+    },
+    {
+        "Name":"FSG FREIGHT FORWARDING FZE",
+        "Address":"SM OFFICE E1 4006A\r\nAJMAN FREEZONE",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+971 6 7152098",
+        "Fax":"+971 6 7152098"
+    },
+    {
+        "Name":"High Tech World Cargo",
+        "Address":"International City Cbd F-1 Shop#1 China Cluster, Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"00971 4 450 8364",
+        "Fax":"00971 4 450 8364"
+    },
+    {
+        "Name":"INTEGRATED FREIGHT AND LOGISTICS LLC",
+        "Address":"305 AL JAHRA BUILDING, BUR DUBAI, DUBAI",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+97143599188",
+        "Fax":"+97143599188"
+    },
+    {
+        "Name":"INTERLINK FREIGHT AGENCY LLC",
+        "Address":"INTERLINK FREIGHT AGENCY LLC, \r\n\r\nDUBAI INTERNATIONAL AIRPORT, CARGO MEGA TERMINAL, DUBAI CARGO VILLAGE, \r\n\r\nOFFICE#1070, NEAR DUBAI CUSTOMS, DUBAI",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+971557910800",
+        "Fax":"+971557910800"
+    },
+    {
+        "Name":"IOR GLOBAL CARGO SERVICES LLC",
+        "Address":"DUBAI,UAE",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"97142566822",
+        "Fax":"97142566822"
+    },
+    {
+        "Name":"Kays Worldwide Logistics LLC",
+        "Address":"C2018 Old agents building , Dubai Cargo Village, Dubai International Airport. P O Box 120856, Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+97142826998",
+        "Fax":"+97142826998"
+    },
+    {
+        "Name":"LINKS CONTINENTAL SHIPPING LLC",
+        "Address":"Links Continental Shipping LLC\r\n\r\nRoom # 209, 2nd Floor\r\n\r\nDubai International Holy Qur'aan Building\r\n\r\nAl Mamzar\r\n\r\nDubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"97142208060",
+        "Fax":"97142208060"
+    },
+    {
+        "Name":"MASA LOGISTICS FZCO",
+        "Address":"W\/H No. C-26\r\nDubai Airport Freezone - Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"00971 4 299 00 66",
+        "Fax":"00971 4 299 00 66"
+    },
+    {
+        "Name":"N.A.S National Cargo Services LLC",
+        "Address":"Office 2029C \r\n\r\nOld Agents Building \r\n\r\nDubai Cargo Village\r\n\r\nDubai International Airport",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"009714 2832620",
+        "Fax":"009714 2832620"
+    },
+    {
+        "Name":"Octagon Freight Solutions FZC",
+        "Address":"1901, Clover Bay Tower\r\nBusiness Bay, Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"97143741100",
+        "Fax":"97143741100"
+    },
+    {
+        "Name":"OTTA Cargo",
+        "Address":"PO Box 14671, Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"00971-6-534 5910",
+        "Fax":"00971-6-534 5910"
+    },
+    {
+        "Name":"Perfect Cargo Services LLC",
+        "Address":"Hamdan Street, P.O Box 45791, Abu Dhabi",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+971 2 6324022",
+        "Fax":"+971 2 6324022"
+    },
+    {
+        "Name":"PORTS SHIPPING LLC",
+        "Address":"Zabeel Business Centre, 2nd Floor, office# 204-1, Behind Central Post Office, Al Karama",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+971 50 595 3063",
+        "Fax":"+971 50 595 3063"
+    },
+    {
+        "Name":"PRO CLEARING AND SHIPPING LLC",
+        "Address":"Port Rashid, Bur Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"00971 4 3457444",
+        "Fax":"00971 4 3457444"
+    },
+    {
+        "Name":"Sabelatrans Shipping Global Fze",
+        "Address":"Office D-13, P.O. Box No:-40435 , Ajman Free Zone,",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+ 9716-7457906",
+        "Fax":"+ 9716-7457906"
+    },
+    {
+        "Name":"SALTS Global Logistics Services LLC",
+        "Address":"Office 1602C Post Box 62758 SZR Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"971 4 269 7221",
+        "Fax":"971 4 269 7221"
+    },
+    {
+        "Name":"SMART LOGISTICS SERVICES",
+        "Address":"RUE MARCHAND",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"253810403",
+        "Fax":"253810403"
+    },
+    {
+        "Name":"Tenessee Cargo Services LLC",
+        "Address":"701 Diwan Buliding, Al Meena Street, Tourist Club Area, Abu Dhabi, P.O Box 112426",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+97126799224",
+        "Fax":"+97126799224"
+    },
+    {
+        "Name":"TRANSPARENT FREIGHT SERVICES",
+        "Address":"DUBAI,UAE",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+971-4-2396853",
+        "Fax":"+971-4-2396853"
+    },
+    {
+        "Name":"TreLog LLC Shipping & Projects Dubai",
+        "Address":"M06 #92, AM Building, Near Airport FZ Metro Station, Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"+ 971 4 2390666",
+        "Fax":"+ 971 4 2390666"
+    },
+    {
+        "Name":"Union National Air, Land & Sea Shipping (UNASCO)",
+        "Address":"PO Box 8821, Dubai",
+        "Country":"UNITED ARAB EMIRATES",
+        "Tel":"00971 4 3479967",
+        "Fax":"00971 4 3479967"
+    },
+    {
+        "Name":"Ali Transport Services Limited",
+        "Address":"Access House, 141 Morden Road\r\nMitcham, Surrey CR4 4DG",
+        "Country":"UNITED KINGDOM",
+        "Tel":"+442033027880",
+        "Fax":"+442033027880"
+    },
+    {
+        "Name":"ASHA Freight Limited",
+        "Address":"Advantage Business Centre, 132 \u0420 134 Great Ancoats Street, Manchester, M4 6DE",
+        "Country":"UNITED KINGDOM",
+        "Tel":"+ 44 161 205 7842",
+        "Fax":"+ 44 161 205 7842"
+    },
+    {
+        "Name":"BJOHN LOGISTICS LIMITED",
+        "Address":"BJOHN Logistics Limited\r\n\r\nUnit 3, 1st Floor\r\n\r\nImperial Offices\r\n\r\n2-4 Eastern Road\r\n\r\nRomford RM1 3PJ",
+        "Country":"UNITED KINGDOM",
+        "Tel":"+44 7427443985",
+        "Fax":"+44 7427443985"
+    },
+    {
+        "Name":"BoxTop Technologies Ltd",
+        "Address":"Providence House\r\nRiver St\r\nWindsor\r\nSL4 1QT",
+        "Country":"UNITED KINGDOM",
+        "Tel":"020 8400 2000",
+        "Fax":"020 8400 2000"
+    },
+    {
+        "Name":"Care Logistics Ltd",
+        "Address":"89 Common Road,Claygate,Esher,Surrey KT10 0HU",
+        "Country":"UNITED KINGDOM",
+        "Tel":"01372 465807",
+        "Fax":"01372 465807"
+    },
+    {
+        "Name":"CARGO OVERSEAS LTD",
+        "Address":"BUILDING 308\r\n\r\nMANCHESTER AIRPORT\r\n\r\nMANCHESTER, M90 5PZ",
+        "Country":"UNITED KINGDOM",
+        "Tel":"0044 1753 689103",
+        "Fax":"0044 1753 689103"
+    },
+    {
+        "Name":"Claridon Group Ltd",
+        "Address":"Claridon House\r\n\r\nLondon Road\r\n\r\nStanford-le-Hope\r\n\r\nEssex  SS17 0JU",
+        "Country":"UNITED KINGDOM",
+        "Tel":"+44 (0) 1375 656100",
+        "Fax":"+44 (0) 1375 656100"
+    },
+    {
+        "Name":"ConneXion World Cargo",
+        "Address":"1 - 2 McKay Trading Estate\r\n\r\nBlackthorne Road \r\n\r\nColnbrook",
+        "Country":"UNITED KINGDOM",
+        "Tel":"44 (0) 1753 680300",
+        "Fax":"44 (0) 1753 680300"
+    },
+    {
+        "Name":"DDP UK Freight Limited",
+        "Address":"Suite 15 & 16, First Floor, Altrium, 31 Church Road, Ashford, Middlesex TW15 2UD",
+        "Country":"UNITED KINGDOM",
+        "Tel":"0204 531 7720",
+        "Fax":"0204 531 7720"
+    },
+    {
+        "Name":"Dimex Shipping Ltd",
+        "Address":"Unit 9 Trident Industrial Estate |Blackthorne Road |\r\n\r\nColnbrook | Berkshire | SL3 0AX",
+        "Country":"UNITED KINGDOM",
+        "Tel":"+44 1753 687300",
+        "Fax":"+44 1753 687300"
+    },
+    {
+        "Name":"ECC Freight Forwarding",
+        "Address":"PO BOX 536, \r\nST HELENS, \r\nWA10 9NB",
+        "Country":"UNITED KINGDOM",
+        "Tel":"01744635570",
+        "Fax":"01744635570"
+    },
+    {
+        "Name":"Eden Cargo",
+        "Address":"Griffin House, Ledson Road, Roundthorn Industrial Estate,  Wythenshawe,   Manchester, M23 9GP",
+        "Country":"UNITED KINGDOM",
+        "Tel":"+44 (0) 161 998 8662",
+        "Fax":"+44 (0) 161 998 8662"
+    },
+    {
+        "Name":"Fardel Shipping Ltd",
+        "Address":"23 Dudley Street, Grimsby, DN31 2AW",
+        "Country":"UNITED KINGDOM",
+        "Tel":"1245328122",
+        "Fax":"1245328122"
+    },
+    {
+        "Name":"Frank Armitt & Son Ltd",
+        "Address":"24-30 South Road\r\n\r\nWeston Point \r\n\r\nRuncorn \r\n\r\nCheshire \r\n\r\nWA7 4EZ",
+        "Country":"UNITED KINGDOM",
+        "Tel":"01928 563389",
+        "Fax":"01928 563389"
+    },
+    {
+        "Name":"Global Freight Management",
+        "Address":"KMH House, Yeadon, West Yorkshire",
+        "Country":"UNITED KINGDOM",
+        "Tel":"0113 2501102",
+        "Fax":"0113 2501102"
+    },
+    {
+        "Name":"Heritage International Freight Ltd",
+        "Address":"Unit 1 & 2 Chesterfield Way\r\n\r\nHayes\r\n\r\nMiddlesex\r\n\r\nUB3 3NW",
+        "Country":"UNITED KINGDOM",
+        "Tel":"020 8797 0041",
+        "Fax":"020 8797 0041"
+    },
+    {
+        "Name":"JLo Logistics",
+        "Address":"289 Main Street\r\n\r\nStanton under Bardon\r\n\r\nLeics LE67 9TQ",
+        "Country":"UNITED KINGDOM",
+        "Tel":"01530 242151",
+        "Fax":"01530 242151"
+    },
+    {
+        "Name":"Kiss Logistics Services Limited",
+        "Address":"Cornbrook,\r\n2 Brindley Road,\r\nOld Trafford,\r\nManchester,\r\nM16 9HQ",
+        "Country":"UNITED KINGDOM",
+        "Tel":"01617025050",
+        "Fax":"01617025050"
+    },
+    {
+        "Name":"Lombard Shipping & Forwarding Limited",
+        "Address":"Lombard Centre,\r\n\r\nLink Road,\r\n\r\nHuyton Business Park,\r\n\r\nLiverpool L366AP",
+        "Country":"UNITED KINGDOM",
+        "Tel":"441514493535",
+        "Fax":"441514493535"
+    },
+    {
+        "Name":"M. A. Logistics Ltd",
+        "Address":"Maritime House, 71\/73 Church Road, Liverpool L21 7LF",
+        "Country":"UNITED KINGDOM",
+        "Tel":"0151 257 6300",
+        "Fax":"0151 257 6300"
+    },
+    {
+        "Name":"MINI PROJECT SHIPPING (UK ) LTD",
+        "Address":"PARKSHOT HOUSE,5 KEW ROAD\r\n\r\nRICHMOND",
+        "Country":"UNITED KINGDOM",
+        "Tel":"442083348284",
+        "Fax":"442083348284"
+    },
+    {
+        "Name":"NEWMARKET LINER SERVICES",
+        "Address":"Toggam Farm\r\n\r\nSedge Fen Road\r\n\r\nLAKENHEATH \r\n\r\nIP27 9LN",
+        "Country":"UNITED KINGDOM",
+        "Tel":"01842 862092",
+        "Fax":"01842 862092"
+    },
+    {
+        "Name":"Origin Logistics",
+        "Address":"Leestone Road, Sharston Industrial Estate, Sharston, Manchester. M22 4RB",
+        "Country":"UNITED KINGDOM",
+        "Tel":"+44 161 492 1772",
+        "Fax":"+44 161 492 1772"
+    },
+    {
+        "Name":"Regency Freight Services",
+        "Address":"Unit 11, Trident Industrial Estate",
+        "Country":"UNITED KINGDOM",
+        "Tel":"01753 313700",
+        "Fax":"01753 313700"
+    },
+    {
+        "Name":"Sutch & Searle Shipping (Heathrow) Limited",
+        "Address":"Unit 4 Central Park Estate\r\n\r\nStaines Road\r\n\r\nHounslow Middlesex\r\n\r\nTW4 5DJ",
+        "Country":"UNITED KINGDOM",
+        "Tel":"442085381600",
+        "Fax":"442085381600"
+    },
+    {
+        "Name":"UK GLOBAL LOGISTICS",
+        "Address":"Fisher Green Ripon HG4 1NN",
+        "Country":"UNITED KINGDOM",
+        "Tel":"+44 1765602141",
+        "Fax":"+44 1765602141"
+    },
+    {
+        "Name":"Unique Freight Systems Ltd",
+        "Address":"Mount Street Mills, Mount Street, Bradford, BD3 9RJ",
+        "Country":"UNITED KINGDOM",
+        "Tel":"+44 (0) 1274 781239",
+        "Fax":"+44 (0) 1274 781239"
+    },
+    {
+        "Name":"ALL AMERICA FREIGHT",
+        "Address":"2672 NW 112TH AVENUE\r\n\r\nMIAMI, 33172",
+        "Country":"UNITED STATES",
+        "Tel":"3055912572",
+        "Fax":"3055912572"
+    },
+    {
+        "Name":"Allcargo Group Inc.",
+        "Address":"45 Gardenville Parkway W\r\n\r\nWest Seneca, NY 14224-1321 USA",
+        "Country":"UNITED STATES",
+        "Tel":"1-912-385-0955",
+        "Fax":"1-912-385-0955"
+    },
+    {
+        "Name":"American Baggage & Box Transport, Inc.",
+        "Address":"240 Newbury St\r\n\r\n\r\n\r\nDanvers Ma 01940",
+        "Country":"UNITED STATES",
+        "Tel":"978 975 8333",
+        "Fax":"978 975 8333"
+    },
+    {
+        "Name":"Amoy International, LLC",
+        "Address":"14145 Proctor Ave, suite 14\r\n\r\nCity of Industry CA 91746",
+        "Country":"UNITED STATES",
+        "Tel":"626-855-3077",
+        "Fax":"626-855-3077"
+    },
+    {
+        "Name":"Astec Logistics",
+        "Address":"11473 NW 34 Street\r\nDoral , Florida , 33178",
+        "Country":"UNITED STATES",
+        "Tel":"305-599-0222",
+        "Fax":"305-599-0222"
+    },
+    {
+        "Name":"Axiom Worldwide Logistix, Inc",
+        "Address":"4251 W. John Carpenter Frwy., Ste: 100, Irving, TX 75603",
+        "Country":"UNITED STATES",
+        "Tel":"+ 469-242-4400",
+        "Fax":"+ 469-242-4400"
+    },
+    {
+        "Name":"Barnhart Crane",
+        "Address":"1701 Dunn Avenue Memphis, TN 38106",
+        "Country":"UNITED STATES",
+        "Tel":"+1  (901) 775-3000",
+        "Fax":"+1  (901) 775-3000"
+    },
+    {
+        "Name":"BERKLAY Cargo Services",
+        "Address":"14 Bond Street-Suite 233, Great Neck, NY 11021",
+        "Country":"UNITED STATES",
+        "Tel":"001-516-872-3335",
+        "Fax":"001-516-872-3335"
+    },
+    {
+        "Name":"C.U.TRANSPORT NC.",
+        "Address":"19885 HARRISON AVE.,\r\nCITY OF DUSTRY, CA 91789",
+        "Country":"UNITED STATES",
+        "Tel":"9098958388",
+        "Fax":"9098958388"
+    },
+    {
+        "Name":"Clearfreight Inc.",
+        "Address":"880 Apollo Street\r\n\r\nEl Segundo, CA 90245",
+        "Country":"UNITED STATES",
+        "Tel":"+1310 726 0400",
+        "Fax":"+1310 726 0400"
+    },
+    {
+        "Name":"Delex Air Cargo LLC",
+        "Address":"87 Cargo Plaza Road\r\nJamaica NY 11430\r\nJFK INT'L AIRPORT",
+        "Country":"UNITED STATES",
+        "Tel":"718-553-6500",
+        "Fax":"718-553-6500"
+    },
+    {
+        "Name":"DOF Cargo",
+        "Address":"8472 NW 72 St",
+        "Country":"UNITED STATES",
+        "Tel":"3054004804",
+        "Fax":"3054004804"
+    },
+    {
+        "Name":"Dynasty International Forwarding",
+        "Address":"1601 Brummel Ave. \r\n\r\nElk Grove Village, IL  60007",
+        "Country":"UNITED STATES",
+        "Tel":"847-427-1360",
+        "Fax":"847-427-1360"
+    },
+    {
+        "Name":"F.H.L. LOGISTICS INC",
+        "Address":"7981 NW 68TH STREET\r\nMIAMI, FL  33166",
+        "Country":"UNITED STATES",
+        "Tel":"3055992990",
+        "Fax":"3055992990"
+    },
+    {
+        "Name":"Freightcan LLC",
+        "Address":"Cargo Bldg. 79 North Boundary Rd. Suite 205\r\n\r\nJFK International Airport\r\n\r\nJamaica, NY 11430",
+        "Country":"UNITED STATES",
+        "Tel":"718-995-9594",
+        "Fax":"718-995-9594"
+    },
+    {
+        "Name":"GM Freight",
+        "Address":"no address",
+        "Country":"UNITED STATES",
+        "Tel":"305-599-7924",
+        "Fax":"305-599-7924"
+    },
+    {
+        "Name":"iContainers SL",
+        "Address":"1444 Biscayne Blvd Suite 208-35 Miami",
+        "Country":"UNITED STATES",
+        "Tel":"3059648731",
+        "Fax":"3059648731"
+    },
+    {
+        "Name":"InterLogic Worldwide",
+        "Address":"2059 Belgrave Ave\r\n\r\nHuntington Park, Ca 90255\r\n\r\nLos Angeles  \/ Long Beach",
+        "Country":"UNITED STATES",
+        "Tel":"+1 323 588 8900",
+        "Fax":"+1 323 588 8900"
+    },
+    {
+        "Name":"International Logistics Express, Inc.",
+        "Address":"181 South Franklin Avenue\r\n\r\n***Suite 601***                  \r\n          \r\nValley Stream, NY 11581",
+        "Country":"UNITED STATES",
+        "Tel":"516-791-9100",
+        "Fax":"516-791-9100"
+    },
+    {
+        "Name":"JBH Worldwide",
+        "Address":"4 hemlock lane Marlboro, NJ 07746",
+        "Country":"UNITED STATES",
+        "Tel":"7328516400",
+        "Fax":"7328516400"
+    },
+    {
+        "Name":"Kiomex LLC",
+        "Address":"8435 NW 72nd St , Miami FL 33166",
+        "Country":"UNITED STATES",
+        "Tel":"305 436 1999",
+        "Fax":"305 436 1999"
+    },
+    {
+        "Name":"MGL (USA) Inc.",
+        "Address":"20955 Pathfinder Rd Suite 350\r\n\r\nDiamond Bar, CA 91765",
+        "Country":"UNITED STATES",
+        "Tel":"909-598-2212",
+        "Fax":"909-598-2212"
+    },
+    {
+        "Name":"Millenium Marine Corp.",
+        "Address":"399 Hoes Lane\r\n\r\nPiscataway, NJ 08854 USA",
+        "Country":"UNITED STATES",
+        "Tel":"+1(732) 562 0600",
+        "Fax":"+1(732) 562 0600"
+    },
+    {
+        "Name":"MoveIT.com",
+        "Address":"107 MoveIt Dr. \r\n\r\nBreda, IA  51436",
+        "Country":"UNITED STATES",
+        "Tel":"712-673-2354",
+        "Fax":"712-673-2354"
+    },
+    {
+        "Name":"Navigational Logistics, Inc.",
+        "Address":"147-35 183rd Street\r\n\r\nJamaica, New York 11413",
+        "Country":"UNITED STATES",
+        "Tel":"1-718-553-9500",
+        "Fax":"1-718-553-9500"
+    },
+    {
+        "Name":"Novo Express International",
+        "Address":"2121 No California Blvd - Suite 290\r\nWalnut Creek, Ca 94596",
+        "Country":"UNITED STATES",
+        "Tel":"925.945.8400",
+        "Fax":"925.945.8400"
+    },
+    {
+        "Name":"SAVITRANSPORT INC.",
+        "Address":"no address",
+        "Country":"UNITED STATES",
+        "Tel":"847-437-6660",
+        "Fax":"847-437-6660"
+    },
+    {
+        "Name":"ShipAll",
+        "Address":"8150 Chancellor Dr., # 105\r\nOrlando, FL 32809",
+        "Country":"UNITED STATES",
+        "Tel":"407-264-0000",
+        "Fax":"407-264-0000"
+    },
+    {
+        "Name":"SKY2C Freight Systems Inc",
+        "Address":"4221 Business Center Dr\r\nSuite 5 & 6\r\nFremont, CA 94538",
+        "Country":"UNITED STATES",
+        "Tel":"510-743-3300",
+        "Fax":"510-743-3300"
+    },
+    {
+        "Name":"Taggart International Ltd",
+        "Address":"6603 Royal St Bldg D Ste B\r\n\r\nLiberty MO 64068\r\n\r\n(Kansas City Headquarters)",
+        "Country":"UNITED STATES",
+        "Tel":"816-581-6500",
+        "Fax":"816-581-6500"
+    },
+    {
+        "Name":"Texas Global Services",
+        "Address":"4303 Stallion Brook LN",
+        "Country":"UNITED STATES",
+        "Tel":"8327971579",
+        "Fax":"8327971579"
+    },
+    {
+        "Name":"TEXAS INTERNATIONAL FREIGHT",
+        "Address":"5100 Westheimer Rd, Ste 200\r\nHouston, TX 77056",
+        "Country":"UNITED STATES",
+        "Tel":"7135884413",
+        "Fax":"7135884413"
+    },
+    {
+        "Name":"TOP 1 XPRESS FREIGHT",
+        "Address":"4732 FM 2920\r\nSPRING, TX 77388",
+        "Country":"UNITED STATES",
+        "Tel":"+1 713-913-4760",
+        "Fax":"+1 713-913-4760"
+    },
+    {
+        "Name":"Unitrans-PRA Co, Inc.",
+        "Address":"2670 Stillwell Ave. Brooklyn NY 11224",
+        "Country":"UNITED STATES",
+        "Tel":"201-805-9674",
+        "Fax":"201-805-9674"
+    },
+    {
+        "Name":"Worldwide Integrated Logistics",
+        "Address":"13290 NW 45 Avenue\r\n\r\nMiami, FL 33054",
+        "Country":"UNITED STATES",
+        "Tel":"305-594-9577",
+        "Fax":"305-594-9577"
+    },
+    {
+        "Name":"Uruguay Logistics S.A.",
+        "Address":"25 DE MAYO 541 3RD FLOOR",
+        "Country":"URUGUAY",
+        "Tel":"598 2 9161820",
+        "Fax":"598 2 9161820"
+    },
+    {
+        "Name":"Mudanzas Internacionales Global",
+        "Address":"Calle Las Tinajas, Edf. Global, El Llanito, Caracas",
+        "Country":"VENEZUELA",
+        "Tel":"58 212 257 00 50",
+        "Fax":"58 212 257 00 50"
+    },
+    {
+        "Name":"VPS VENEZUELAN PACKAGES SERVICE C.A.",
+        "Address":"AV. FRANCISCO DE MIRANDA, CENTRO EMPRESARIAL DON BOSCO, PISO 12 OFICINA A, LOS CORTIJOS, CARACAS",
+        "Country":"VENEZUELA",
+        "Tel":"(58 212) 237 5005",
+        "Fax":"(58 212) 237 5005"
+    },
+    {
+        "Name":"Alliance International Logistics Co Ltd",
+        "Address":"17 Truong Son Street, Tan Binh District",
+        "Country":"VIETNAM",
+        "Tel":"84838112868",
+        "Fax":"84838112868"
+    },
+    {
+        "Name":"AMERICAN STAR INTERNATIONAL TRANSPORT TRADING COMPANY LIMITED",
+        "Address":"182 HO VAN HUE STREET, WARD 09, PHU NHUAN DISTRICT, HOCHIMINH CITY",
+        "Country":"VIETNAM",
+        "Tel":"842839955951",
+        "Fax":"842839955951"
+    },
+    {
+        "Name":"CTX INTERNATIONAL SERVICES JSC (LOGISTICS & FREIGHT FORWARDING)",
+        "Address":"No.2 Lane 26, Nguyen Van Huyen Street",
+        "Country":"VIETNAM",
+        "Tel":"+84983878182",
+        "Fax":"+84983878182"
+    },
+    {
+        "Name":"DH Logistics Co Ltd",
+        "Address":"3-4Flr, No.5 Nguyen Khang str, Cau Giay Dist, Hanoi",
+        "Country":"VIETNAM",
+        "Tel":"+84 4 32595528",
+        "Fax":"+84 4 32595528"
+    },
+    {
+        "Name":"GLOTRANS HA NOI VIETNAM",
+        "Address":"Rm16, 3rd F\/l , Success Bldg, No 3 Le Thanh Tong Str, Ngo Quyen Dist, Hai Phong city, Vietnam",
+        "Country":"VIETNAM",
+        "Tel":"842437956652",
+        "Fax":"842437956652"
+    },
+    {
+        "Name":"Golden Age Trading & Logistics JSC",
+        "Address":"03 FL, DTC Building, 99A1 Cong Hoa Str, Ward 04, Tan Binh Dist, Hochiminh city",
+        "Country":"VIETNAM",
+        "Tel":"84 8 39481486",
+        "Fax":"84 8 39481486"
+    },
+    {
+        "Name":"GOLDEN LOTUS LOGISTICS & TRADING CO.,LTD",
+        "Address":"24 Tan Canh St, Ward 1, Tan Binh Dist, HCM City",
+        "Country":"VIETNAM",
+        "Tel":"8402873048685",
+        "Fax":"8402873048685"
+    },
+    {
+        "Name":"Golden Ospreys Logistics",
+        "Address":"104 hoang trong mau himlam dist 7 ho chi minh",
+        "Country":"VIETNAM",
+        "Tel":"0906890168",
+        "Fax":"0906890168"
+    },
+    {
+        "Name":"Haikhanh Freight Forwarders Joint Stock Company",
+        "Address":"6th Floor, Success Building, No. 3, Le Thanh Tong Str., Ngo Quyen Dist., Hai Phong  84031",
+        "Country":"VIETNAM",
+        "Tel":"+84313686052",
+        "Fax":"+84313686052"
+    },
+    {
+        "Name":"Hang Khong Viet Inc",
+        "Address":"35 Nguyen Minh Hoang ,Tan Binh Dist.",
+        "Country":"VIETNAM",
+        "Tel":"+84839485466",
+        "Fax":"+84839485466"
+    },
+    {
+        "Name":"Integrate Logistics Co.,Ltd",
+        "Address":"70 HUYNH VAN BANH STREET\r\n\r\nPHU NHUAN DISTRICT\r\n\r\nHOCHIMINH CITY",
+        "Country":"VIETNAM",
+        "Tel":"+848 38456716",
+        "Fax":"+848 38456716"
+    },
+    {
+        "Name":"IPO TRADING AND SERVICE COMPANY LIMITED",
+        "Address":"334\/64\/81\/10 Chu Van An Street, Ward 12, Binh Thanh District, Ho Chi Minh city",
+        "Country":"VIETNAM",
+        "Tel":"8438960113",
+        "Fax":"8438960113"
+    },
+    {
+        "Name":"ITL International Transport Logistics Co., Ltd",
+        "Address":"5th Floor, Song Da Tower, 14B Ky Dong Street, Ward 9, District 3, Hochiminh City",
+        "Country":"VIETNAM",
+        "Tel":"84.8-39312003",
+        "Fax":"84.8-39312003"
+    },
+    {
+        "Name":"MELODY LOGISTICS",
+        "Address":"No 7, Nguyen Huy Tuong str, 6 Ward, Binh Thanh Dist, HCMC, Vietnam",
+        "Country":"VIETNAM",
+        "Tel":"+84 28 35511657",
+        "Fax":"+84 28 35511657"
+    },
+    {
+        "Name":"Nam Tinh Corp",
+        "Address":"R 801, An Phu Bld, Song Hanh Str, Dist 2, HCMC",
+        "Country":"VIETNAM",
+        "Tel":"+84 908 573 456",
+        "Fax":"+84 908 573 456"
+    },
+    {
+        "Name":"NGUYEN DANG VIET NAM CO.,LTD",
+        "Address":"No 12 Alley 28\/18 Tang Thiet Giap str, Co Nhue 2 ward. North Tu Liem District, Ha Noi",
+        "Country":"VIETNAM",
+        "Tel":"84 4 3748 0991",
+        "Fax":"84 4 3748 0991"
+    },
+    {
+        "Name":"Prime Cargo Co., Ltd",
+        "Address":"72A Tran Quoc Toan Str, Ward 8, Dist 3, Hochiminh City",
+        "Country":"VIETNAM",
+        "Tel":"084 08 38201788",
+        "Fax":"084 08 38201788"
+    },
+    {
+        "Name":"PT TRANSPORT LOGISTICS CO.,LTD",
+        "Address":"5A STREET 4TH,WARD 10TH, GO VAP DISTRICT,HO CHI MINH CITY,VIET NAM",
+        "Country":"VIETNAM",
+        "Tel":"00 84862955440",
+        "Fax":"00 84862955440"
+    },
+    {
+        "Name":"Red Wolf Global Ltd.",
+        "Address":"3rd Floor, Savina Building, No.1 Dinh Le Str, Hoan Kiem District, Hanoi",
+        "Country":"VIETNAM",
+        "Tel":"+84 97 720 7844",
+        "Fax":"+84 97 720 7844"
+    },
+    {
+        "Name":"SafWay International Logistics JSC",
+        "Address":"Hanoi",
+        "Country":"VIETNAM",
+        "Tel":"+84-437930963",
+        "Fax":"+84-437930963"
+    },
+    {
+        "Name":"SCT LOGISTICS JSC",
+        "Address":"3G Pho Quang Str, Ward No.2, Tan Binh Distrist, Hochiminh City",
+        "Country":"VIETNAM",
+        "Tel":"0083-283 5357073",
+        "Fax":"0083-283 5357073"
+    },
+    {
+        "Name":"SME WORLDWIDE LOGISTICS JSC",
+        "Address":"15\/7 Doan Nhu Hai Street, Ward 13, District 4, Ho Chi Minh City",
+        "Country":"VIETNAM",
+        "Tel":"+842862987790",
+        "Fax":"+842862987790"
+    },
+    {
+        "Name":"VIET TOTAL LOGISTICS (VTL) CO.,LTD",
+        "Address":"18B NAM QUOC CANG STR., PHAM NGU LAO WARD, DIST 1, HOCHIMINH CITY",
+        "Country":"VIETNAM",
+        "Tel":"81-8-39257641",
+        "Fax":"81-8-39257641"
+    },
+    {
+        "Name":"VVMV JSC ( VIETNAM )",
+        "Address":"1ST FLOOR, HOANG TRIEU BUILDING, 3G PHO QUANG STREET, TAN BINH DISTRICT, HO CHI MINH CITY",
+        "Country":"VIETNAM",
+        "Tel":"+84 8 38447434",
+        "Fax":"+84 8 38447434"
+    },
+    {
+        "Name":"Will Logistics Ltd",
+        "Address":"29\/7 Hoang Dieu, W10, PHU NHUAN DIST, HO CHI MINH CITY",
+        "Country":"VIETNAM",
+        "Tel":"(84.8) 6292 8277",
+        "Fax":"(84.8) 6292 8277"
+    },
+    {
+        "Name":"WM logistics CO., LTD",
+        "Address":"3-4 Flr, No.5 Nguyen Khang Str, Cau Giay Dist, Hanoi",
+        "Country":"VIETNAM",
+        "Tel":"+84 4 32595528",
+        "Fax":"+84 4 32595528"
+    },
+    {
+        "Name":"CARGO PLUS INTERNATIONAL LOGISTICS",
+        "Address":"P.O BOX AP120\r\n\r\nKESHELMAR BUILDING,\r\n\r\nNEW CARGO VILLAGE,\r\n\r\nHARARE INT AIRPORT,\r\n\r\nHARARE",
+        "Country":"ZIMBABWE",
+        "Tel":"+263 774 825 665",
+        "Fax":"+263 774 825 665"
+    },
+    {
+        "Name":"Freight Kings Air & Sea Cargo (Pvt) Limited",
+        "Address":"No:1 Arlington Estate, Harare International Airport",
+        "Country":"ZIMBABWE",
+        "Tel":"+ 263 86 4420 1188",
+        "Fax":"+ 263 86 4420 1188"
+    },
+    {
+        "Name":"Elohim Shipping Limited",
+        "Address":"Terminus 19 Vridi Canal junction\r\n\r\nBeside the Cote d' Ivoire Refinery\r\n\r\nVridi Abidjan",
+        "Country":"COTE D IVOIRE",
+        "Tel":"+22507452828",
+        "Fax":"+22507452828"
+    }
+]

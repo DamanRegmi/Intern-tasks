@@ -1,0 +1,16 @@
+digraph ERD {
+	Customer [label="Customer
+(Customer ID, Customer Name, Segment)"]
+	Product [label="Product
+(Product ID, Category, Sub-Category, Product Name)"]
+	Order [label="Order
+(Order ID, Order Date, Ship Date)"]
+	ShipMode [label="ShipMode
+(Ship Mode)"]
+	FactSales [label="FactSales
+(Customer ID, Product ID, Order ID, Ship Mode, Sale, Quantity, Discount, Profit)"]
+	Customer -> FactSales [label=Customer_ID]
+	Product -> FactSales [label=Product_ID]
+	Order -> FactSales [label=Order_ID]
+	ShipMode -> FactSales [label=Ship_Mode]
+}
