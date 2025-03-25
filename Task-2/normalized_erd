@@ -7,10 +7,10 @@ digraph ERD {
 (Order ID, Order Date, Ship Date)"]
 	ShipMode [label="ShipMode
 (Ship Mode)"]
-	FactSales [label="FactSales
+	Sales [label="Sales
 (Customer ID, Product ID, Order ID, Ship Mode, Sale, Quantity, Discount, Profit)"]
-	Customer -> FactSales [label=Customer_ID]
-	Product -> FactSales [label=Product_ID]
-	Order -> FactSales [label=Order_ID]
-	ShipMode -> FactSales [label=Ship_Mode]
+	Customer -> Sales [label=Customer_ID]
+	Product -> Sales [label=Product_ID]
+	Order -> Sales [label=Order_ID]
+	ShipMode -> Sales [label=Ship_Mode]
 }
