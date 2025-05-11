@@ -1,0 +1,12 @@
+203.0.113.5 - alice [28/Mar/2025:07:59:26 +0000] "DELETE /api/data HTTP/2" 200 8192
+10.0.0.2 - carol [28/Mar/2025:12:54:26 +0000] "POST /index.html HTTP/1.0" 200 1024
+10.0.0.2 - alice [24/Mar/2025:03:31:26 +0000] "POST /images/logo.png HTTP/2" 200 128
+192.168.1.1 - carol [24/Mar/2025:13:11:26 +0000] "DELETE /login HTTP/2" 200 4096
+192.168.1.1 - dave [23/Mar/2025:16:12:26 +0000] "DELETE /logout HTTP/2" 200 2048
+198.51.100.7 - dave [30/Mar/2025:01:51:26 +0000] "PUT /api/user/123 HTTP/1.1" 200 128
+198.51.100.7 - dave [28/Mar/2025:07:08:26 +0000] "PUT /api/user/123 HTTP/2" 200 256
+198.51.100.7 - eve [29/Mar/2025:18:32:26 +0000] "GET /logout HTTP/1.1" 200 8192
+192.168.1.1 - carol [28/Mar/2025:23:52:26 +0000] "DELETE /dashboard HTTP/1.0" 200 128
+10.0.0.2 - alice [29/Mar/2025:13:35:26 +0000] "PUT /api/order HTTP/1.0" 200 2048
+203.0.113.5 - - [29/Mar/2025:14:11:26 +0000] "PUT /images/logo.png HTTP/2" 200 256
+10.0.0.2 - carol [26/Mar/2025:09:31:26 +0000] "GET /index.html HTTP/1.1" 200 512
