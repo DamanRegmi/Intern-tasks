@@ -1,0 +1,127 @@
+[33mcommit 8ab44d8d3301141a6fcac5c1b2d44ff3fb7e903f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: DamanRegmi <themanman478@gmail.com>
+Date:   Sun May 18 08:46:05 2025 +0000
+
+    Log Table Completed
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mindex 86e387e0..a0863b9e 100644[m
+[1m--- a/.gitignore[m
+[1m+++ b/.gitignore[m
+[36m@@ -2,5 +2,5 @@[m [mcreate-sample-log-files.py[m
+ web_log.log[m
+ *.csv[m
+ .db[m
+[31m-.venv[m
+[31m-[m
+[32m+[m[32mvenv/[m
+[32m+[m[32mmetadata/[m
+[1mdiff --git a/Task-2/normalized_erd b/Task-2/normalized_erd[m
+[1mindex 672a94dd..1ca026ab 100644[m
+[1m--- a/Task-2/normalized_erd[m
+[1m+++ b/Task-2/normalized_erd[m
+[36m@@ -1,6 +1,6 @@[m
+ digraph ERD {[m
+ 	Customer [label="Customer[m
+[31m-(Customer ID, Customer Name, Segment)"][m
+[32m+[m[32m(Customer ID, Customer Name, Segment,Country)"][m
+ 	Product [label="Product[m
+ (Product ID, Category, Sub-Category, Product Name)"][m
+ 	Order [label="Order[m
+[1mdiff --git a/Task-2/normalized_erd.png b/Task-2/normalized_erd.png[m
+[1mindex d5557e44..1188a557 100644[m
+Binary files a/Task-2/normalized_erd.png and b/Task-2/normalized_erd.png differ
+[1mdiff --git a/Task-2/superstore.ipynb b/Task-2/superstore.ipynb[m
+[1mindex 32cf1ac6..8bdd13ed 100644[m
+[1m--- a/Task-2/superstore.ipynb[m
+[1m+++ b/Task-2/superstore.ipynb[m
+[36m@@ -2,7 +2,7 @@[m
+  "cells": [[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 4,[m
+[32m+[m[32m   "execution_count": 1,[m
+    "metadata": {},[m
+    "outputs": [],[m
+    "source": [[m
+[36m@@ -13,20 +13,161 @@[m
+   },[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 5,[m
+[32m+[m[32m   "execution_count": 3,[m
+    "metadata": {},[m
+[31m-   "outputs": [],[m
+[32m+[m[32m   "outputs": [[m
+[32m+[m[32m    {[m
+[32m+[m[32m     "name": "stdout",[m
+[32m+[m[32m     "output_type": "stream",[m
+[32m+[m[32m     "text": [[m
+[32m+[m[32m      "    Row ID        Order ID  Order Date   Ship Date       Ship Mode  \\\n",[m
+[32m+[m[32m      "0        1  CA-2016-152156   11/8/2016  11/11/2016    Second Class   \n",[m
+[32m+[m[32m      "1        2  CA-2016-152156   11/8/2016  11/11/2016    Second Class   \n",[m
+[32m+[m[32m      "2        3  CA-2016-138688   6/12/2016   6/16/2016    Second Class   \n",[m
+[32m+[m[32m      "3        4  US-2015-108966  10/11/2015  10/18/2015  Standard Class   \n",[m
+[32m+[m[32m      "4        5  US-2015-108966  10/11/2015  10/18/2015  Standard Class   \n",[m
+[32m+[m[32m      "5        6  CA-2014-115812    6/9/2014   6/14/2014  Standard Class   \n",[m
+[32m+[m[32m      "6        7  CA-2014-115812    6/9/2014   6/14/2014  Standard Class   \n",[m
+[32m+[m[32m      "7        8  CA-2014-115812    6/9/2014   6/14/2014  Standard Class   \n",[m
+[32m+[m[32m      "8        9  CA-2014-115812    6/9/2014   6/14/2014  Standard Class   \n",[m
+[32m+[m[32m      "9       10  CA-2014-115812    6/9/2014   6/14/2014  Standard Class   \n",[m
+[32m+[m[32m      "10      11  CA-2014-115812    6/9/2014   6/14/2014  Standard Class   \n",[m
+[32m+[m[32m      "11      12  CA-2014-115812    6/9/2014   6/14/2014  Standard Class   \n",[m
+[32m+[m[32m      "12      13  CA-2017-114412   4/15/2017   4/20/2017  Standard Class   \n",[m
+[32m+[m[32m      "13      14  CA-2016-161389   12/5/2016  12/10/2016  Standard Class   \n",[m
+[32m+[m[32m      "14      15  US-2015-118983  11/22/2015  11/26/2015  Standard Class   \n",[m
+[32m+[m[32m      "15      16  US-2015-118983  11/22/2015  11/26/2015  Standard Class   \n",[m
+[32m+[m[32m      "16      17  CA-2014-105893  11/11/2014  11/18/2014  Standard Class   \n",[m
+[32m+[m[32m      "17      18  CA-2014-167164   5/13/2014   5/15/2014    Second Class   \n",[m
+[32m+[m[32m      "18      19  CA-2014-143336   8/27/2014    9/1/2014    Second Class   \n",[m
+[32m+[m[32m      "19      20  CA-2014-143336   8/27/2014    9/1/2014    Second Class   \n",[m
+[32m+[m[32m      "\n",[m
+[32m+[m[32m      "   Customer ID       Customer Name      Segment        Country  \\\n",[m
+[32m+[m[32m      "0     CG-12520         Claire Gute     Consumer  United States   \n",[m
+[32m+[m[32m      "1     CG-12520         Claire Gute     Consumer  United States   \n",[m
+[32m+[m[32m      "2     DV-13045     Darrin Van Huff    Corporate  United States   \n",[m
+[32m+[m[32m      "3     SO-20335      Sean O'Donnell     Consumer  United States   \n",[m
+[32m+[m[32m      "4     SO-20335      Sean O'Donnell     Consumer  United States   \n",[m
+[32m+[m[32m      "5     BH-11710     Brosina Hoffman     Consumer  United States   \n",[m
+[32m+[m[32m      "6     BH-11710     Brosina Hoffman     Consumer  United States   \n",[m
+[32m+[m[32m      "7     BH-11710     Brosina Hoffman     Consumer  United States   \n",[m
+[32m+[m[32m      "8     BH-11710     Brosina Hoffman     Consumer  United States   \n",[m
+[32m+[m[32m      "9     BH-11710     Brosina Hoffman     Consumer  United States   \n",[m
+[32m+[m[32m      "10    BH-11710     Brosina Hoffman     Consumer  United States   \n",[m
+[32m+[m[32m      "11    BH-11710     Brosina Hoffman     Consumer  United States   \n",[m
+[32m+[m[32m      "12    AA-10480        Andrew Allen     Consumer  United States   \n",[m
+[32m+[m[32m      "13    IM-15070        Irene Maddox     Consumer  United States   \n",[m
+[32m+[m[32m      "14    HP-14815       Harold Pawlan  Home Office  United States   \n",[m
+[32m+[m[32m      "15    HP-14815       Harold Pawlan  Home Office  United States   \n",[m
+[32m+[m[32m      "16    PK-19075           Pete Kriz     Consumer  United States   \n",[m
+[32m+[m[32m      "17    AG-10270     Alejandro Grove     Consumer  United States   \n",[m
+[32m+[m[32m      "18    ZD-21925  Zuschuss Donatelli     Consumer  United States   \n",[m
+[32m+[m[32m      "19    ZD-21925  Zuschuss Donatelli     Consumer  United States   \n",[m
+[32m+[m[32m      "\n",[m
+[32m+[m[32m      "               City  ... Postal Code   Region       Product ID  \\\n",[m
+[32m+[m[32m      "0         Henderson  ...       42420    South  FUR-BO-10001798   \n",[m
+[32m+[m[32m      "1         Henderson  ...       42420    South  FUR-CH-10000454   \n",[m
+[32m+[m[32m      "2       Los Angeles  ...       90036     West  OFF-LA-10000240   \n",[m
+[32m+[m[32m      "3   Fort Lauderdale  ...       33311    South  FUR-TA-10000577   \n",[m
+[32m+[m[32m      "4   Fort Lauderdale  ...       33311    South  OFF-ST-10000760   \n",[m
+[32m+[m[32m      "5       Los Angeles  ...       90032     West  FUR-FU-10001487   \n",[m
+[32m+[m[32m      "6       Los Angeles  ...       90032     West  OFF-AR-10002833   \n",[m
+[32m+[m[32m      "7       Los Angeles  ...       90032     West  TEC-PH-10002275   \n",[m
+[32m+[m[32m      "8       Los Angeles  ...       90032     West  OFF-BI-10003910   \n",[m
+[32m+[m[32m      "9       Los Angeles  ...       90032     West  OFF-AP-10002892   \n",[m
+[32m+[m[32m      "10      Los Angeles  ...       90032     West  FUR-TA-10001539   \n",[m
+[32m+[m[32m      "11      Los Angeles  ...       90032     West  TEC-PH-10002033   \n",[m
+[32m+[m[32m      "12          Concord  ...       28027    South  OFF-PA-10002365   \n",[m
+[32m+[m[32m      "13          Seattle  ...       98103     West  OFF-BI-10003656   \n",[m
+[32m+[m[32m      "14       Fort Worth  ...       76106  Central  OFF-AP-10002311   \n",[m
+[32m+[m[32m      "15       Fort Worth  ...       76106  Central  OFF-BI-10000756   \n",[m
+[32m+[m[32m      "16          Madison  ...       53711  Central  OFF-ST-10004186   \n",[m
+[32m+[m[32m      "17      West Jordan  ...       84084     West  OFF-ST-10000107   \n",[m
+[32m+[m[32m      "18    San Francisco  ...       94109     West  OFF-AR-10003056   \n",[m
+[32m+[m[32m      "19    San Francisco  ...       94109     West  TEC-PH-10001949   \n",[m
+[32m+[m[32m      "\n",[m
+[32m+[m[32m      "           Category Sub-Category  \\\n",[m
+[32m+[m[32m      "0         Furnitur
