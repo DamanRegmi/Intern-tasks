@@ -2,5 +2,5 @@ create-sample-log-files.py
 web_log.log
 *.csv
 .db
-.venv
-
+venv/
+metadata/

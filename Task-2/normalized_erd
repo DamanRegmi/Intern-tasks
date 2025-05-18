@@ -1,6 +1,6 @@
 digraph ERD {
 	Customer [label="Customer
-(Customer ID, Customer Name, Segment)"]
+(Customer ID, Customer Name, Segment,Country)"]
 	Product [label="Product
 (Product ID, Category, Sub-Category, Product Name)"]
 	Order [label="Order
