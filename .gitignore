@@ -4,3 +4,4 @@ web_log.log
 .db
 venv/
 create_views.sql
+data/
